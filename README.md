@@ -1,7 +1,7 @@
 Diwali Sales Analysis Dashboard
 
 This project analyzes festive season sales data covering categories like clothes, lights, firecrackers, and sweets. It includes data cleaning, exploratory data analysis (EDA), visualization, and an interactive web-based dashboard built using HTML, CSS, and JavaScript to present insights in a simple and visual way.
-NOTE:- due to the github upload limit. Iwas only able to add only three images from each section 
+NOTE:- due to the github upload limit. I was only able to add only three images from each section.
 
 Features
 
