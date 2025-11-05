@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>analysis</title>
+    <link rel="icon" href="/assignments/images/shopping_app-removebg-preview.ico">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+
+
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alan Sans", sans-serif;
+    background-color: #fff3e0;
+  }
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  .h1 {
+    font-family: "Bitcount Prop Single Ink", system-ui;
+    padding-right: 35rem;
+  }
+  .products {
+    display: flex;
+    overflow-x: auto;
+    padding: 40px;
+  }
+  .product {
+    flex: 0 0 auto;
+    width: 200px;
+    height: 400px;
+    margin-right: 20px;
+    background-color: #ffe0b2;
+    border-radius: 10px;
+    padding: 35px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  .product:hover {
+    transform: scale(1.05);
+  }
+  .product img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  .back {
+    position: sticky;
+    left: 50px;
+    padding-right:30rem ;
+  }
+  .back:hover, .back:focus {
+    color: blue;
+    transform: translateX(2px);
+    transform: translateY(-2px);
+    transition: all 0.3s ease-in-out;
+  }
+        /* Reveal animation */
+.charts-row {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  padding: 40px;
+}
+
+.charts-row img {
+  width: 300px;
+  height: 350px;
+  object-fit: contain;
+  border-radius: 12px;
+  background: white;
+  border: 1px solid #ccc;
+}
+
+
+.chart-animate {
+  opacity: 0;
+  filter: blur(10px);
+  transform: translateY(20px);
+  animation: chartReveal 0.9s ease-out forwards;
+}
+
+@keyframes chartReveal {
+  0% {
+    opacity: 0;
+    filter: blur(10px);
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+  }
+}
+    </style>
+</head>
+<header>
+        <a class="back" href="/assignments/firecracker.html">Go back</a>
+        <h1 class="h1">ROCKET</h1>
+</header>
+<body>
+  <div class="charts-row">
+    <img class="chart-animate" src="/assignments/final analysis page/firecracker/rocket/1.png" alt="">
+    <img class="chart-animate" src="/assignments/final analysis page/firecracker/rocket/2.png" alt="">
+    <img class="chart-animate" src="/assignments/final analysis page/firecracker/rocket/3.png" alt="">
+    <img class="chart-animate" src="/assignments/final analysis page/firecracker/rocket/4.png" alt="">
+    <img class="chart-animate" src="/assignments/final analysis page/firecracker/rocket/5.png" alt="">
+    <img class="chart-animate" src="/assignments/final analysis page/firecracker/rocket/6.png" alt="">
+    <img class="chart-animate" src="/assignments/final analysis page/firecracker/rocket/7.png" alt="">
+    </div>
+</body>
+</html>
