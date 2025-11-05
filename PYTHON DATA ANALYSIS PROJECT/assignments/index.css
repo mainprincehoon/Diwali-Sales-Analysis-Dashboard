@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Alan Sans", sans-serif;
+  background-color: #fff8e1;
+}
+
+header {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  background-color: white;
+  color: black;
+  font-size: 2em;
+  font-family: "Bitcount Prop Single Ink", system-ui;
+  font-style: italic;
+  /* padding: 1rem 2rem; */
+}
+
+.icon {
+  width: 80px;
+  height: 80px;
+  margin-left: 3rem;
+}
+
+.header-buttons {
+  display: flex;
+  margin-left: 3rem;
+  gap: 15px;
+}
+
+.header-buttons button {
+  font-family: "Alan Sans", sans-serif;
+  background-color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+  color: black;
+}
+
+.header-buttons button:hover , .cart:hover, .profile:hover {
+  background-color: rgb(213, 234, 253);
+  transition: background-color 0.3s;
+  border-radius: 5px;
+}
+
+.fixed-search-ico {
+    position: sticky;
+    left: 360px;
+}
+.search-bar {
+    background-color: aliceblue;
+    border: 0;
+    border-radius: 10px;
+    width: 700px;
+    margin-left: 4rem;
+    padding: 1rem 2.5rem;
+}
+
+
+/* .section-container {
+  display: grid;  
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-around;
+  margin: 20px;
+} */
+
+.section-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 2rem;
+  width: 90vw;
+  margin: 2rem auto;
+}
+
+.section {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;           /* Ensures each box is big but fixed size */
+  font-size: 2em;
+  font-weight: 700;
+  border-radius: 16px;
+  background: none;            /* No background here */
+  color: #00ff77;
+}
+
+.section .oblique {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-align: center;
+  transition: all ease-in-out 0.5s;
+}
+.section .obliquefire {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-align: center;
+  transition: all ease-in-out 0.5s;
+}
+.section:hover .oblique {
+  color: red;       /* Ensure text stays black or your preferred color */
+  filter: brightness(150%);
+  transform: translateY(-10px);
+  font-size: larger;
+  box-shadow: 0 0 10px black;
+  opacity: 1;        /* Fully opaque */
+  position: relative; /* Ensure it stays above */
+  z-index: 3;        /* Make text layer above the ::before background */
+}
+
+.section:hover .obliquefire {
+  color: green;       /* Ensure text stays black or your preferred color */
+  filter: brightness(150%);
+  transform: translateY(-10px);
+  font-size: larger;
+  box-shadow: 0 0 10px black;
+  opacity: 1;        /* Fully opaque */
+  position: relative; /* Ensure it stays above */
+  z-index: 3;        /* Make text layer above the ::before background */
+}
+
+
+
+.section::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.5;
+  transition: opacity 0.3s;
+  z-index: 1;
+  border-radius: 16px;         /* Match container */
+}
+
+/* Each box gets its own image */
+.Firecrackers::before {
+  background-image: url('/assignments/images/firecrackers.png');
+}
+.Sweets::before {
+  background-image: url('/assignments/images/sweets.png');
+}
+.Kurtas::before {
+  background-image: url('/assignments/images/clothes.png');
+}
+.Lights::before {
+  background-image: url('/assignments/images/lights.png');
+}
+
+
+
+/* Hover effect */
+.section:hover::before {
+  opacity: 1;
+}
+
+
+.section:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  transition: all ease-in-out 0.5s;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 1.5em;
+  display: block;
+}
+
+.section a:hover {
+  text-decoration: underline;
+}
+
+.cart, .profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

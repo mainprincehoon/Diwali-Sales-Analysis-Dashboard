@@ -1,0 +1,62 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+1270,Customer_4,Female,47,Married,Bihar,Patna,Healthcare,Ladoo,599,2,20,Credit Card,2024-10-27,958.4000000000001,232.26302740540262
+1106,Customer_5,Male,36,Single,Maharashtra,Mumbai,IT,Ladoo,714,2,12,Debit Card,2024-11-01,1256.64,372.25289182377503
+1020,Customer_8,Male,45,Married,Madhya Pradesh,Mumbai,Healthcare,Ladoo,478,5,5,Net Banking,2024-10-27,2270.5,425.48983168075836
+1458,Customer_14,Female,29,Single,Maharashtra,Lucknow,Student,Ladoo,520,2,3,Debit Card,2024-10-26,1008.8,260.7939906623442
+1087,Customer_15,Female,18,Single,Bihar,Patna,Student,Ladoo,485,3,24,UPI,2024-11-03,1105.8,311.37089723230065
+1343,Customer_24,Female,22,Single,Bihar,Delhi,Business,Ladoo,708,1,5,UPI,2024-11-01,672.6,100.5322192839831
+1191,Customer_29,Male,43,Single,Maharashtra,Patna,IT,Ladoo,540,2,1,Net Banking,2024-10-31,1069.2,271.92469864366547
+1021,Customer_35,Female,45,Single,Uttar Pradesh,Bhopal,Business,Ladoo,510,1,23,Debit Card,2024-10-29,392.7,57.23027427006743
+1252,Customer_36,Male,22,Married,Delhi,Mumbai,Business,Ladoo,461,4,1,UPI,2024-10-29,1825.56,414.1697951713194
+1975,Customer_46,Female,50,Single,Maharashtra,Patna,Healthcare,Ladoo,438,2,19,Net Banking,2024-11-03,709.5600000000001,87.7729443200609
+1957,Customer_49,Female,40,Married,Delhi,Delhi,Healthcare,Ladoo,793,5,18,Credit Card,2024-11-01,3251.3,923.064244092843
+1646,Customer_61,Male,33,Married,Delhi,Delhi,Education,Ladoo,777,3,14,Cash,2024-11-01,2004.66,301.1004865941206
+1273,Customer_65,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Ladoo,465,4,15,Credit Card,2024-10-26,1581.0,234.11413625692688
+1776,Customer_71,Male,52,Single,Bihar,Mumbai,Student,Ladoo,309,3,14,Cash,2024-10-25,797.22,85.92914907249774
+1564,Customer_73,Female,50,Married,Uttar Pradesh,Lucknow,Student,Ladoo,437,3,5,Cash,2024-11-03,1245.45,168.19099121384053
+1091,Customer_76,Male,20,Married,Uttar Pradesh,Lucknow,Business,Ladoo,682,2,0,Credit Card,2024-10-30,1364.0,395.68526173294066
+1955,Customer_78,Male,50,Married,Bihar,Patna,Business,Ladoo,316,4,22,Debit Card,2024-10-31,985.9200000000001,184.68533239536438
+1454,Customer_79,Male,57,Single,Delhi,Delhi,Education,Ladoo,681,3,22,Credit Card,2024-11-01,1593.54,344.2329523198325
+1942,Customer_83,Male,29,Single,Maharashtra,Delhi,Business,Ladoo,779,1,14,UPI,2024-10-30,669.9399999999999,114.29851586974131
+1561,Customer_88,Female,34,Married,Delhi,Delhi,Education,Ladoo,742,4,24,Credit Card,2024-10-27,2255.68,577.6189715645125
+1871,Customer_89,Female,43,Single,Madhya Pradesh,Mumbai,Business,Ladoo,731,3,20,Debit Card,2024-11-02,1754.4,342.5766821006896
+1387,Customer_90,Female,25,Single,Bihar,Bhopal,Education,Ladoo,646,3,20,Debit Card,2024-10-26,1550.4,309.31715735346336
+1001,Customer_91,Male,46,Married,Uttar Pradesh,Delhi,IT,Ladoo,589,1,13,Cash,2024-10-28,512.43,72.2198456568448
+1565,Customer_93,Female,27,Married,Bihar,Bhopal,Education,Ladoo,453,5,13,UPI,2024-10-26,1970.55,270.41301866357196
+1821,Customer_96,Female,58,Married,Uttar Pradesh,Lucknow,Healthcare,Ladoo,666,4,16,Debit Card,2024-10-25,2237.7599999999998,316.4531925639366
+1269,Customer_106,Male,54,Married,Bihar,Patna,Education,Ladoo,282,5,22,Debit Card,2024-11-02,1099.8,279.596174574781
+1455,Customer_110,Female,52,Single,Bihar,Bhopal,Student,Ladoo,355,5,5,Debit Card,2024-10-31,1686.25,350.43463791021895
+1461,Customer_111,Female,53,Single,Madhya Pradesh,Delhi,Student,Ladoo,389,3,13,UPI,2024-10-29,1015.29,158.8872859538402
+1251,Customer_113,Female,56,Single,Bihar,Lucknow,Healthcare,Ladoo,462,5,20,Credit Card,2024-10-29,1848.0,198.68627501143618
+1878,Customer_120,Male,30,Single,Maharashtra,Mumbai,Healthcare,Ladoo,579,2,24,UPI,2024-10-29,880.08,259.28532593373814
+1052,Customer_121,Female,40,Single,Delhi,Patna,Education,Ladoo,420,3,7,Debit Card,2024-10-28,1171.8,170.17473263167312
+1791,Customer_122,Male,42,Married,Delhi,Lucknow,Business,Ladoo,619,2,23,Debit Card,2024-10-27,953.26,153.32209429609622
+1921,Customer_123,Female,52,Single,Bihar,Delhi,IT,Ladoo,323,3,13,Cash,2024-10-27,843.03,135.54953122127114
+1014,Customer_131,Male,36,Married,Bihar,Delhi,Student,Ladoo,354,5,18,Credit Card,2024-10-27,1451.4,391.4209190423976
+1471,Customer_140,Male,31,Single,Madhya Pradesh,Patna,Education,Ladoo,604,1,8,UPI,2024-10-26,555.6800000000001,145.22069100479456
+1839,Customer_157,Male,22,Married,Uttar Pradesh,Mumbai,Business,Ladoo,507,5,24,Cash,2024-10-27,1926.6,467.941918899931
+1642,Customer_178,Male,55,Single,Maharashtra,Lucknow,Education,Ladoo,771,2,11,Net Banking,2024-10-26,1372.38,372.336911025436
+1502,Customer_182,Female,39,Single,Delhi,Bhopal,IT,Ladoo,209,2,17,Net Banking,2024-11-03,346.94,100.41072720932591
+1392,Customer_187,Male,53,Married,Madhya Pradesh,Patna,Business,Ladoo,278,2,19,Debit Card,2024-10-25,450.36,111.18883384991267
+1690,Customer_194,Male,43,Single,Madhya Pradesh,Mumbai,Education,Ladoo,300,4,8,UPI,2024-11-03,1104.0,207.03562125512335
+1733,Customer_202,Male,25,Single,Madhya Pradesh,Mumbai,Student,Ladoo,607,2,12,UPI,2024-10-30,1068.32,260.3397442007253
+1406,Customer_204,Male,56,Married,Bihar,Bhopal,Student,Ladoo,216,1,14,UPI,2024-11-03,185.76,25.235704493598213
+1654,Customer_207,Male,30,Single,Bihar,Bhopal,Education,Ladoo,431,5,21,Net Banking,2024-10-29,1702.45,305.2675631807626
+1035,Customer_210,Female,50,Married,Delhi,Delhi,Student,Ladoo,635,2,14,Cash,2024-10-29,1092.2,143.57475959477702
+1556,Customer_220,Female,52,Married,Maharashtra,Delhi,Education,Ladoo,549,5,19,Net Banking,2024-10-31,2223.4500000000003,625.2728549254117
+1027,Customer_225,Male,31,Married,Madhya Pradesh,Delhi,Student,Ladoo,749,2,6,Debit Card,2024-10-25,1408.12,221.81627968419684
+1339,Customer_228,Female,18,Single,Delhi,Lucknow,Business,Ladoo,536,4,11,Debit Card,2024-11-01,1908.16,427.92107991570083
+1639,Customer_232,Male,28,Married,Maharashtra,Delhi,Student,Ladoo,662,3,11,UPI,2024-11-01,1767.54,200.91740313517286
+1347,Customer_234,Male,27,Single,Uttar Pradesh,Mumbai,Student,Ladoo,581,1,23,Debit Card,2024-11-02,447.37,70.30494033460778
+1376,Customer_240,Female,41,Married,Delhi,Lucknow,Healthcare,Ladoo,389,5,22,Credit Card,2024-11-03,1517.1000000000001,438.2745889611055
+1632,Customer_243,Female,45,Single,Uttar Pradesh,Patna,IT,Ladoo,687,3,21,Credit Card,2024-10-31,1628.19,368.7140959462538
+1627,Customer_244,Male,53,Single,Bihar,Mumbai,Business,Ladoo,573,5,24,UPI,2024-10-29,2177.4,304.39709667405555
+1648,Customer_252,Female,44,Married,Madhya Pradesh,Delhi,Healthcare,Ladoo,472,3,0,Debit Card,2024-10-31,1416.0,160.71672122085837
+1317,Customer_253,Male,34,Married,Madhya Pradesh,Lucknow,Education,Ladoo,601,4,24,Net Banking,2024-11-03,1827.04,372.24149295462445
+1671,Customer_263,Male,35,Married,Madhya Pradesh,Bhopal,Education,Ladoo,743,3,23,Credit Card,2024-10-25,1716.33,262.35005574941346
+1232,Customer_266,Male,19,Single,Maharashtra,Mumbai,Healthcare,Ladoo,696,3,5,Net Banking,2024-10-30,1983.6,304.89271170714113
+1691,Customer_267,Female,27,Married,Maharashtra,Mumbai,Business,Ladoo,432,4,16,Net Banking,2024-11-01,1451.52,228.6032711663313
+1829,Customer_269,Female,22,Married,Bihar,Bhopal,Student,Ladoo,348,4,16,Net Banking,2024-11-02,1169.28,343.42626624201
+1563,Customer_272,Female,35,Married,Maharashtra,Patna,IT,Ladoo,559,4,19,UPI,2024-11-03,1811.16,208.4948036135864
+1854,Customer_289,Male,34,Married,Delhi,Delhi,Business,Ladoo,606,4,20,Net Banking,2024-10-30,1939.2,529.8265305399584
+1729,Customer_299,Female,27,Single,Delhi,Delhi,IT,Ladoo,612,3,10,UPI,2024-10-30,1652.4,390.00337590251553

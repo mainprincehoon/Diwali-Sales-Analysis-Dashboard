@@ -1,0 +1,49 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+3435,Customer_2,Female,30,Married,Bihar,Mumbai,Education,Chakri,769,3,21,Cash,2024-11-01,1822.53,371.44338030090125
+3614,Customer_9,Male,43,Married,Uttar Pradesh,Patna,Education,Chakri,614,4,1,Net Banking,2024-10-31,2431.44,304.19756283650116
+3663,Customer_19,Male,42,Single,Delhi,Patna,Education,Chakri,1077,1,9,Cash,2024-10-26,980.07,166.23860959928882
+3955,Customer_30,Female,33,Married,Madhya Pradesh,Mumbai,Healthcare,Chakri,460,4,5,UPI,2024-11-03,1748.0,334.91531734764857
+3459,Customer_33,Female,46,Married,Uttar Pradesh,Mumbai,Student,Chakri,860,2,18,Net Banking,2024-10-27,1410.4,159.5712058138475
+3747,Customer_37,Male,47,Married,Delhi,Mumbai,Business,Chakri,410,4,19,Net Banking,2024-10-30,1328.4,331.4210299446097
+3681,Customer_43,Male,38,Married,Bihar,Bhopal,IT,Chakri,589,2,23,Debit Card,2024-11-01,907.0600000000001,270.5447772785684
+3475,Customer_44,Male,56,Married,Delhi,Delhi,Healthcare,Chakri,111,1,7,Net Banking,2024-10-31,103.22999999999999,21.564382242994224
+3686,Customer_50,Male,27,Married,Uttar Pradesh,Bhopal,Student,Chakri,1190,1,8,Cash,2024-10-29,1094.8,140.31021368954035
+3600,Customer_67,Female,44,Single,Maharashtra,Delhi,Student,Chakri,921,1,24,Credit Card,2024-10-29,699.96,90.61724777470162
+3339,Customer_75,Male,29,Married,Uttar Pradesh,Lucknow,Education,Chakri,1016,4,11,Cash,2024-11-03,3616.96,723.8286185447463
+3427,Customer_80,Male,27,Single,Delhi,Mumbai,Education,Chakri,227,3,3,UPI,2024-10-27,660.5699999999999,126.78516468837717
+3476,Customer_97,Female,24,Single,Madhya Pradesh,Patna,Business,Chakri,741,4,6,Credit Card,2024-10-25,2786.16,675.2107224914822
+3161,Customer_102,Male,42,Married,Maharashtra,Bhopal,IT,Chakri,1082,4,17,Cash,2024-11-02,3592.24,785.666666901018
+3862,Customer_107,Male,26,Single,Madhya Pradesh,Lucknow,Business,Chakri,362,1,0,Net Banking,2024-11-01,362.0,93.58388641927894
+3270,Customer_109,Female,52,Single,Bihar,Lucknow,IT,Chakri,863,3,7,Debit Card,2024-11-02,2407.77,695.2202768289485
+3719,Customer_117,Male,49,Married,Delhi,Lucknow,Business,Chakri,521,1,21,Cash,2024-10-27,411.59000000000003,61.519560117595304
+3216,Customer_124,Male,58,Married,Madhya Pradesh,Mumbai,IT,Chakri,1081,4,15,UPI,2024-11-03,3675.4,376.4367590797811
+3379,Customer_127,Female,37,Married,Maharashtra,Mumbai,Business,Chakri,609,3,22,Debit Card,2024-10-26,1425.06,406.48242383187903
+3492,Customer_128,Female,42,Single,Delhi,Bhopal,IT,Chakri,485,3,20,UPI,2024-11-03,1164.0,169.63595429172014
+3812,Customer_132,Male,53,Single,Maharashtra,Mumbai,Student,Chakri,760,2,3,Debit Card,2024-10-27,1474.3999999999999,397.51065138168553
+3418,Customer_147,Male,42,Married,Uttar Pradesh,Lucknow,Education,Chakri,799,3,5,UPI,2024-10-29,2277.15,406.4522317544921
+3772,Customer_150,Male,40,Married,Uttar Pradesh,Lucknow,Business,Chakri,407,2,18,Cash,2024-11-02,667.48,193.6931636517122
+3489,Customer_151,Male,33,Married,Delhi,Patna,IT,Chakri,282,2,11,Cash,2024-10-30,501.96,108.13449065755908
+3027,Customer_154,Female,56,Single,Bihar,Mumbai,IT,Chakri,645,1,1,Debit Card,2024-10-31,638.55,95.91038665642836
+3929,Customer_159,Male,40,Married,Delhi,Patna,Healthcare,Chakri,120,3,20,Credit Card,2024-10-30,288.0,39.835753674325964
+3032,Customer_160,Male,46,Married,Bihar,Patna,IT,Chakri,653,2,23,UPI,2024-10-28,1005.62,285.2419180685106
+3573,Customer_164,Male,26,Single,Maharashtra,Bhopal,IT,Chakri,291,3,11,Credit Card,2024-10-28,776.97,83.74648272102878
+3725,Customer_170,Male,57,Married,Delhi,Lucknow,Healthcare,Chakri,128,1,2,Net Banking,2024-11-01,125.44,27.13574008651289
+3960,Customer_173,Female,44,Single,Maharashtra,Mumbai,Healthcare,Chakri,331,4,8,Cash,2024-10-26,1218.0800000000002,247.68399381528246
+3766,Customer_183,Male,34,Single,Madhya Pradesh,Mumbai,Healthcare,Chakri,1055,3,4,UPI,2024-10-26,3038.4,606.1850173521433
+3240,Customer_198,Female,30,Single,Uttar Pradesh,Delhi,Education,Chakri,247,4,5,Cash,2024-11-02,938.5999999999999,224.06598174898082
+3159,Customer_212,Female,23,Single,Uttar Pradesh,Mumbai,Education,Chakri,1091,4,2,Debit Card,2024-10-31,4276.72,474.4032233413117
+3085,Customer_216,Female,38,Married,Maharashtra,Mumbai,Education,Chakri,428,4,13,Credit Card,2024-11-01,1489.44,239.48482709062557
+3952,Customer_222,Male,37,Single,Uttar Pradesh,Patna,Healthcare,Chakri,268,1,6,Debit Card,2024-10-29,251.92,58.598969711823635
+3797,Customer_229,Male,20,Married,Maharashtra,Patna,IT,Chakri,248,3,0,Credit Card,2024-10-29,744.0,195.93678461603864
+3230,Customer_236,Male,33,Single,Maharashtra,Delhi,Business,Chakri,991,4,13,Credit Card,2024-10-29,3448.68,616.068885176195
+3224,Customer_238,Male,55,Single,Uttar Pradesh,Patna,Business,Chakri,621,1,20,UPI,2024-10-31,496.8,115.35837630201374
+3744,Customer_246,Male,25,Married,Delhi,Lucknow,Student,Chakri,1084,4,7,UPI,2024-10-26,4032.4799999999996,437.4614138146653
+3709,Customer_249,Female,54,Married,Maharashtra,Bhopal,Healthcare,Chakri,785,4,5,UPI,2024-10-26,2983.0,475.2276436220582
+3676,Customer_254,Male,26,Married,Bihar,Mumbai,Education,Chakri,596,2,18,UPI,2024-11-01,977.44,197.22599693138434
+3818,Customer_256,Female,37,Married,Maharashtra,Mumbai,Student,Chakri,1042,4,18,Cash,2024-10-25,3417.76,979.4786556592246
+3471,Customer_265,Female,42,Single,Madhya Pradesh,Patna,Business,Chakri,302,1,8,Net Banking,2024-10-26,277.84000000000003,43.01361007656687
+3112,Customer_268,Male,47,Single,Uttar Pradesh,Patna,Healthcare,Chakri,761,2,18,Cash,2024-10-29,1248.0400000000002,211.00411401594198
+3112,Customer_278,Female,39,Single,Bihar,Delhi,IT,Chakri,187,1,8,Net Banking,2024-10-30,172.04000000000002,22.813719873142183
+3951,Customer_281,Male,50,Single,Bihar,Mumbai,IT,Chakri,377,1,19,Cash,2024-10-29,305.37,54.01109962282301
+3001,Customer_285,Female,18,Single,Maharashtra,Lucknow,Student,Chakri,802,3,20,Debit Card,2024-10-30,1924.8000000000002,463.3762671659995
+3996,Customer_290,Female,22,Single,Uttar Pradesh,Delhi,Student,Chakri,207,3,3,Debit Card,2024-10-28,602.37,158.6796957811856

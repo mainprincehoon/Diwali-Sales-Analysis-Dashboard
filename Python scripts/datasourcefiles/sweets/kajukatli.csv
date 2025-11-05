@@ -1,0 +1,64 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+1121,Customer_10,Male,54,Single,Madhya Pradesh,Mumbai,Student,Kaju Katli,303,1,4,Net Banking,2024-10-26,290.88,33.33959295248363
+1466,Customer_11,Female,43,Single,Uttar Pradesh,Bhopal,Healthcare,Kaju Katli,716,4,24,Cash,2024-11-01,2176.64,488.58744869929643
+1330,Customer_13,Male,26,Married,Uttar Pradesh,Mumbai,Healthcare,Kaju Katli,563,2,0,UPI,2024-10-31,1126.0,155.41224273129546
+1130,Customer_20,Female,57,Married,Delhi,Mumbai,IT,Kaju Katli,360,3,8,Cash,2024-11-01,993.6,249.8526843617557
+1491,Customer_25,Male,39,Single,Maharashtra,Mumbai,Student,Kaju Katli,680,4,18,Debit Card,2024-10-31,2230.4,508.8056210774877
+1385,Customer_28,Male,29,Single,Bihar,Lucknow,Healthcare,Kaju Katli,560,2,10,UPI,2024-10-30,1008.0,214.72119899047564
+1276,Customer_31,Female,54,Single,Uttar Pradesh,Patna,Business,Kaju Katli,379,1,11,Debit Card,2024-10-31,337.31,34.54750046394976
+1160,Customer_32,Male,39,Single,Bihar,Lucknow,Business,Kaju Katli,606,1,11,Debit Card,2024-10-25,539.34,54.9089615826451
+1313,Customer_34,Male,31,Single,Uttar Pradesh,Patna,Student,Kaju Katli,665,5,20,Cash,2024-11-02,2660.0,758.735244405708
+1058,Customer_41,Male,43,Married,Madhya Pradesh,Delhi,IT,Kaju Katli,515,2,20,Cash,2024-11-02,824.0,98.12180090121711
+1189,Customer_48,Female,54,Married,Delhi,Delhi,Healthcare,Kaju Katli,241,2,8,UPI,2024-10-28,443.44,79.62733464253529
+1566,Customer_54,Male,48,Single,Uttar Pradesh,Mumbai,Education,Kaju Katli,333,4,22,Debit Card,2024-10-26,1038.96,185.4456714329961
+1818,Customer_60,Male,21,Married,Bihar,Delhi,IT,Kaju Katli,604,5,10,UPI,2024-10-31,2718.0,699.9116830728323
+1020,Customer_62,Female,41,Married,Delhi,Bhopal,Education,Kaju Katli,329,5,2,Cash,2024-10-26,1612.1,343.07874837650274
+1840,Customer_63,Female,33,Married,Maharashtra,Delhi,Healthcare,Kaju Katli,665,2,0,Debit Card,2024-10-31,1330.0,228.38187076561627
+1508,Customer_81,Male,46,Single,Delhi,Lucknow,Education,Kaju Katli,736,4,3,Cash,2024-11-01,2855.68,718.9324344659435
+1775,Customer_82,Male,30,Married,Delhi,Delhi,IT,Kaju Katli,278,1,24,Net Banking,2024-11-02,211.28,33.065153763748846
+1389,Customer_92,Female,43,Single,Uttar Pradesh,Patna,Student,Kaju Katli,242,4,19,Credit Card,2024-10-28,784.08,171.10668963578755
+1105,Customer_94,Male,43,Single,Bihar,Delhi,Education,Kaju Katli,329,1,3,Credit Card,2024-10-27,319.13,53.07544848266271
+1771,Customer_95,Male,51,Married,Delhi,Delhi,IT,Kaju Katli,259,1,11,Cash,2024-10-27,230.51,62.469602355082245
+1729,Customer_100,Female,46,Married,Bihar,Lucknow,Education,Kaju Katli,544,3,12,Debit Card,2024-10-29,1436.16,289.2197712366537
+1995,Customer_105,Male,27,Married,Madhya Pradesh,Lucknow,Business,Kaju Katli,656,4,5,Cash,2024-10-25,2492.7999999999997,595.0902187341353
+1815,Customer_108,Male,41,Single,Bihar,Mumbai,IT,Kaju Katli,348,2,23,Net Banking,2024-10-31,535.92,69.84056649737384
+1726,Customer_112,Female,35,Single,Madhya Pradesh,Mumbai,Education,Kaju Katli,693,1,3,Debit Card,2024-10-29,672.21,124.38952770661446
+1724,Customer_116,Female,40,Single,Delhi,Mumbai,Student,Kaju Katli,459,5,18,Credit Card,2024-10-25,1881.9,188.19437908922473
+1337,Customer_119,Female,29,Married,Madhya Pradesh,Patna,Business,Kaju Katli,558,3,16,Net Banking,2024-11-02,1406.1599999999999,155.98094720571342
+1064,Customer_133,Female,29,Married,Uttar Pradesh,Lucknow,Healthcare,Kaju Katli,725,2,9,Debit Card,2024-10-27,1319.5,211.89346599850927
+1343,Customer_137,Male,26,Married,Madhya Pradesh,Patna,Student,Kaju Katli,382,1,12,Credit Card,2024-10-26,336.16,45.826270280211915
+1128,Customer_138,Male,24,Single,Madhya Pradesh,Mumbai,Healthcare,Kaju Katli,585,1,6,UPI,2024-10-29,549.9,95.78609207719101
+1138,Customer_142,Female,36,Married,Bihar,Mumbai,IT,Kaju Katli,790,4,24,Net Banking,2024-11-02,2401.6,602.4405240904971
+1592,Customer_144,Female,22,Single,Uttar Pradesh,Lucknow,Business,Kaju Katli,622,1,14,UPI,2024-10-30,534.92,116.68079803208231
+1230,Customer_152,Female,56,Single,Uttar Pradesh,Mumbai,Business,Kaju Katli,372,3,16,Credit Card,2024-11-01,937.4399999999999,272.27415815687056
+1040,Customer_153,Male,59,Married,Bihar,Bhopal,Business,Kaju Katli,363,4,8,Debit Card,2024-11-01,1335.8400000000001,144.91788056733887
+1134,Customer_155,Male,31,Single,Maharashtra,Delhi,Healthcare,Kaju Katli,696,2,23,Debit Card,2024-10-28,1071.84,236.13790199774465
+1502,Customer_162,Male,35,Single,Bihar,Delhi,IT,Kaju Katli,793,3,8,Cash,2024-10-30,2188.6800000000003,380.51548723107015
+1406,Customer_163,Female,29,Married,Uttar Pradesh,Delhi,Student,Kaju Katli,426,4,13,Net Banking,2024-10-25,1482.48,424.85649005245756
+1804,Customer_166,Male,34,Married,Uttar Pradesh,Lucknow,Business,Kaju Katli,753,3,3,Net Banking,2024-10-27,2191.23,532.1737908043198
+1683,Customer_168,Male,24,Single,Maharashtra,Patna,Healthcare,Kaju Katli,753,5,1,Cash,2024-10-25,3727.35,1059.3087856418642
+1986,Customer_171,Female,59,Married,Madhya Pradesh,Bhopal,Healthcare,Kaju Katli,391,1,21,Net Banking,2024-11-03,308.89,84.12254065417461
+1768,Customer_179,Female,36,Single,Delhi,Delhi,Education,Kaju Katli,759,4,2,Credit Card,2024-10-30,2975.2799999999997,714.7633331584535
+1794,Customer_186,Male,21,Married,Uttar Pradesh,Lucknow,Business,Kaju Katli,399,3,15,Credit Card,2024-10-30,1017.4499999999999,261.72998817860264
+1014,Customer_189,Female,48,Married,Uttar Pradesh,Lucknow,Education,Kaju Katli,666,1,2,Cash,2024-10-28,652.68,68.55664748458196
+1863,Customer_196,Male,56,Single,Bihar,Patna,Business,Kaju Katli,399,5,2,Debit Card,2024-10-25,1955.1,471.1286623471631
+1563,Customer_199,Male,45,Married,Madhya Pradesh,Bhopal,Healthcare,Kaju Katli,242,2,23,Cash,2024-10-25,372.68,109.3469412764921
+1095,Customer_200,Female,37,Married,Uttar Pradesh,Delhi,Business,Kaju Katli,584,5,0,Credit Card,2024-11-01,2920.0,322.1745334482493
+1170,Customer_208,Female,45,Married,Delhi,Patna,Business,Kaju Katli,565,2,11,Debit Card,2024-10-30,1005.7,127.0631608483989
+1838,Customer_213,Male,49,Single,Bihar,Delhi,Business,Kaju Katli,590,1,18,Credit Card,2024-10-31,483.8,132.69802194830706
+1555,Customer_227,Female,48,Married,Bihar,Mumbai,IT,Kaju Katli,419,5,21,UPI,2024-11-02,1655.0500000000002,282.33779422776456
+1505,Customer_233,Female,29,Single,Madhya Pradesh,Mumbai,Business,Kaju Katli,760,3,1,Debit Card,2024-10-27,2257.2,579.5405432910254
+1472,Customer_235,Female,49,Married,Madhya Pradesh,Lucknow,Business,Kaju Katli,789,5,1,Debit Card,2024-10-26,3905.55,728.5935373237801
+1282,Customer_241,Male,45,Single,Delhi,Lucknow,IT,Kaju Katli,569,4,5,Credit Card,2024-11-01,2162.2,493.73162276778845
+1957,Customer_242,Male,25,Single,Bihar,Bhopal,Education,Kaju Katli,348,4,5,Cash,2024-11-02,1322.3999999999999,309.8328052395028
+1258,Customer_247,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Kaju Katli,487,4,11,Net Banking,2024-10-26,1733.72,208.52244398917261
+1410,Customer_251,Female,53,Married,Delhi,Lucknow,Business,Kaju Katli,721,1,9,Credit Card,2024-11-03,656.11,194.25694692391542
+1974,Customer_260,Male,30,Single,Delhi,Delhi,Healthcare,Kaju Katli,634,3,15,Cash,2024-11-01,1616.7,298.355077453284
+1373,Customer_262,Female,23,Single,Delhi,Mumbai,IT,Kaju Katli,321,3,19,Credit Card,2024-10-28,780.0300000000001,140.03291672851915
+1441,Customer_271,Female,18,Married,Delhi,Bhopal,Student,Kaju Katli,501,1,10,Credit Card,2024-10-26,450.90000000000003,52.03200833991867
+1385,Customer_276,Female,43,Married,Madhya Pradesh,Patna,Business,Kaju Katli,455,2,20,UPI,2024-10-28,728.0,160.02089188909554
+1612,Customer_279,Male,44,Married,Uttar Pradesh,Mumbai,Education,Kaju Katli,544,4,10,Cash,2024-11-01,1958.4,300.5760262712418
+1698,Customer_283,Female,58,Single,Delhi,Patna,Healthcare,Kaju Katli,412,5,23,UPI,2024-10-30,1586.2,373.08257962179016
+1129,Customer_296,Male,54,Single,Bihar,Patna,Healthcare,Kaju Katli,714,3,10,Cash,2024-10-25,1927.8,270.9070384172229
+1052,Customer_297,Male,54,Married,Uttar Pradesh,Mumbai,Business,Kaju Katli,218,1,13,Debit Card,2024-10-25,189.66,41.254307262921834
+1683,Customer_298,Male,27,Married,Uttar Pradesh,Bhopal,IT,Kaju Katli,222,4,18,Credit Card,2024-10-26,728.1600000000001,174.92436141420555

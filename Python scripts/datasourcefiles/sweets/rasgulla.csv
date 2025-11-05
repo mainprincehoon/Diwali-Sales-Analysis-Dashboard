@@ -1,0 +1,49 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+1435,Customer_2,Female,30,Married,Bihar,Mumbai,Education,Rasgulla,254,1,22,Cash,2024-10-28,198.12,57.51145480577724
+1614,Customer_9,Male,43,Married,Uttar Pradesh,Patna,Education,Rasgulla,547,3,22,Debit Card,2024-10-30,1279.98,279.9472252132277
+1663,Customer_19,Male,42,Single,Delhi,Patna,Education,Rasgulla,655,3,2,Net Banking,2024-11-03,1925.7,568.9703676838477
+1955,Customer_30,Female,33,Married,Madhya Pradesh,Mumbai,Healthcare,Rasgulla,648,4,14,Credit Card,2024-10-29,2229.12,445.33166074607175
+1459,Customer_33,Female,46,Married,Uttar Pradesh,Mumbai,Student,Rasgulla,395,2,8,Cash,2024-10-25,726.8000000000001,124.57778543948098
+1747,Customer_37,Male,47,Married,Delhi,Mumbai,Business,Rasgulla,618,3,21,Credit Card,2024-10-27,1464.66,211.5191289539358
+1681,Customer_43,Male,38,Married,Bihar,Bhopal,IT,Rasgulla,443,5,0,UPI,2024-10-25,2215.0,234.42220529485218
+1475,Customer_44,Male,56,Married,Delhi,Delhi,Healthcare,Rasgulla,689,4,20,Credit Card,2024-10-31,2204.8,432.5333190460629
+1686,Customer_50,Male,27,Married,Uttar Pradesh,Bhopal,Student,Rasgulla,628,5,14,Cash,2024-10-30,2700.4,806.4771687296344
+1600,Customer_67,Female,44,Single,Maharashtra,Delhi,Student,Rasgulla,452,2,1,Net Banking,2024-10-26,894.96,253.8534506022098
+1339,Customer_75,Male,29,Married,Uttar Pradesh,Lucknow,Education,Rasgulla,635,4,19,Net Banking,2024-10-30,2057.4,321.97435357166694
+1427,Customer_80,Male,27,Single,Delhi,Mumbai,Education,Rasgulla,591,5,2,Net Banking,2024-10-26,2895.9,588.8513707553498
+1476,Customer_97,Female,24,Single,Madhya Pradesh,Patna,Business,Rasgulla,486,4,6,Debit Card,2024-10-30,1827.36,208.74236079890485
+1161,Customer_102,Male,42,Married,Maharashtra,Bhopal,IT,Rasgulla,452,2,17,Debit Card,2024-11-03,750.3199999999999,196.7156833803722
+1862,Customer_107,Male,26,Single,Madhya Pradesh,Lucknow,Business,Rasgulla,298,2,1,Credit Card,2024-11-01,590.04,136.25801825567754
+1270,Customer_109,Female,52,Single,Bihar,Lucknow,IT,Rasgulla,528,3,13,UPI,2024-11-03,1378.08,379.21539194663717
+1719,Customer_117,Male,49,Married,Delhi,Lucknow,Business,Rasgulla,751,3,13,Cash,2024-10-28,1960.11,359.31396921328513
+1216,Customer_124,Male,58,Married,Madhya Pradesh,Mumbai,IT,Rasgulla,621,5,5,Debit Card,2024-10-29,2949.75,430.9093098161306
+1379,Customer_127,Female,37,Married,Maharashtra,Mumbai,Business,Rasgulla,684,4,15,UPI,2024-10-29,2325.6,682.2591788666435
+1492,Customer_128,Female,42,Single,Delhi,Bhopal,IT,Rasgulla,773,1,24,Net Banking,2024-10-30,587.48,85.10158711205966
+1812,Customer_132,Male,53,Single,Maharashtra,Mumbai,Student,Rasgulla,291,4,2,Net Banking,2024-10-26,1140.72,210.49231552347285
+1418,Customer_147,Male,42,Married,Uttar Pradesh,Lucknow,Education,Rasgulla,412,4,23,Net Banking,2024-10-25,1268.96,265.0849722448881
+1772,Customer_150,Male,40,Married,Uttar Pradesh,Lucknow,Business,Rasgulla,412,2,3,Debit Card,2024-10-26,799.28,204.71666382077984
+1489,Customer_151,Male,33,Married,Delhi,Patna,IT,Rasgulla,537,4,7,Net Banking,2024-11-02,1997.6399999999999,432.99757145324196
+1027,Customer_154,Female,56,Single,Bihar,Mumbai,IT,Rasgulla,664,2,0,UPI,2024-10-31,1328.0,203.270622134732
+1929,Customer_159,Male,40,Married,Delhi,Patna,Healthcare,Rasgulla,709,1,10,Net Banking,2024-10-29,638.1,76.89308733416348
+1032,Customer_160,Male,46,Married,Bihar,Patna,IT,Rasgulla,745,5,20,Credit Card,2024-11-01,2980.0,604.2572606672335
+1573,Customer_164,Male,26,Single,Maharashtra,Bhopal,IT,Rasgulla,635,2,8,Debit Card,2024-10-28,1168.4,310.2116768279744
+1725,Customer_170,Male,57,Married,Delhi,Lucknow,Healthcare,Rasgulla,304,2,13,UPI,2024-10-30,528.96,130.01636447469212
+1960,Customer_173,Female,44,Single,Maharashtra,Mumbai,Healthcare,Rasgulla,319,2,23,Credit Card,2024-10-29,491.26,128.42233044671127
+1766,Customer_183,Male,34,Single,Madhya Pradesh,Mumbai,Healthcare,Rasgulla,441,5,20,Debit Card,2024-10-27,1764.0,351.4800880168972
+1240,Customer_198,Female,30,Single,Uttar Pradesh,Delhi,Education,Rasgulla,286,1,1,Net Banking,2024-10-31,283.14,59.25725593885634
+1159,Customer_212,Female,23,Single,Uttar Pradesh,Mumbai,Education,Rasgulla,410,1,8,Debit Card,2024-10-25,377.2,59.60103493124624
+1085,Customer_216,Female,38,Married,Maharashtra,Mumbai,Education,Rasgulla,762,2,7,UPI,2024-10-28,1417.32,212.7306324633169
+1952,Customer_222,Male,37,Single,Uttar Pradesh,Patna,Healthcare,Rasgulla,719,1,18,Debit Card,2024-10-27,589.58,138.4357327757366
+1797,Customer_229,Male,20,Married,Maharashtra,Patna,IT,Rasgulla,422,4,12,Cash,2024-11-01,1485.44,247.7862362006033
+1230,Customer_236,Male,33,Single,Maharashtra,Delhi,Business,Rasgulla,368,4,22,UPI,2024-10-26,1148.16,272.2158497920117
+1224,Customer_238,Male,55,Single,Uttar Pradesh,Patna,Business,Rasgulla,577,4,0,Credit Card,2024-11-03,2308.0,256.91993887732394
+1744,Customer_246,Male,25,Married,Delhi,Lucknow,Student,Rasgulla,550,2,16,Credit Card,2024-10-28,924.0,231.17367473754118
+1709,Customer_249,Female,54,Married,Maharashtra,Bhopal,Healthcare,Rasgulla,425,1,7,UPI,2024-11-02,395.25,61.36802552422572
+1676,Customer_254,Male,26,Married,Bihar,Mumbai,Education,Rasgulla,382,1,12,Credit Card,2024-11-02,336.16,45.67504630104493
+1818,Customer_256,Female,37,Married,Maharashtra,Mumbai,Student,Rasgulla,323,4,2,Debit Card,2024-11-02,1266.16,155.30807310914523
+1471,Customer_265,Female,42,Single,Madhya Pradesh,Patna,Business,Rasgulla,238,3,12,Net Banking,2024-10-28,628.32,123.53270055404036
+1112,Customer_268,Male,47,Single,Uttar Pradesh,Patna,Healthcare,Rasgulla,729,2,13,UPI,2024-10-30,1268.46,293.4597592549873
+1112,Customer_278,Female,39,Single,Bihar,Delhi,IT,Rasgulla,434,4,9,Credit Card,2024-11-02,1579.76,362.87239492613975
+1951,Customer_281,Male,50,Single,Bihar,Mumbai,IT,Rasgulla,665,2,8,Credit Card,2024-10-25,1223.6000000000001,358.51856121289836
+1001,Customer_285,Female,18,Single,Maharashtra,Lucknow,Student,Rasgulla,635,3,16,Credit Card,2024-11-03,1600.2,355.2467737621186
+1996,Customer_290,Female,22,Single,Uttar Pradesh,Delhi,Student,Rasgulla,287,1,18,Cash,2024-10-30,235.34000000000003,68.0948631529664

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>SWEETS</title>
+<link rel="icon" href="/assignments/images/shopping_app-removebg-preview.ico">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+
+
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alan Sans", sans-serif;
+    background-color: #fff3e0;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  .h1 {
+    font-family: "Bitcount Prop Single Ink", system-ui;
+  }
+  .products {
+    display: flex;
+    overflow-x: auto;
+    padding: 40px;
+  }
+  .product {
+    flex: 0 0 auto;
+    width: 200px;
+    height: 400px;
+    margin-right: 20px;
+    background-color: #ffe0b2;
+    border-radius: 10px;
+    padding: 35px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  .product:hover {
+    transform: scale(1.05);
+  }
+  .product img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  .back {
+    position: sticky;
+    left: 20px;
+  }
+  .back:hover, .back:focus {
+    color: blue;
+    transform: translateX(2px);
+    transform: translateY(-2px);
+    transition: all 0.3s ease-in-out;
+  }
+  .all {
+    color: rgb(254, 169, 116);
+    position: sticky;
+    right: 20px;
+  }
+  .all:hover, .all:focus {
+    color: blue;
+    transform: translateX(2px);
+    transform: translateY(-2px);
+    transition: all 0.3s ease-in-out;
+  }
+</style>
+</head>
+<body>
+
+<header>
+    <a class="back" href="index.html">Go back</a>
+    <h1 class="h1">SWEETS</h1>
+    <a class="all" href="/assignments/final analysis page/sweets/overall/overall.html">ANALYSIS OF ALL SWEETS</a>
+</header>
+<div class="products">
+  <div class="product">
+    <img src="/assignments/images/laddoo.png" alt="aalook bam" />
+    <h3>Laddoo</h3>
+    <p>Current prize:190Rs dozen</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/sweets/laddooo/laddooo.html">CLICK HERE</a>
+  </div>
+  <div class="product">
+    <img src="/assignments/images/gulabjamun.png" alt="Firecracker B" />
+    <h3>gulaab jamun</h3>
+    <p>Current prize:150Rs dozen</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/sweets/gulab jamun/gulab jamun.html">CLICK HERE</a>
+  </div>
+  <div class="product">
+    <img src="/assignments/images/rasgulla.png" alt="Firecracker C" />
+    <h3>rasgulla</h3>
+    <p>Current prize:130Rs dozen</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/sweets/rosogulla/rosogulla.html">CLICK HERE</a>
+  </div>
+  <div class="product">
+    <img src="/assignments/images/barfi.png" alt="Firecracker C" />
+    <h3>barfi</h3>
+    <p>Current prize:120Rs dozen</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/sweets/barfi/barfi.html">CLICK HERE</a>
+  </div>
+  <div class="product">
+    <img src="/assignments/images/kaju katli.png" alt="Firecracker C" />
+    <h3>kaju katli</h3>
+    <p>Current prize:100Rs dozen</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/sweets/kaju katli/kaju katli.html">CLICK HERE</a>
+  </div>
+</div>
+
+</body>
+</html>

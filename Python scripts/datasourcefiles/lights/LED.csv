@@ -1,0 +1,62 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+3270,Customer_4,Female,47,Married,Bihar,Patna,Healthcare,LED String Lights,154,2,22,Credit Card,2024-11-03,240.24,25.750781452630797
+3106,Customer_5,Male,36,Single,Maharashtra,Mumbai,IT,LED String Lights,1011,4,13,Cash,2024-10-29,3518.28,629.5851964890364
+3020,Customer_8,Male,45,Married,Madhya Pradesh,Mumbai,Healthcare,LED String Lights,1079,3,15,Credit Card,2024-10-27,2751.45,680.7618607372534
+3458,Customer_14,Female,29,Single,Maharashtra,Lucknow,Student,LED String Lights,1227,1,5,Credit Card,2024-10-25,1165.6499999999999,136.46062577459065
+3087,Customer_15,Female,18,Single,Bihar,Patna,Student,LED String Lights,729,1,11,Credit Card,2024-10-28,648.8100000000001,70.46166808815781
+3343,Customer_24,Female,22,Single,Bihar,Delhi,Business,LED String Lights,555,3,24,UPI,2024-10-30,1265.4,338.6881971938271
+3191,Customer_29,Male,43,Single,Maharashtra,Patna,IT,LED String Lights,559,2,6,Net Banking,2024-11-03,1050.9199999999998,174.503748332043
+3021,Customer_35,Female,45,Single,Uttar Pradesh,Bhopal,Business,LED String Lights,460,1,19,Credit Card,2024-10-29,372.6,66.89269763119853
+3252,Customer_36,Male,22,Married,Delhi,Mumbai,Business,LED String Lights,440,1,23,Debit Card,2024-10-31,338.8,85.53406000980658
+3975,Customer_46,Female,50,Single,Maharashtra,Patna,Healthcare,LED String Lights,505,3,4,Net Banking,2024-10-27,1454.3999999999999,198.3042957935686
+3957,Customer_49,Female,40,Married,Delhi,Delhi,Healthcare,LED String Lights,1439,4,4,Credit Card,2024-10-30,5525.76,930.3210487320966
+3646,Customer_61,Male,33,Married,Delhi,Delhi,Education,LED String Lights,233,3,8,Debit Card,2024-10-28,643.08,142.26814659548444
+3273,Customer_65,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,LED String Lights,172,3,3,Net Banking,2024-10-26,500.52,140.09106459671494
+3776,Customer_71,Male,52,Single,Bihar,Mumbai,Student,LED String Lights,1329,3,0,Debit Card,2024-10-29,3987.0,934.2675553048042
+3564,Customer_73,Female,50,Married,Uttar Pradesh,Lucknow,Student,LED String Lights,892,2,23,Net Banking,2024-11-01,1373.68,409.4140305886887
+3091,Customer_76,Male,20,Married,Uttar Pradesh,Lucknow,Business,LED String Lights,1412,4,8,Net Banking,2024-11-03,5196.16,1196.1116932894247
+3955,Customer_78,Male,50,Married,Bihar,Patna,Business,LED String Lights,194,4,21,Debit Card,2024-10-25,613.0400000000001,130.1230787138178
+3454,Customer_79,Male,57,Single,Delhi,Delhi,Education,LED String Lights,932,1,16,Credit Card,2024-10-27,782.88,199.93628014499564
+3942,Customer_83,Male,29,Single,Maharashtra,Delhi,Business,LED String Lights,337,4,13,Net Banking,2024-10-30,1172.76,327.45220962164075
+3561,Customer_88,Female,34,Married,Delhi,Delhi,Education,LED String Lights,1148,2,20,UPI,2024-10-25,1836.8000000000002,377.37613686102867
+3871,Customer_89,Female,43,Single,Madhya Pradesh,Mumbai,Business,LED String Lights,1240,3,4,Debit Card,2024-11-01,3571.2,1004.5221092662473
+3387,Customer_90,Female,25,Single,Bihar,Bhopal,Education,LED String Lights,581,1,1,Net Banking,2024-10-31,575.1899999999999,76.3715452136591
+3001,Customer_91,Male,46,Married,Uttar Pradesh,Delhi,IT,LED String Lights,1016,2,21,Net Banking,2024-11-02,1605.28,366.90886951008474
+3565,Customer_93,Female,27,Married,Bihar,Bhopal,Education,LED String Lights,1063,4,24,Debit Card,2024-10-26,3231.52,935.4573393887189
+3821,Customer_96,Female,58,Married,Uttar Pradesh,Lucknow,Healthcare,LED String Lights,1296,3,1,Credit Card,2024-10-29,3849.12,799.7031858709156
+3269,Customer_106,Male,54,Married,Bihar,Patna,Education,LED String Lights,142,2,5,UPI,2024-10-25,269.8,68.04832499304831
+3455,Customer_110,Female,52,Single,Bihar,Bhopal,Student,LED String Lights,762,4,16,Cash,2024-10-27,2560.3199999999997,573.9769363412404
+3461,Customer_111,Female,53,Single,Madhya Pradesh,Delhi,Student,LED String Lights,566,1,6,UPI,2024-10-30,532.04,152.02088382067964
+3251,Customer_113,Female,56,Single,Bihar,Lucknow,Healthcare,LED String Lights,1110,2,19,Net Banking,2024-10-29,1798.2,376.49260128029437
+3878,Customer_120,Male,30,Single,Maharashtra,Mumbai,Healthcare,LED String Lights,1179,4,7,Cash,2024-11-03,4385.88,1030.1107400238905
+3052,Customer_121,Female,40,Single,Delhi,Patna,Education,LED String Lights,556,3,20,Cash,2024-11-03,1334.4,170.00230994776382
+3791,Customer_122,Male,42,Married,Delhi,Lucknow,Business,LED String Lights,1082,3,14,Net Banking,2024-10-29,2791.56,834.6660382706312
+3921,Customer_123,Female,52,Single,Bihar,Delhi,IT,LED String Lights,182,3,21,Net Banking,2024-10-26,431.34000000000003,88.61730717791853
+3014,Customer_131,Male,36,Married,Bihar,Delhi,Student,LED String Lights,1203,1,23,Net Banking,2024-10-26,926.3100000000001,189.43775300121365
+3471,Customer_140,Male,31,Single,Madhya Pradesh,Patna,Education,LED String Lights,1344,2,6,Net Banking,2024-10-28,2526.72,622.6457666324466
+3839,Customer_157,Male,22,Married,Uttar Pradesh,Mumbai,Business,LED String Lights,485,4,4,Credit Card,2024-10-28,1862.3999999999999,497.412708832075
+3642,Customer_178,Male,55,Single,Maharashtra,Lucknow,Education,LED String Lights,494,3,17,Cash,2024-10-27,1230.06,241.47291629994348
+3502,Customer_182,Female,39,Single,Delhi,Bhopal,IT,LED String Lights,728,3,0,UPI,2024-10-31,2184.0,243.60463913206462
+3392,Customer_187,Male,53,Married,Madhya Pradesh,Patna,Business,LED String Lights,843,2,15,Net Banking,2024-10-25,1433.1,254.03794786717665
+3690,Customer_194,Male,43,Single,Madhya Pradesh,Mumbai,Education,LED String Lights,204,3,18,UPI,2024-10-27,501.84000000000003,52.94604557417321
+3733,Customer_202,Male,25,Single,Madhya Pradesh,Mumbai,Student,LED String Lights,671,1,12,Credit Card,2024-11-03,590.48,109.99232909762313
+3406,Customer_204,Male,56,Married,Bihar,Bhopal,Student,LED String Lights,1220,3,20,Net Banking,2024-11-01,2928.0,622.6829103745521
+3654,Customer_207,Male,30,Single,Bihar,Bhopal,Education,LED String Lights,331,3,1,Credit Card,2024-10-28,983.0699999999999,263.3958435475281
+3035,Customer_210,Female,50,Married,Delhi,Delhi,Student,LED String Lights,814,3,22,Debit Card,2024-10-28,1904.76,534.764254482884
+3556,Customer_220,Female,52,Married,Maharashtra,Delhi,Education,LED String Lights,1296,4,2,Cash,2024-10-26,5080.32,1111.373323861341
+3027,Customer_225,Male,31,Married,Madhya Pradesh,Delhi,Student,LED String Lights,186,2,5,Net Banking,2024-11-02,353.4,97.50281761906398
+3339,Customer_228,Female,18,Single,Delhi,Lucknow,Business,LED String Lights,944,4,24,Net Banking,2024-11-03,2869.76,761.4889610022004
+3639,Customer_232,Male,28,Married,Maharashtra,Delhi,Student,LED String Lights,507,2,11,Debit Card,2024-10-25,902.46,153.88794954931146
+3347,Customer_234,Male,27,Single,Uttar Pradesh,Mumbai,Student,LED String Lights,1140,1,8,Credit Card,2024-11-01,1048.8,213.04471697244963
+3376,Customer_240,Female,41,Married,Delhi,Lucknow,Healthcare,LED String Lights,535,3,11,Net Banking,2024-11-02,1428.45,299.03187171786317
+3632,Customer_243,Female,45,Single,Uttar Pradesh,Patna,IT,LED String Lights,598,1,23,Debit Card,2024-10-27,460.46000000000004,51.69409036710119
+3627,Customer_244,Male,53,Single,Bihar,Mumbai,Business,LED String Lights,639,2,0,UPI,2024-11-02,1278.0,220.37225072655494
+3648,Customer_252,Female,44,Married,Madhya Pradesh,Delhi,Healthcare,LED String Lights,1443,3,17,Credit Card,2024-10-30,3593.0699999999997,496.6475803057604
+3317,Customer_253,Male,34,Married,Madhya Pradesh,Lucknow,Education,LED String Lights,237,1,10,Cash,2024-11-01,213.3,34.55820640570193
+3671,Customer_263,Male,35,Married,Madhya Pradesh,Bhopal,Education,LED String Lights,562,1,2,Cash,2024-10-31,550.76,68.88426652148286
+3232,Customer_266,Male,19,Single,Maharashtra,Mumbai,Healthcare,LED String Lights,935,1,15,Net Banking,2024-10-29,794.75,143.96914825136395
+3691,Customer_267,Female,27,Married,Maharashtra,Mumbai,Business,LED String Lights,268,2,1,UPI,2024-10-29,530.64,76.46399659668548
+3829,Customer_269,Female,22,Married,Bihar,Bhopal,Student,LED String Lights,477,1,2,UPI,2024-10-25,467.46,97.46269905573064
+3563,Customer_272,Female,35,Married,Maharashtra,Patna,IT,LED String Lights,866,2,14,Credit Card,2024-10-28,1489.52,272.42418613803255
+3854,Customer_289,Male,34,Married,Delhi,Delhi,Business,LED String Lights,1035,4,24,Credit Card,2024-11-02,3146.4,597.0694509954242
+3729,Customer_299,Female,27,Single,Delhi,Delhi,IT,LED String Lights,785,4,8,Credit Card,2024-10-30,2888.8,318.8630282497571

@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+2102,Customer_1,Female,33,Married,Delhi,Mumbai,Student,Kurti,2793,4,10,Net Banking,2024-10-26,10054.800000000001,3445.778433455305
+2435,Customer_2,Female,30,Married,Bihar,Mumbai,Education,T-Shirt,932,2,8,Cash,2024-11-01,1714.88,435.2476153097121
+2860,Customer_3,Male,59,Single,Madhya Pradesh,Patna,Student,Kurti,2402,3,6,Debit Card,2024-10-30,6773.639999999999,1933.9314809101327
+2270,Customer_4,Female,47,Married,Bihar,Patna,Healthcare,Shirt,3259,3,21,Credit Card,2024-11-02,7723.83,1640.331184338832
+2106,Customer_5,Male,36,Single,Maharashtra,Mumbai,IT,Shirt,3383,3,16,Credit Card,2024-11-01,8525.16,2598.454067474561
+2071,Customer_6,Male,34,Married,Madhya Pradesh,Patna,Education,Kurti,2231,2,16,UPI,2024-11-03,3748.08,1141.6063095580457
+2700,Customer_7,Female,36,Married,Delhi,Delhi,Healthcare,Kurti,4019,1,1,Net Banking,2024-10-27,3978.81,1011.6490854733528
+2020,Customer_8,Male,45,Married,Madhya Pradesh,Mumbai,Healthcare,Shirt,2862,4,5,Net Banking,2024-10-29,10875.6,3754.2871872910832
+2614,Customer_9,Male,43,Married,Uttar Pradesh,Patna,Education,T-Shirt,1979,1,13,Net Banking,2024-10-31,1721.73,301.49221425266063
+2121,Customer_10,Male,54,Single,Madhya Pradesh,Mumbai,Student,Saree,536,1,5,Debit Card,2024-10-29,509.2,78.10595019235492
+2466,Customer_11,Female,43,Single,Uttar Pradesh,Bhopal,Healthcare,Saree,4743,4,1,Net Banking,2024-11-01,18782.28,5710.407435504214
+2214,Customer_12,Female,40,Married,Madhya Pradesh,Lucknow,Business,Kurti,1840,4,0,Credit Card,2024-10-29,7360.0,2292.1329510011074
+2330,Customer_13,Male,26,Married,Uttar Pradesh,Mumbai,Healthcare,Saree,4243,2,9,Debit Card,2024-10-25,7722.26,1343.9932954297321
+2458,Customer_14,Female,29,Single,Maharashtra,Lucknow,Student,Shirt,663,2,20,Cash,2024-10-29,1060.8,215.46605384049784
+2087,Customer_15,Female,18,Single,Bihar,Patna,Student,Shirt,2668,2,4,Net Banking,2024-10-28,5122.5599999999995,786.3666068974716
+2372,Customer_16,Female,18,Single,Delhi,Lucknow,Business,Kurti,585,2,1,Net Banking,2024-10-30,1158.3,241.6928727734256
+2099,Customer_17,Female,51,Single,Madhya Pradesh,Mumbai,Healthcare,Kurti,448,2,21,Cash,2024-10-27,707.84,215.6281488069185
+2871,Customer_18,Male,49,Married,Bihar,Bhopal,Student,Kurti,4337,4,15,Net Banking,2024-10-29,14745.8,3739.4184699088287
+2663,Customer_19,Male,42,Single,Delhi,Patna,Education,T-Shirt,4851,1,24,Cash,2024-10-26,3686.76,809.6829818138235
+2130,Customer_20,Female,57,Married,Delhi,Mumbai,IT,Saree,2066,2,1,Debit Card,2024-10-30,4090.68,917.7352997774854
+2661,Customer_21,Female,18,Single,Uttar Pradesh,Patna,IT,Kurti,1312,2,9,Credit Card,2024-10-30,2387.84,358.82244832568466
+2308,Customer_22,Male,33,Single,Maharashtra,Delhi,IT,Pants,3131,1,1,Cash,2024-10-29,3099.69,650.8112394577372
+2769,Customer_23,Male,56,Single,Maharashtra,Lucknow,Healthcare,Pants,2807,2,15,UPI,2024-10-30,4771.9,1332.7522938444079
+2343,Customer_24,Female,22,Single,Bihar,Delhi,Business,Shirt,1823,1,15,Cash,2024-10-31,1549.55,534.3451000831271
+2491,Customer_25,Male,39,Single,Maharashtra,Mumbai,Student,Saree,3085,1,18,Net Banking,2024-10-29,2529.7000000000003,808.016954804234
+2413,Customer_26,Female,46,Married,Madhya Pradesh,Bhopal,Education,Kurti,2856,4,6,Debit Card,2024-10-25,10738.56,1661.4591887087786
+2805,Customer_27,Female,20,Married,Maharashtra,Patna,Education,Pants,4025,3,21,Debit Card,2024-11-01,9539.25,3145.206349628892
+2385,Customer_28,Male,29,Single,Bihar,Lucknow,Healthcare,Saree,4876,4,11,Cash,2024-10-28,17358.56,5322.8233298298
+2191,Customer_29,Male,43,Single,Maharashtra,Patna,IT,Shirt,1901,3,23,Credit Card,2024-11-02,4391.31,1344.0711950396965
+2955,Customer_30,Female,33,Married,Madhya Pradesh,Mumbai,Healthcare,T-Shirt,2708,3,14,UPI,2024-11-03,6986.64,1687.9662979369425
+2276,Customer_31,Female,54,Single,Uttar Pradesh,Patna,Business,Saree,640,3,7,Debit Card,2024-10-30,1785.6,409.975650219912
+2160,Customer_32,Male,39,Single,Bihar,Lucknow,Business,Saree,3117,2,5,Net Banking,2024-10-25,5922.299999999999,1247.136564173763
+2459,Customer_33,Female,46,Married,Uttar Pradesh,Mumbai,Student,T-Shirt,2796,4,9,Net Banking,2024-10-27,10177.44,1660.337097063304
+2313,Customer_34,Male,31,Single,Uttar Pradesh,Patna,Student,Saree,2025,3,2,Credit Card,2024-10-27,5953.5,1164.7848473119475
+2021,Customer_35,Female,45,Single,Uttar Pradesh,Bhopal,Business,Shirt,1989,1,18,Debit Card,2024-11-03,1630.98,325.0881193152917
+2252,Customer_36,Male,22,Married,Delhi,Mumbai,Business,Shirt,3567,2,16,Cash,2024-10-28,5992.5599999999995,1479.056176972513
+2747,Customer_37,Male,47,Married,Delhi,Mumbai,Business,T-Shirt,4706,4,6,Net Banking,2024-10-30,17694.559999999998,5299.323979837919
+2856,Customer_38,Male,22,Married,Uttar Pradesh,Bhopal,Healthcare,Kurti,561,3,20,Credit Card,2024-10-31,1346.4,329.5475105909991
+2560,Customer_39,Female,29,Single,Bihar,Delhi,Business,Pants,1742,1,19,Debit Card,2024-11-03,1411.02,227.97693501178648
+2474,Customer_40,Female,33,Married,Madhya Pradesh,Lucknow,Education,Kurti,705,4,3,Debit Card,2024-10-28,2735.4,934.2976443246265
+2058,Customer_41,Male,43,Married,Madhya Pradesh,Delhi,IT,Saree,2490,4,13,Debit Card,2024-10-30,8665.2,2933.5589539628604
+2510,Customer_42,Female,43,Married,Maharashtra,Patna,Business,Pants,4737,2,19,Debit Card,2024-10-25,7673.9400000000005,2356.1904885496597
+2681,Customer_43,Male,38,Married,Bihar,Bhopal,IT,T-Shirt,543,4,21,Debit Card,2024-11-01,1715.88,597.581943947203
+2475,Customer_44,Male,56,Married,Delhi,Delhi,Healthcare,T-Shirt,4885,2,14,Net Banking,2024-10-31,8402.2,2175.299891330874
+2699,Customer_45,Female,53,Married,Uttar Pradesh,Mumbai,IT,Pants,4407,3,23,Credit Card,2024-11-02,10180.17,3487.2545952394357
+2975,Customer_46,Female,50,Single,Maharashtra,Patna,Healthcare,Shirt,860,2,7,Debit Card,2024-10-27,1599.6,264.1275645941109
+2782,Customer_47,Male,47,Single,Madhya Pradesh,Patna,Education,Pants,4437,1,20,UPI,2024-10-26,3549.6000000000004,792.0440768057127
+2189,Customer_48,Female,54,Married,Delhi,Delhi,Healthcare,Saree,3025,2,14,UPI,2024-10-25,5203.0,1014.9817474878405
+2957,Customer_49,Female,40,Married,Delhi,Delhi,Healthcare,Shirt,893,1,21,Credit Card,2024-10-27,705.47,133.45137317284068
+2686,Customer_50,Male,27,Married,Uttar Pradesh,Bhopal,Student,T-Shirt,2126,2,19,Cash,2024-10-29,3444.1200000000003,613.6064504680488
+2957,Customer_51,Male,22,Single,Madhya Pradesh,Lucknow,Business,Pants,3529,4,13,Cash,2024-10-26,12280.92,3370.900427796136
+2562,Customer_52,Female,53,Single,Bihar,Delhi,Business,Kurti,3587,3,8,Cash,2024-10-27,9900.12,3032.0540261042024
+2875,Customer_53,Male,51,Single,Delhi,Delhi,Education,Kurti,4373,1,7,UPI,2024-10-28,4066.89,1080.408695523734
+2566,Customer_54,Male,48,Single,Uttar Pradesh,Mumbai,Education,Saree,433,2,16,Cash,2024-10-31,727.4399999999999,130.49731069256944
+2243,Customer_55,Female,27,Single,Bihar,Patna,Business,Kurti,3438,2,1,Net Banking,2024-10-27,6807.24,2125.388834328384
+2831,Customer_56,Male,36,Single,Madhya Pradesh,Lucknow,Student,Pants,4219,2,24,Debit Card,2024-11-02,6412.88,1777.5922444952262
+2504,Customer_57,Male,49,Single,Delhi,Mumbai,Business,Pants,372,4,23,UPI,2024-11-01,1145.76,260.8129478904133
+2130,Customer_58,Female,18,Single,Bihar,Bhopal,Student,Kurti,4794,4,2,Credit Card,2024-10-28,18792.48,5352.58801925111
+2484,Customer_59,Female,22,Single,Bihar,Bhopal,Education,Pants,4525,1,7,Credit Card,2024-10-25,4208.25,849.9865257797302
+2818,Customer_60,Male,21,Married,Bihar,Delhi,IT,Saree,3278,1,11,Debit Card,2024-10-25,2917.42,639.027130581036
+2646,Customer_61,Male,33,Married,Delhi,Delhi,Education,Shirt,4661,4,0,UPI,2024-10-25,18644.0,6217.721211870565
+2020,Customer_62,Female,41,Married,Delhi,Bhopal,Education,Saree,2285,1,9,Cash,2024-10-25,2079.35,432.71460877357356
+2840,Customer_63,Female,33,Married,Maharashtra,Delhi,Healthcare,Saree,1092,3,19,Cash,2024-11-01,2653.5600000000004,647.462413770635
+2166,Customer_64,Female,19,Single,Madhya Pradesh,Lucknow,Healthcare,Pants,4559,3,2,Net Banking,2024-10-27,13403.46,4396.713225888397
+2273,Customer_65,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Shirt,394,4,5,Net Banking,2024-10-30,1497.1999999999998,436.50008112410836
+2387,Customer_66,Male,49,Married,Bihar,Patna,Healthcare,Pants,1433,1,6,Cash,2024-10-27,1347.02,218.8107979416756
+2600,Customer_67,Female,44,Single,Maharashtra,Delhi,Student,T-Shirt,537,2,19,Credit Card,2024-10-29,869.94,156.1199620680095
+2315,Customer_68,Female,37,Married,Uttar Pradesh,Mumbai,Business,Pants,3246,3,22,Credit Card,2024-10-31,7595.64,1151.2583801061603
+2013,Customer_69,Male,41,Single,Maharashtra,Lucknow,IT,Pants,2830,4,24,Net Banking,2024-10-26,8603.2,2376.0692691399076
+2241,Customer_70,Female,29,Married,Delhi,Mumbai,Education,Pants,2260,1,17,Debit Card,2024-10-30,1875.8,449.31916227697246
+2776,Customer_71,Male,52,Single,Bihar,Mumbai,Student,Shirt,1348,4,10,Cash,2024-10-30,4852.8,858.2417992917125
+2345,Customer_72,Female,50,Single,Uttar Pradesh,Patna,IT,Pants,2829,2,18,Net Banking,2024-10-27,4639.56,1584.81256613803
+2564,Customer_73,Female,50,Married,Uttar Pradesh,Lucknow,Student,Shirt,3264,3,4,Net Banking,2024-10-30,9400.32,2405.8421792400977
+2897,Customer_74,Female,54,Single,Uttar Pradesh,Lucknow,Student,Kurti,1263,4,18,Cash,2024-11-03,4142.64,821.8113671847639
+2339,Customer_75,Male,29,Married,Uttar Pradesh,Lucknow,Education,T-Shirt,836,4,10,Cash,2024-11-03,3009.6,752.7633015494415
+2091,Customer_76,Male,20,Married,Uttar Pradesh,Lucknow,Business,Shirt,4523,4,23,Credit Card,2024-10-29,13930.84,3983.1624232159093
+2366,Customer_77,Female,18,Married,Maharashtra,Lucknow,Healthcare,Kurti,3979,2,11,Debit Card,2024-10-26,7082.62,1170.3876820007854
+2955,Customer_78,Male,50,Married,Bihar,Patna,Business,Shirt,4487,4,9,Debit Card,2024-11-02,16332.68,3347.231901191281
+2454,Customer_79,Male,57,Single,Delhi,Delhi,Education,Shirt,4024,2,7,Cash,2024-11-01,7484.639999999999,2330.6652383379947
+2427,Customer_80,Male,27,Single,Delhi,Mumbai,Education,T-Shirt,842,2,23,UPI,2024-10-27,1296.68,313.7096488307445
+2508,Customer_81,Male,46,Single,Delhi,Lucknow,Education,Saree,1145,2,8,Net Banking,2024-11-01,2106.8,546.3257445667277
+2775,Customer_82,Male,30,Married,Delhi,Delhi,IT,Saree,3903,3,3,Net Banking,2024-11-02,11357.73,2686.8209585549107
+2942,Customer_83,Male,29,Single,Maharashtra,Delhi,Business,Shirt,3336,3,4,Cash,2024-10-27,9607.68,1525.5073201864693
+2034,Customer_84,Female,48,Married,Madhya Pradesh,Mumbai,Business,Pants,2794,4,20,UPI,2024-10-27,8940.800000000001,1637.50712628321
+2205,Customer_85,Female,19,Single,Bihar,Patna,Student,Kurti,4785,4,7,Credit Card,2024-10-26,17800.199999999997,4256.17605558668
+2080,Customer_86,Male,52,Single,Uttar Pradesh,Bhopal,Student,Pants,3019,3,22,Cash,2024-11-01,7064.46,1355.225470591138
+2931,Customer_87,Female,40,Single,Madhya Pradesh,Bhopal,Student,Pants,2184,1,8,Cash,2024-11-03,2009.2800000000002,321.4763725410639
+2561,Customer_88,Female,34,Married,Delhi,Delhi,Education,Shirt,4438,3,14,Net Banking,2024-10-25,11450.039999999999,3649.470479875988
+2871,Customer_89,Female,43,Single,Madhya Pradesh,Mumbai,Business,Shirt,4649,2,14,Cash,2024-11-01,7996.28,2768.6200394208868
+2387,Customer_90,Female,25,Single,Bihar,Bhopal,Education,Shirt,3501,3,15,Cash,2024-10-31,8927.55,2755.297032949918
+2001,Customer_91,Male,46,Married,Uttar Pradesh,Delhi,IT,Shirt,3010,2,13,Cash,2024-10-31,5237.4,1679.9326297872042
+2389,Customer_92,Female,43,Single,Uttar Pradesh,Patna,Student,Saree,2253,4,7,Net Banking,2024-10-27,8381.16,1662.7838091056014
+2565,Customer_93,Female,27,Married,Bihar,Bhopal,Education,Shirt,4150,1,17,Credit Card,2024-10-25,3444.5,1178.4509234310433
+2105,Customer_94,Male,43,Single,Bihar,Delhi,Education,Saree,989,4,9,Credit Card,2024-10-28,3599.96,681.7789318008328
+2771,Customer_95,Male,51,Married,Delhi,Delhi,IT,Saree,2250,2,19,Cash,2024-11-02,3645.0000000000005,1240.3423317537759
+2821,Customer_96,Female,58,Married,Uttar Pradesh,Lucknow,Healthcare,Shirt,756,2,5,Net Banking,2024-10-29,1436.3999999999999,501.25168677053836
+2476,Customer_97,Female,24,Single,Madhya Pradesh,Patna,Business,T-Shirt,2430,2,11,Credit Card,2024-10-25,4325.4,1264.5071647947916
+2702,Customer_98,Female,21,Married,Maharashtra,Lucknow,Healthcare,Kurti,4276,1,1,Credit Card,2024-10-29,4233.24,1465.6693782340824
+2401,Customer_99,Female,28,Married,Maharashtra,Mumbai,Student,Pants,4544,3,6,Credit Card,2024-11-01,12814.08,3381.737659711046
+2729,Customer_100,Female,46,Married,Bihar,Lucknow,Education,Saree,1479,4,15,Net Banking,2024-11-01,5028.599999999999,1015.3163621758574
+2555,Customer_101,Female,53,Married,Delhi,Lucknow,IT,Kurti,4585,4,2,Net Banking,2024-10-29,17973.2,4266.822890449067
+2161,Customer_102,Male,42,Married,Maharashtra,Bhopal,IT,T-Shirt,3865,3,12,Cash,2024-11-02,10203.6,2741.8316720461958
+2201,Customer_103,Female,38,Married,Uttar Pradesh,Delhi,Business,Pants,1182,4,2,Debit Card,2024-10-25,4633.44,762.7398065516904
+2957,Customer_104,Female,53,Single,Bihar,Patna,Healthcare,Pants,699,1,17,Credit Card,2024-10-28,580.17,159.2384783665975
+2995,Customer_105,Male,27,Married,Madhya Pradesh,Lucknow,Business,Saree,908,4,10,Debit Card,2024-10-27,3268.8,1131.7748225617177
+2269,Customer_106,Male,54,Married,Bihar,Patna,Education,Shirt,1938,2,7,Net Banking,2024-10-26,3604.68,677.7574486044814
+2862,Customer_107,Male,26,Single,Madhya Pradesh,Lucknow,Business,T-Shirt,2448,3,5,Net Banking,2024-11-01,6976.799999999999,2152.475521464158
+2815,Customer_108,Male,41,Single,Bihar,Mumbai,IT,Saree,1682,1,0,Net Banking,2024-10-31,1682.0,557.7171542274639
+2270,Customer_109,Female,52,Single,Bihar,Lucknow,IT,T-Shirt,1703,3,0,Debit Card,2024-11-02,5109.0,1730.6242875437015
+2455,Customer_110,Female,52,Single,Bihar,Bhopal,Student,Shirt,1119,1,22,Net Banking,2024-10-26,872.82,298.5281116474325
+2461,Customer_111,Female,53,Single,Madhya Pradesh,Delhi,Student,Shirt,3592,2,7,Cash,2024-10-28,6681.12,1698.95488429096
+2726,Customer_112,Female,35,Single,Madhya Pradesh,Mumbai,Education,Saree,1119,3,4,Net Banking,2024-10-30,3222.72,1113.3259482484755
+2251,Customer_113,Female,56,Single,Bihar,Lucknow,Healthcare,Shirt,719,4,15,UPI,2024-10-27,2444.6,736.9541064721698
+2701,Customer_114,Female,49,Married,Maharashtra,Patna,Business,Kurti,4519,1,10,Debit Card,2024-11-01,4067.1,741.5717796638695
+2295,Customer_115,Male,41,Married,Delhi,Mumbai,Education,Pants,4817,3,4,UPI,2024-10-27,13872.96,3404.1472202051773
+2724,Customer_116,Female,40,Single,Delhi,Mumbai,Student,Saree,3602,4,3,Net Banking,2024-10-26,13975.76,4104.208821503408
+2719,Customer_117,Male,49,Married,Delhi,Lucknow,Business,T-Shirt,1808,3,5,Cash,2024-10-27,5152.8,1027.8190358705144
+2748,Customer_118,Male,54,Married,Madhya Pradesh,Mumbai,Student,Kurti,1067,3,13,Credit Card,2024-10-30,2784.87,774.5365012419579
+2337,Customer_119,Female,29,Married,Madhya Pradesh,Patna,Business,Saree,2344,3,21,Net Banking,2024-10-26,5555.280000000001,1573.9224618476208
+2878,Customer_120,Male,30,Single,Maharashtra,Mumbai,Healthcare,Shirt,2439,1,18,Cash,2024-11-01,1999.9800000000002,365.07624672445115
+2052,Customer_121,Female,40,Single,Delhi,Patna,Education,Shirt,3329,4,8,Debit Card,2024-10-25,12250.720000000001,3222.148387794246
+2791,Customer_122,Male,42,Married,Delhi,Lucknow,Business,Shirt,1849,2,11,UPI,2024-10-31,3291.2200000000003,1001.6017843902027
+2921,Customer_123,Female,52,Single,Bihar,Delhi,IT,Shirt,2064,1,10,UPI,2024-10-26,1857.6000000000001,463.98971728839314
+2216,Customer_124,Male,58,Married,Madhya Pradesh,Mumbai,IT,T-Shirt,2945,1,13,UPI,2024-11-03,2562.15,390.5245001295807
+2763,Customer_125,Female,47,Married,Delhi,Delhi,Business,Kurti,4016,1,22,Debit Card,2024-10-30,3132.48,475.5345647243002
+2187,Customer_126,Female,34,Married,Maharashtra,Patna,Business,Pants,4905,2,15,Cash,2024-10-26,8338.5,1846.1928369387892
+2379,Customer_127,Female,37,Married,Maharashtra,Mumbai,Business,T-Shirt,4781,4,0,Debit Card,2024-10-26,19124.0,6411.10707293788
+2492,Customer_128,Female,42,Single,Delhi,Bhopal,IT,T-Shirt,2593,4,12,UPI,2024-11-03,9127.36,1786.547058216559
+2040,Customer_129,Female,39,Single,Madhya Pradesh,Delhi,IT,Pants,3008,4,22,Net Banking,2024-11-01,9384.960000000001,2598.4395691026457
+2156,Customer_130,Male,30,Single,Maharashtra,Mumbai,Business,Pants,1200,3,20,Credit Card,2024-10-26,2880.0,559.9157015193526
+2014,Customer_131,Male,36,Married,Bihar,Delhi,Student,Shirt,3384,3,20,Debit Card,2024-10-31,8121.6,1740.734997603798
+2812,Customer_132,Male,53,Single,Maharashtra,Mumbai,Student,T-Shirt,2309,3,12,Debit Card,2024-10-27,6095.76,1948.2562096218282
+2064,Customer_133,Female,29,Married,Uttar Pradesh,Lucknow,Healthcare,Saree,541,2,1,Cash,2024-11-01,1071.18,316.8253599461444
+2856,Customer_134,Male,58,Single,Uttar Pradesh,Delhi,Education,Pants,2685,3,3,Cash,2024-10-31,7813.349999999999,1321.0800886790348
+2838,Customer_135,Female,36,Married,Madhya Pradesh,Bhopal,Student,Pants,4568,2,5,Debit Card,2024-11-01,8679.199999999999,2046.0381161090904
+2520,Customer_136,Female,29,Married,Delhi,Bhopal,IT,Kurti,971,4,22,UPI,2024-10-31,3029.52,472.10207647172035
+2343,Customer_137,Male,26,Married,Madhya Pradesh,Patna,Student,Saree,463,3,4,Credit Card,2024-10-30,1333.44,328.26363141726324
+2128,Customer_138,Male,24,Single,Madhya Pradesh,Mumbai,Healthcare,Saree,764,3,24,Cash,2024-10-31,1741.92,492.0694107324649
+2647,Customer_139,Female,45,Single,Madhya Pradesh,Delhi,Healthcare,Pants,3342,1,2,UPI,2024-10-29,3275.16,568.8970105407443
+2471,Customer_140,Male,31,Single,Madhya Pradesh,Patna,Education,Shirt,4892,2,0,Net Banking,2024-10-31,9784.0,2032.8900484574554
+2062,Customer_141,Female,48,Single,Bihar,Delhi,Student,Kurti,2742,4,3,Cash,2024-10-25,10638.96,2442.3575890504853
+2138,Customer_142,Female,36,Married,Bihar,Mumbai,IT,Saree,2655,1,24,UPI,2024-10-25,2017.8,673.7559403101953
+2498,Customer_143,Female,33,Single,Maharashtra,Bhopal,IT,Pants,4578,1,19,UPI,2024-11-02,3708.1800000000003,1292.8606766182254
+2592,Customer_144,Female,22,Single,Uttar Pradesh,Lucknow,Business,Saree,2857,4,1,Credit Card,2024-10-29,11313.72,1798.6807723345357
+2391,Customer_145,Female,52,Married,Madhya Pradesh,Bhopal,IT,Kurti,845,1,4,Credit Card,2024-10-29,811.1999999999999,245.1459255078924
+2674,Customer_146,Male,29,Married,Maharashtra,Patna,Education,Kurti,4135,2,2,Net Banking,2024-10-27,8104.599999999999,1818.224973712886
+2418,Customer_147,Male,42,Married,Uttar Pradesh,Lucknow,Education,T-Shirt,893,2,8,UPI,2024-10-29,1643.1200000000001,375.43917899147664
+2288,Customer_148,Female,38,Single,Delhi,Patna,IT,Pants,4104,3,19,UPI,2024-10-27,9972.720000000001,3000.322676999464
+2378,Customer_149,Female,53,Married,Bihar,Mumbai,IT,Kurti,1759,1,5,Credit Card,2024-11-02,1671.05,557.604797887317
+2772,Customer_150,Male,40,Married,Uttar Pradesh,Lucknow,Business,T-Shirt,3793,3,17,Cash,2024-11-02,9444.57,3212.907835156186
+2489,Customer_151,Male,33,Married,Delhi,Patna,IT,T-Shirt,2901,1,5,Cash,2024-10-30,2755.95,731.4966981984619
+2230,Customer_152,Female,56,Single,Uttar Pradesh,Mumbai,Business,Saree,2744,2,18,Debit Card,2024-10-25,4500.160000000001,996.4444712475503
+2040,Customer_153,Male,59,Married,Bihar,Bhopal,Business,Saree,2972,2,11,Credit Card,2024-10-31,5290.16,1626.7761344093358
+2027,Customer_154,Female,56,Single,Bihar,Mumbai,IT,T-Shirt,4500,2,24,Debit Card,2024-10-31,6840.0,1369.3698923028267
+2134,Customer_155,Male,31,Single,Maharashtra,Delhi,Healthcare,Saree,316,1,10,Credit Card,2024-11-03,284.40000000000003,74.7445307600505
+2200,Customer_156,Female,48,Married,Madhya Pradesh,Mumbai,Healthcare,Kurti,3491,2,1,Net Banking,2024-11-03,6912.18,1532.5387740365995
+2839,Customer_157,Male,22,Married,Uttar Pradesh,Mumbai,Business,Shirt,692,1,14,UPI,2024-10-28,595.12,167.42285691700624
+2779,Customer_158,Female,52,Single,Uttar Pradesh,Delhi,IT,Kurti,724,3,11,Net Banking,2024-11-01,1933.08,382.904066107236
+2929,Customer_159,Male,40,Married,Delhi,Patna,Healthcare,T-Shirt,871,1,11,Credit Card,2024-10-30,775.19,145.98268712083592
+2032,Customer_160,Male,46,Married,Bihar,Patna,IT,T-Shirt,3931,3,8,UPI,2024-10-28,10849.560000000001,3619.9320130460715
+2047,Customer_161,Female,28,Single,Uttar Pradesh,Mumbai,IT,Kurti,1420,1,20,Cash,2024-10-28,1136.0,193.52979676613475
+2502,Customer_162,Male,35,Single,Bihar,Delhi,IT,Saree,541,3,23,Cash,2024-10-26,1249.71,313.91663137508425
+2406,Customer_163,Female,29,Married,Uttar Pradesh,Delhi,Student,Saree,4197,2,1,Debit Card,2024-10-26,8310.06,1613.5689755179162
+2573,Customer_164,Male,26,Single,Maharashtra,Bhopal,IT,T-Shirt,4395,3,21,Credit Card,2024-10-28,10416.15,1643.5225674989301
+2727,Customer_165,Female,27,Married,Madhya Pradesh,Patna,Student,Pants,2579,2,2,Credit Card,2024-10-29,5054.84,794.6398726904469
+2804,Customer_166,Male,34,Married,Uttar Pradesh,Lucknow,Business,Saree,1088,2,11,Cash,2024-11-01,1936.64,358.3642985462059
+2098,Customer_167,Female,55,Married,Bihar,Patna,Healthcare,Kurti,1014,3,15,Net Banking,2024-10-30,2585.7,836.096621129233
+2683,Customer_168,Male,24,Single,Maharashtra,Patna,Healthcare,Saree,3149,1,20,UPI,2024-10-28,2519.2000000000003,520.2040903653851
+2871,Customer_169,Female,30,Married,Uttar Pradesh,Bhopal,Healthcare,Kurti,1075,1,23,Net Banking,2024-10-31,827.75,281.5110156887402
+2725,Customer_170,Male,57,Married,Delhi,Lucknow,Healthcare,T-Shirt,4326,4,0,Net Banking,2024-11-01,17304.0,4608.478431577001
+2986,Customer_171,Female,59,Married,Madhya Pradesh,Bhopal,Healthcare,Saree,2547,1,20,Cash,2024-10-26,2037.6000000000001,483.56901461456755
+2546,Customer_172,Female,26,Single,Uttar Pradesh,Lucknow,Healthcare,Kurti,378,4,2,Cash,2024-10-31,1481.76,394.17448633196216
+2960,Customer_173,Female,44,Single,Maharashtra,Mumbai,Healthcare,T-Shirt,4226,1,19,Cash,2024-10-26,3423.0600000000004,867.1969149065255
+2738,Customer_174,Male,19,Single,Delhi,Lucknow,Business,Pants,1155,1,1,Debit Card,2024-10-26,1143.45,345.04204147176273
+2612,Customer_175,Female,22,Single,Maharashtra,Bhopal,IT,Kurti,2448,2,8,Net Banking,2024-11-01,4504.320000000001,930.1385359765676
+2942,Customer_176,Male,46,Single,Maharashtra,Patna,Education,Pants,1331,4,18,Credit Card,2024-10-26,4365.68,963.1130067203217
+2461,Customer_177,Female,54,Married,Delhi,Lucknow,Student,Pants,3571,1,14,UPI,2024-11-02,3071.06,1009.8224497475528
+2642,Customer_178,Male,55,Single,Maharashtra,Lucknow,Education,Shirt,3876,4,17,Debit Card,2024-10-25,12868.32,4366.109055460724
+2768,Customer_179,Female,36,Single,Delhi,Delhi,Education,Saree,4482,2,10,Credit Card,2024-11-02,8067.6,2650.300551213976
+2004,Customer_180,Male,25,Single,Uttar Pradesh,Patna,IT,Kurti,3756,2,24,Net Banking,2024-10-25,5709.12,1335.3037862523156
+2217,Customer_181,Male,18,Married,Delhi,Mumbai,IT,Pants,3806,4,22,Cash,2024-11-03,11874.720000000001,3634.532369173176
+2502,Customer_182,Female,39,Single,Delhi,Bhopal,IT,Shirt,707,2,15,Net Banking,2024-11-03,1201.8999999999999,294.7865835709181
+2766,Customer_183,Male,34,Single,Madhya Pradesh,Mumbai,Healthcare,T-Shirt,3011,3,21,UPI,2024-10-26,7136.070000000001,1780.506342540847
+2397,Customer_184,Male,24,Married,Delhi,Patna,Business,Kurti,3388,3,16,Debit Card,2024-10-30,8537.76,1630.1659295809832
+2870,Customer_185,Female,42,Single,Delhi,Lucknow,Healthcare,Pants,1968,2,4,Debit Card,2024-10-30,3778.56,1013.5082637360999
+2794,Customer_186,Male,21,Married,Uttar Pradesh,Lucknow,Business,Saree,447,3,11,UPI,2024-10-25,1193.49,223.45376652192866
+2392,Customer_187,Male,53,Married,Madhya Pradesh,Patna,Business,Shirt,4627,1,10,Credit Card,2024-10-31,4164.3,900.791975265103
+2206,Customer_188,Male,23,Married,Bihar,Lucknow,Education,Pants,4197,4,14,Credit Card,2024-11-01,14437.68,4634.58248826482
+2014,Customer_189,Female,48,Married,Uttar Pradesh,Lucknow,Education,Saree,2250,1,2,Debit Card,2024-10-26,2205.0,422.0704318619871
+2857,Customer_190,Male,36,Married,Uttar Pradesh,Lucknow,Business,Pants,665,4,0,Debit Card,2024-11-01,2660.0,436.85620771226627
+2553,Customer_191,Female,56,Single,Bihar,Bhopal,Business,Kurti,1974,2,19,Cash,2024-11-02,3197.88,523.8176000529346
+2891,Customer_192,Male,44,Married,Delhi,Bhopal,Healthcare,Kurti,4831,1,15,Credit Card,2024-10-30,4106.349999999999,1388.5906031535872
+2460,Customer_193,Male,27,Married,Maharashtra,Delhi,Healthcare,Kurti,4794,2,1,UPI,2024-10-29,9492.12,2386.167925517258
+2690,Customer_194,Male,43,Single,Madhya Pradesh,Mumbai,Education,Shirt,2846,2,1,Credit Card,2024-11-02,5635.08,1306.6759555309286
+2574,Customer_195,Female,36,Married,Maharashtra,Patna,IT,Kurti,862,4,2,Cash,2024-11-02,3379.04,1054.8542320737993
+2863,Customer_196,Male,56,Single,Bihar,Patna,Business,Saree,3862,4,7,Debit Card,2024-10-25,14366.64,4556.598041791266
+2742,Customer_197,Male,20,Single,Uttar Pradesh,Patna,Healthcare,Pants,2789,4,23,Debit Card,2024-10-27,8590.12,1859.2301674774035
+2240,Customer_198,Female,30,Single,Uttar Pradesh,Delhi,Education,T-Shirt,1072,1,14,Cash,2024-11-02,921.92,266.1800719092482
+2563,Customer_199,Male,45,Married,Madhya Pradesh,Bhopal,Healthcare,Saree,2337,3,6,UPI,2024-10-26,6590.339999999999,2004.943307644264
+2095,Customer_200,Female,37,Married,Uttar Pradesh,Delhi,Business,Saree,3723,4,5,Debit Card,2024-10-28,14147.4,3974.4310254734805
+2899,Customer_201,Female,45,Married,Uttar Pradesh,Patna,Business,Kurti,2867,4,8,Net Banking,2024-10-28,10550.560000000001,1902.4665864765875
+2733,Customer_202,Male,25,Single,Madhya Pradesh,Mumbai,Student,Shirt,1873,1,19,Debit Card,2024-10-26,1517.13,493.3352004992465
+2484,Customer_203,Female,58,Married,Madhya Pradesh,Lucknow,IT,Pants,3994,4,0,Net Banking,2024-10-27,15976.0,4118.914914902095
+2406,Customer_204,Male,56,Married,Bihar,Bhopal,Student,Shirt,3591,1,7,Cash,2024-10-27,3339.6299999999997,689.6151778556109
+2230,Customer_205,Female,18,Married,Uttar Pradesh,Bhopal,Education,Pants,1546,2,22,Cash,2024-10-25,2411.76,566.8736657022425
+2748,Customer_206,Female,20,Single,Uttar Pradesh,Delhi,Healthcare,Pants,4019,4,22,Debit Card,2024-10-30,12539.28,1975.1148844834422
+2654,Customer_207,Male,30,Single,Bihar,Bhopal,Education,Shirt,4139,4,2,Credit Card,2024-11-01,16224.88,2848.656701163515
+2170,Customer_208,Female,45,Married,Delhi,Patna,Business,Saree,659,2,3,Net Banking,2024-10-27,1278.46,387.5131797329015
+2540,Customer_209,Female,42,Married,Delhi,Patna,Student,Pants,2676,2,24,UPI,2024-10-29,4067.52,610.1374649200293
+2035,Customer_210,Female,50,Married,Delhi,Delhi,Student,Shirt,3309,2,14,Debit Card,2024-10-25,5691.48,1327.8972162980792
+2524,Customer_211,Female,55,Married,Bihar,Patna,Student,Pants,3293,4,5,UPI,2024-11-03,12513.4,3184.68577999928
+2159,Customer_212,Female,23,Single,Uttar Pradesh,Mumbai,Education,T-Shirt,1262,3,14,Debit Card,2024-10-31,3255.96,523.9714972292732
+2838,Customer_213,Male,49,Single,Bihar,Delhi,Business,Saree,3932,3,20,Credit Card,2024-11-03,9436.800000000001,3252.068801667462
+2698,Customer_214,Female,38,Single,Bihar,Mumbai,Healthcare,Kurti,2127,3,2,Credit Card,2024-10-25,6253.38,1220.8165247860147
+2242,Customer_215,Male,33,Single,Delhi,Lucknow,Healthcare,Pants,1913,4,24,Credit Card,2024-11-02,5815.52,1226.1427476038368
+2085,Customer_216,Female,38,Married,Maharashtra,Mumbai,Education,T-Shirt,1940,2,20,Credit Card,2024-11-01,3104.0,654.2875116079209
+2795,Customer_217,Male,28,Married,Uttar Pradesh,Lucknow,Student,Kurti,2516,4,20,Cash,2024-10-31,8051.200000000001,1578.7061260078417
+2577,Customer_218,Male,54,Married,Delhi,Lucknow,IT,Kurti,4612,2,13,Cash,2024-11-03,8024.88,1206.0974490767996
+2681,Customer_219,Female,53,Single,Maharashtra,Mumbai,Education,Pants,677,4,19,Net Banking,2024-10-31,2193.48,648.9826437872275
+2556,Customer_220,Female,52,Married,Maharashtra,Delhi,Education,Shirt,4514,4,13,UPI,2024-10-29,15708.72,5393.889047921405
+2573,Customer_221,Female,36,Single,Madhya Pradesh,Patna,Business,Pants,4585,2,3,Debit Card,2024-10-29,8894.9,1733.2486208944292
+2952,Customer_222,Male,37,Single,Uttar Pradesh,Patna,Healthcare,T-Shirt,669,3,11,Debit Card,2024-10-29,1786.23,504.8054570830054
+2645,Customer_223,Female,35,Married,Maharashtra,Lucknow,Education,Kurti,2496,2,16,Cash,2024-10-25,4193.28,1251.187805981888
+2795,Customer_224,Male,58,Married,Delhi,Lucknow,Education,Pants,4047,1,6,Debit Card,2024-11-01,3804.18,1216.1395717257183
+2027,Customer_225,Male,31,Married,Madhya Pradesh,Delhi,Student,Shirt,951,1,8,Cash,2024-10-25,874.9200000000001,205.19134741022938
+2619,Customer_226,Male,32,Single,Uttar Pradesh,Bhopal,Student,Pants,1069,2,2,Net Banking,2024-10-28,2095.24,441.2285901468105
+2555,Customer_227,Female,48,Married,Bihar,Mumbai,IT,Saree,2721,4,12,UPI,2024-11-02,9577.92,2059.8181540123737
+2339,Customer_228,Female,18,Single,Delhi,Lucknow,Business,Shirt,1080,1,14,Net Banking,2024-11-02,928.8,271.6965388363797
+2797,Customer_229,Male,20,Married,Maharashtra,Patna,IT,T-Shirt,2016,1,17,Credit Card,2024-10-29,1673.28,524.3321491429101
+2957,Customer_230,Male,33,Single,Maharashtra,Delhi,Student,Kurti,4283,4,18,Credit Card,2024-10-28,14048.240000000002,2617.5073212794036
+2330,Customer_231,Female,40,Single,Delhi,Mumbai,Healthcare,Pants,1611,4,0,Credit Card,2024-10-27,6444.0,1444.6687713137278
+2639,Customer_232,Male,28,Married,Maharashtra,Delhi,Student,Shirt,3659,3,5,Net Banking,2024-10-27,10428.15,3445.3360325459294
+2505,Customer_233,Female,29,Single,Madhya Pradesh,Mumbai,Business,Saree,822,4,22,Debit Card,2024-10-29,2564.64,798.4716936699831
+2347,Customer_234,Male,27,Single,Uttar Pradesh,Mumbai,Student,Shirt,821,2,1,UPI,2024-11-03,1625.58,564.0302244725251
+2472,Customer_235,Female,49,Married,Madhya Pradesh,Lucknow,Business,Saree,2620,2,23,Credit Card,2024-10-25,4034.8,1213.8681756330518
+2230,Customer_236,Male,33,Single,Maharashtra,Delhi,Business,T-Shirt,1235,3,13,Credit Card,2024-10-29,3223.35,736.9836502466707
+2189,Customer_237,Female,25,Married,Bihar,Delhi,Business,Kurti,2530,1,5,Credit Card,2024-10-30,2403.5,644.4446068012223
+2224,Customer_238,Male,55,Single,Uttar Pradesh,Patna,Business,T-Shirt,4340,1,13,UPI,2024-10-31,3775.8,1065.5415242374065
+2384,Customer_239,Female,29,Married,Uttar Pradesh,Patna,Business,Pants,4883,4,3,Credit Card,2024-11-02,18946.04,3139.1914068353767
+2376,Customer_240,Female,41,Married,Delhi,Lucknow,Healthcare,Shirt,3997,2,20,UPI,2024-10-27,6395.200000000001,1655.7133905722076
+2282,Customer_241,Male,45,Single,Delhi,Lucknow,IT,Saree,3137,1,7,Credit Card,2024-10-26,2917.41,851.4874356388551
+2957,Customer_242,Male,25,Single,Bihar,Bhopal,Education,Saree,4383,3,2,Net Banking,2024-10-27,12886.02,2364.1241339567487
+2632,Customer_243,Female,45,Single,Uttar Pradesh,Patna,IT,Shirt,2761,3,18,Net Banking,2024-11-02,6792.06,2079.228492531486
+2627,Customer_244,Male,53,Single,Bihar,Mumbai,Business,Shirt,3543,2,13,UPI,2024-10-31,6164.82,1644.4938225538008
+2972,Customer_245,Female,43,Single,Delhi,Delhi,Healthcare,Pants,3659,3,19,Net Banking,2024-11-02,8891.37,3027.016743739605
+2744,Customer_246,Male,25,Married,Delhi,Lucknow,Student,T-Shirt,985,3,16,UPI,2024-10-26,2482.2,393.3901257218293
+2258,Customer_247,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Saree,2460,2,24,Net Banking,2024-10-29,3739.2,759.3014987094804
+2358,Customer_248,Female,45,Married,Madhya Pradesh,Delhi,Business,Pants,4288,4,7,Net Banking,2024-10-28,15951.359999999999,4311.824497621607
+2709,Customer_249,Female,54,Married,Maharashtra,Bhopal,Healthcare,T-Shirt,4366,4,23,UPI,2024-10-26,13447.28,2814.6768352417134
+2455,Customer_250,Female,58,Single,Delhi,Patna,Healthcare,Pants,1867,3,13,Debit Card,2024-11-02,4872.87,1427.1897152755666
+2410,Customer_251,Female,53,Married,Delhi,Lucknow,Business,Saree,338,4,5,Net Banking,2024-11-02,1284.3999999999999,387.6332769742335
+2648,Customer_252,Female,44,Married,Madhya Pradesh,Delhi,Healthcare,Shirt,2844,4,22,Credit Card,2024-10-30,8873.28,1512.9225707263533
+2317,Customer_253,Male,34,Married,Madhya Pradesh,Lucknow,Education,Shirt,1556,3,21,Debit Card,2024-10-30,3687.7200000000003,932.1482769489162
+2676,Customer_254,Male,26,Married,Bihar,Mumbai,Education,T-Shirt,3290,4,15,UPI,2024-11-01,11186.0,2816.3899509683097
+2224,Customer_255,Male,50,Single,Bihar,Bhopal,Healthcare,Kurti,2496,3,24,Debit Card,2024-10-30,5690.88,1273.9385099208437
+2818,Customer_256,Female,37,Married,Maharashtra,Mumbai,Student,T-Shirt,3768,1,18,Cash,2024-10-25,3089.76,1039.966784674654
+2233,Customer_257,Female,30,Single,Maharashtra,Lucknow,Business,Kurti,3008,2,13,Cash,2024-10-28,5233.92,1651.3083755421699
+2683,Customer_258,Female,45,Single,Uttar Pradesh,Lucknow,Education,Pants,601,2,18,Net Banking,2024-10-31,985.6400000000001,285.28549103708286
+2663,Customer_259,Female,46,Married,Bihar,Patna,Student,Pants,946,4,2,Net Banking,2024-10-26,3708.3199999999997,1086.0383499657612
+2974,Customer_260,Male,30,Single,Delhi,Delhi,Healthcare,Saree,2059,4,9,Credit Card,2024-11-02,7494.76,1816.3043372009624
+2826,Customer_261,Male,52,Single,Bihar,Delhi,Student,Kurti,4651,4,18,Debit Card,2024-11-01,15255.28,5098.297859558834
+2373,Customer_262,Female,23,Single,Delhi,Mumbai,IT,Saree,897,2,8,Cash,2024-11-01,1650.48,476.85517215460044
+2671,Customer_263,Male,35,Married,Madhya Pradesh,Bhopal,Education,Shirt,961,1,19,Net Banking,2024-10-31,778.4100000000001,230.25072964070083
+2607,Customer_264,Male,22,Single,Bihar,Delhi,Healthcare,Kurti,4630,1,12,Debit Card,2024-10-28,4074.4,1313.3346836782318
+2471,Customer_265,Female,42,Single,Madhya Pradesh,Patna,Business,T-Shirt,1668,2,6,Net Banking,2024-10-26,3135.8399999999997,642.2649305445631
+2232,Customer_266,Male,19,Single,Maharashtra,Mumbai,Healthcare,Shirt,2881,1,13,Net Banking,2024-10-27,2506.47,780.5503016829549
+2691,Customer_267,Female,27,Married,Maharashtra,Mumbai,Business,Shirt,4168,2,8,Cash,2024-10-30,7669.12,1449.8327225891383
+2112,Customer_268,Male,47,Single,Uttar Pradesh,Patna,Healthcare,T-Shirt,3837,1,22,Cash,2024-10-29,2992.86,655.6410230391269
+2829,Customer_269,Female,22,Married,Bihar,Bhopal,Student,Shirt,4608,3,24,Net Banking,2024-11-01,10506.24,2281.1367958135984
+2496,Customer_270,Female,50,Married,Madhya Pradesh,Patna,Student,Kurti,4858,3,18,UPI,2024-10-30,11950.68,4131.410948913746
+2441,Customer_271,Female,18,Married,Delhi,Bhopal,Student,Saree,582,2,14,Net Banking,2024-10-30,1001.04,321.6416044921249
+2563,Customer_272,Female,35,Married,Maharashtra,Patna,IT,Shirt,3978,1,19,Net Banking,2024-10-25,3222.1800000000003,935.1861009237806
+2267,Customer_273,Male,49,Married,Maharashtra,Patna,Business,Kurti,1786,4,13,Credit Card,2024-10-28,6215.28,1836.0642698665804
+2509,Customer_274,Female,28,Married,Delhi,Lucknow,Student,Pants,4382,1,23,Credit Card,2024-10-29,3374.14,885.4234597010981
+2806,Customer_275,Female,38,Single,Madhya Pradesh,Mumbai,IT,Kurti,4483,3,5,Credit Card,2024-10-27,12776.55,4336.5927525690695
+2385,Customer_276,Female,43,Married,Madhya Pradesh,Patna,Business,Saree,760,3,20,UPI,2024-11-02,1824.0,454.6351930514855
+2386,Customer_277,Male,42,Single,Bihar,Patna,Healthcare,Kurti,2625,1,3,UPI,2024-10-25,2546.25,575.7161437512437
+2112,Customer_278,Female,39,Single,Bihar,Delhi,IT,T-Shirt,4054,1,7,Net Banking,2024-10-30,3770.22,688.4688176012445
+2612,Customer_279,Male,44,Married,Uttar Pradesh,Mumbai,Education,Saree,2768,4,16,Credit Card,2024-10-30,9300.48,2857.4899889481844
+2624,Customer_280,Female,30,Single,Maharashtra,Delhi,IT,Pants,2024,4,8,UPI,2024-11-03,7448.320000000001,2211.322685631454
+2951,Customer_281,Male,50,Single,Bihar,Mumbai,IT,T-Shirt,1676,1,0,Cash,2024-10-29,1676.0,380.23580891329
+2080,Customer_282,Male,51,Single,Madhya Pradesh,Delhi,Business,Kurti,3043,1,23,Net Banking,2024-10-29,2343.11,363.27268803640203
+2698,Customer_283,Female,58,Single,Delhi,Patna,Healthcare,Saree,814,1,19,Debit Card,2024-11-03,659.34,209.53789961151864
+2112,Customer_284,Male,52,Married,Madhya Pradesh,Patna,Education,Pants,1002,1,24,Net Banking,2024-10-29,761.52,115.96700455198923
+2001,Customer_285,Female,18,Single,Maharashtra,Lucknow,Student,T-Shirt,1953,2,13,Debit Card,2024-10-30,3398.22,987.9983330262065
+2641,Customer_286,Female,38,Married,Madhya Pradesh,Delhi,Student,Pants,2366,1,10,Credit Card,2024-11-01,2129.4,732.6230978901332
+2219,Customer_287,Female,23,Single,Uttar Pradesh,Bhopal,IT,Kurti,322,4,20,Debit Card,2024-10-26,1030.4,244.7532465047818
+2565,Customer_288,Male,45,Single,Maharashtra,Lucknow,Business,Pants,2760,3,2,Credit Card,2024-10-30,8114.4,1598.4936394998317
+2854,Customer_289,Male,34,Married,Delhi,Delhi,Business,Shirt,1604,2,8,Cash,2024-10-25,2951.36,858.7696208403269
+2996,Customer_290,Female,22,Single,Uttar Pradesh,Delhi,Student,T-Shirt,3600,1,13,Debit Card,2024-10-28,3132.0,981.6490681585626
+2735,Customer_291,Female,48,Single,Maharashtra,Lucknow,Education,Pants,661,3,8,Net Banking,2024-11-03,1824.3600000000001,473.03112228795635
+2224,Customer_292,Male,22,Single,Delhi,Patna,Healthcare,Kurti,4027,2,3,Credit Card,2024-10-27,7812.38,2682.826408741122
+2384,Customer_293,Female,55,Married,Uttar Pradesh,Delhi,Education,Kurti,1584,3,3,Net Banking,2024-11-02,4609.44,739.0487744718145
+2402,Customer_294,Female,20,Single,Uttar Pradesh,Patna,Healthcare,Pants,814,1,7,UPI,2024-10-27,757.02,189.98107276569877
+2637,Customer_295,Female,40,Married,Maharashtra,Lucknow,Student,Kurti,748,1,1,Credit Card,2024-10-30,740.52,217.48390341425895
+2129,Customer_296,Male,54,Single,Bihar,Patna,Healthcare,Saree,2155,4,8,Debit Card,2024-10-25,7930.400000000001,2557.7767984802895
+2052,Customer_297,Male,54,Married,Uttar Pradesh,Mumbai,Business,Saree,3862,1,13,Credit Card,2024-10-30,3359.94,624.448620134692
+2683,Customer_298,Male,27,Married,Uttar Pradesh,Bhopal,IT,Saree,2820,1,21,Net Banking,2024-10-28,2227.8,690.619551334626
+2729,Customer_299,Female,27,Single,Delhi,Delhi,IT,Shirt,3381,2,8,Cash,2024-11-01,6221.04,1620.8385652656198
+2671,Customer_300,Female,36,Single,Madhya Pradesh,Bhopal,Student,Pants,1728,4,23,Credit Card,2024-11-02,5322.24,1220.446773686852

@@ -1,0 +1,63 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+1102,Customer_1,Female,33,Married,Delhi,Mumbai,Student,Gulab Jamun,645,4,12,Net Banking,2024-10-26,2270.4,316.4600238782128
+1860,Customer_3,Male,59,Single,Madhya Pradesh,Patna,Student,Gulab Jamun,211,5,20,Debit Card,2024-10-30,844.0,252.32549682145253
+1071,Customer_6,Male,34,Married,Madhya Pradesh,Patna,Education,Gulab Jamun,741,1,1,Net Banking,2024-10-27,733.59,156.9207373785263
+1700,Customer_7,Female,36,Married,Delhi,Delhi,Healthcare,Gulab Jamun,436,4,3,Net Banking,2024-10-26,1691.68,256.9803287526657
+1214,Customer_12,Female,40,Married,Madhya Pradesh,Lucknow,Business,Gulab Jamun,447,3,2,Net Banking,2024-10-25,1314.18,389.30685790325447
+1372,Customer_16,Female,18,Single,Delhi,Lucknow,Business,Gulab Jamun,348,1,19,Net Banking,2024-10-30,281.88,81.39012099683276
+1099,Customer_17,Female,51,Single,Madhya Pradesh,Mumbai,Healthcare,Gulab Jamun,283,2,1,Cash,2024-10-26,560.34,163.63447691450963
+1871,Customer_18,Male,49,Married,Bihar,Bhopal,Student,Gulab Jamun,605,5,4,Credit Card,2024-10-26,2904.0,593.263758169431
+1661,Customer_21,Female,18,Single,Uttar Pradesh,Patna,IT,Gulab Jamun,659,2,19,Debit Card,2024-10-26,1067.5800000000002,141.27743837957118
+1413,Customer_26,Female,46,Married,Madhya Pradesh,Bhopal,Education,Gulab Jamun,313,4,11,Cash,2024-11-01,1114.28,259.98391635841335
+1856,Customer_38,Male,22,Married,Uttar Pradesh,Bhopal,Healthcare,Gulab Jamun,605,3,2,Cash,2024-10-29,1778.7,292.30088212148786
+1474,Customer_40,Female,33,Married,Madhya Pradesh,Lucknow,Education,Gulab Jamun,541,5,15,Net Banking,2024-11-02,2299.25,565.091934227835
+1562,Customer_52,Female,53,Single,Bihar,Delhi,Business,Gulab Jamun,415,2,10,Debit Card,2024-10-28,747.0,188.39458377021154
+1875,Customer_53,Male,51,Single,Delhi,Delhi,Education,Gulab Jamun,661,4,24,Credit Card,2024-10-26,2009.44,350.3354415983049
+1243,Customer_55,Female,27,Single,Bihar,Patna,Business,Gulab Jamun,266,1,15,Credit Card,2024-10-28,226.1,56.71786209475236
+1130,Customer_58,Female,18,Single,Bihar,Bhopal,Student,Gulab Jamun,272,1,4,Net Banking,2024-10-30,261.12,56.25164993326526
+1897,Customer_74,Female,54,Single,Uttar Pradesh,Lucknow,Student,Gulab Jamun,580,5,8,Debit Card,2024-10-26,2668.0,729.3086611644017
+1366,Customer_77,Female,18,Married,Maharashtra,Lucknow,Healthcare,Gulab Jamun,224,5,7,UPI,2024-10-25,1041.6,225.3235560755088
+1205,Customer_85,Female,19,Single,Bihar,Patna,Student,Gulab Jamun,211,4,14,Debit Card,2024-11-02,725.84,209.97919910101805
+1702,Customer_98,Female,21,Married,Maharashtra,Lucknow,Healthcare,Gulab Jamun,716,3,8,Cash,2024-11-01,1976.16,224.89000884354863
+1555,Customer_101,Female,53,Married,Delhi,Lucknow,IT,Gulab Jamun,581,1,14,Net Banking,2024-10-25,499.65999999999997,90.87936716081826
+1701,Customer_114,Female,49,Married,Maharashtra,Patna,Business,Gulab Jamun,279,1,7,Credit Card,2024-10-25,259.46999999999997,32.58251978263613
+1748,Customer_118,Male,54,Married,Madhya Pradesh,Mumbai,Student,Gulab Jamun,300,5,19,Cash,2024-11-02,1215.0,248.46997400379797
+1763,Customer_125,Female,47,Married,Delhi,Delhi,Business,Gulab Jamun,430,5,22,Cash,2024-11-03,1677.0,168.19431992774886
+1520,Customer_136,Female,29,Married,Delhi,Bhopal,IT,Gulab Jamun,709,3,19,Credit Card,2024-11-02,1722.8700000000001,453.72796789171304
+1062,Customer_141,Female,48,Single,Bihar,Delhi,Student,Gulab Jamun,445,4,22,Credit Card,2024-11-02,1388.4,412.3154812790843
+1391,Customer_145,Female,52,Married,Madhya Pradesh,Bhopal,IT,Gulab Jamun,264,4,19,Net Banking,2024-11-01,855.36,198.61703050259757
+1674,Customer_146,Male,29,Married,Maharashtra,Patna,Education,Gulab Jamun,212,1,13,UPI,2024-10-30,184.44,21.338078152306068
+1378,Customer_149,Female,53,Married,Bihar,Mumbai,IT,Gulab Jamun,692,4,20,UPI,2024-10-31,2214.4,295.5432591159896
+1200,Customer_156,Female,48,Married,Madhya Pradesh,Mumbai,Healthcare,Gulab Jamun,594,1,19,Cash,2024-10-26,481.14000000000004,76.6513672317523
+1779,Customer_158,Female,52,Single,Uttar Pradesh,Delhi,IT,Gulab Jamun,382,4,13,Net Banking,2024-10-30,1329.36,334.7342524746708
+1047,Customer_161,Female,28,Single,Uttar Pradesh,Mumbai,IT,Gulab Jamun,763,4,2,Debit Card,2024-10-30,2990.96,603.5102592301249
+1098,Customer_167,Female,55,Married,Bihar,Patna,Healthcare,Gulab Jamun,220,1,7,Cash,2024-11-02,204.6,39.35342460483283
+1871,Customer_169,Female,30,Married,Uttar Pradesh,Bhopal,Healthcare,Gulab Jamun,596,4,8,Net Banking,2024-10-30,2193.28,524.0164517372172
+1546,Customer_172,Female,26,Single,Uttar Pradesh,Lucknow,Healthcare,Gulab Jamun,216,3,8,Net Banking,2024-10-29,596.1600000000001,92.29410374044812
+1612,Customer_175,Female,22,Single,Maharashtra,Bhopal,IT,Gulab Jamun,624,4,15,Credit Card,2024-10-29,2121.6,358.69549717655076
+1004,Customer_180,Male,25,Single,Uttar Pradesh,Patna,IT,Gulab Jamun,228,1,10,UPI,2024-10-25,205.20000000000002,50.358409496695614
+1397,Customer_184,Male,24,Married,Delhi,Patna,Business,Gulab Jamun,431,2,20,Net Banking,2024-11-02,689.6,121.44100254525586
+1553,Customer_191,Female,56,Single,Bihar,Bhopal,Business,Gulab Jamun,615,3,0,Net Banking,2024-11-02,1845.0,188.71323589455318
+1891,Customer_192,Male,44,Married,Delhi,Bhopal,Healthcare,Gulab Jamun,648,1,20,Credit Card,2024-10-28,518.4,124.79959315193999
+1460,Customer_193,Male,27,Married,Maharashtra,Delhi,Healthcare,Gulab Jamun,286,5,8,Net Banking,2024-11-03,1315.6000000000001,386.8540507111201
+1574,Customer_195,Female,36,Married,Maharashtra,Patna,IT,Gulab Jamun,207,1,3,Credit Card,2024-10-30,200.79,29.51506199782747
+1899,Customer_201,Female,45,Married,Uttar Pradesh,Patna,Business,Gulab Jamun,634,4,7,Debit Card,2024-11-03,2358.48,473.9580645378527
+1698,Customer_214,Female,38,Single,Bihar,Mumbai,Healthcare,Gulab Jamun,698,1,19,Credit Card,2024-11-03,565.38,132.60456377316535
+1795,Customer_217,Male,28,Married,Uttar Pradesh,Lucknow,Student,Gulab Jamun,690,1,20,Credit Card,2024-11-02,552.0,124.18610059661268
+1577,Customer_218,Male,54,Married,Delhi,Lucknow,IT,Gulab Jamun,641,2,18,Net Banking,2024-10-29,1051.24,225.33244946400688
+1645,Customer_223,Female,35,Married,Maharashtra,Lucknow,Education,Gulab Jamun,519,2,3,Net Banking,2024-11-02,1006.86,111.12427854033808
+1957,Customer_230,Male,33,Single,Maharashtra,Delhi,Student,Gulab Jamun,559,3,2,Credit Card,2024-10-30,1643.46,405.1783163366204
+1189,Customer_237,Female,25,Married,Bihar,Delhi,Business,Gulab Jamun,416,2,8,Debit Card,2024-10-31,765.44,127.43904818558202
+1224,Customer_255,Male,50,Single,Bihar,Bhopal,Healthcare,Gulab Jamun,687,2,16,Cash,2024-11-03,1154.1599999999999,339.47920833002206
+1233,Customer_257,Female,30,Single,Maharashtra,Lucknow,Business,Gulab Jamun,613,3,7,Net Banking,2024-11-03,1710.27,309.0803372617917
+1826,Customer_261,Male,52,Single,Bihar,Delhi,Student,Gulab Jamun,312,2,12,Cash,2024-11-01,549.12,92.96867022123934
+1607,Customer_264,Male,22,Single,Bihar,Delhi,Healthcare,Gulab Jamun,421,5,16,Credit Card,2024-10-25,1768.2,249.4339404442727
+1496,Customer_270,Female,50,Married,Madhya Pradesh,Patna,Student,Gulab Jamun,596,4,7,Credit Card,2024-11-02,2217.12,489.3792220208403
+1267,Customer_273,Male,49,Married,Maharashtra,Patna,Business,Gulab Jamun,437,5,0,UPI,2024-10-25,2185.0,634.2719475095122
+1806,Customer_275,Female,38,Single,Madhya Pradesh,Mumbai,IT,Gulab Jamun,402,1,20,Debit Card,2024-10-29,321.6,38.081748544824826
+1386,Customer_277,Male,42,Single,Bihar,Patna,Healthcare,Gulab Jamun,797,2,16,Cash,2024-10-28,1338.96,300.90415363590694
+1080,Customer_282,Male,51,Single,Madhya Pradesh,Delhi,Business,Gulab Jamun,740,3,8,UPI,2024-10-26,2042.4,306.72479130390155
+1219,Customer_287,Female,23,Single,Uttar Pradesh,Bhopal,IT,Gulab Jamun,761,3,16,Debit Card,2024-10-29,1917.72,295.7493415536848
+1224,Customer_292,Male,22,Single,Delhi,Patna,Healthcare,Gulab Jamun,660,4,22,Net Banking,2024-11-03,2059.2000000000003,269.684615812245
+1384,Customer_293,Female,55,Married,Uttar Pradesh,Delhi,Education,Gulab Jamun,477,3,8,Net Banking,2024-10-27,1316.52,380.40483588262003
+1637,Customer_295,Female,40,Married,Maharashtra,Lucknow,Student,Gulab Jamun,552,4,12,Cash,2024-11-01,1943.04,537.4424642794484

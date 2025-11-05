@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>KURTAS</title>
+<link rel="icon" href="/assignments/images/shopping_app-removebg-preview.ico">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+
+
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alan Sans", sans-serif;
+    background-color: #fff3e0;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  .h1 {
+    font-family: "Bitcount Prop Single Ink", system-ui;
+  }
+  .products {
+    display: flex;
+    overflow-x: auto;
+    padding: 40px;
+  }
+  .product {
+    flex: 0 0 auto;
+    width: 200px;
+    height: 450px;
+    margin-right: 20px;
+    background-color: #ffe0b2;
+    border-radius: 10px;
+    padding: 35px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  .product:hover {
+    transform: scale(1.05);
+  }
+  .product img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  .back {
+    position: sticky;
+    left: 20px;
+  }
+  .back:hover, .back:focus {
+    color: blue;
+    transform: translateX(2px);
+    transform: translateY(-2px);
+    transition: all 0.3s ease-in-out;
+  }
+  .all {
+    color: rgb(254, 169, 116);
+    position: sticky;
+    right: 20px;
+  }
+  .all:hover, .all:focus {
+    color: blue;
+    transform: translateX(2px);
+    transform: translateY(-2px);
+    transition: all 0.3s ease-in-out;
+  }
+</style>
+</head>
+<header>
+    <a class="back" href="index.html">Go back</a>
+    <h1 class="h1">KURTA</h1>
+    <a class="all" href="/assignments/final analysis page/kurta/overall/overall.html">ANALYSIS OF ALL KURTAS</a>
+</header>
+<div class="products">
+  <div class="product" onclick="alert('Firecracker A clicked!')">
+    <img src="/assignments/images/kurta1.png" alt="aalook bam" />
+    <h3>straight cut kurta</h3>
+    <p>Current prize:3750rs</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/kurta/kurta 1/kurta 1.html">CLICK HERE</a>
+  </div>
+  <div class="product" onclick="alert('Firecracker B clicked!')">
+    <img src="/assignments/images/kurta2.png" alt="Firecracker B" />
+    <h3>pathani kurta</h3>
+    <p>Current prize:4000rs</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/kurta/kurta 2/kurta 2.html">CLICK HERE</a>
+  </div>
+  <div class="product" onclick="alert('Firecracker C clicked!')">
+    <img src="/assignments/images/kurta3.png" alt="Firecracker C" />
+    <h3>asymmetric kurta</h3>
+    <p>Current prize:4500rs</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/kurta/kurta 3/kurta 3.html">CLICK HERE</a>
+  </div>
+  <div class="product" onclick="alert('Firecracker C clicked!')">
+    <img src="/assignments/images/kurti1.png" alt="Firecracker C" />
+    <h3>anarkali kurti</h3>
+    <p>Current prize:5000rs</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/kurta/kurti 1/kurti 1.html">CLICK HERE</a>
+  </div>
+  <div class="product" onclick="alert('Firecracker C clicked!')">
+    <img src="/assignments/images/kurti2.png" alt="Firecracker C" />
+    <h3>A-line kurti</h3>
+    <p>Current prize:3000rs</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/kurta/kurti 2/kurti 2.html">CLICK HERE</a>
+  </div>
+</div>
+
+</body>
+</html>

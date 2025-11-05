@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+1102,Customer_1,Female,33,Married,Delhi,Mumbai,Student,Gulab Jamun,645,4,12,Net Banking,2024-10-26,2270.4,316.4600238782128
+1435,Customer_2,Female,30,Married,Bihar,Mumbai,Education,Rasgulla,254,1,22,Cash,2024-10-28,198.12,57.51145480577724
+1860,Customer_3,Male,59,Single,Madhya Pradesh,Patna,Student,Gulab Jamun,211,5,20,Debit Card,2024-10-30,844.0,252.32549682145253
+1270,Customer_4,Female,47,Married,Bihar,Patna,Healthcare,Ladoo,599,2,20,Credit Card,2024-10-27,958.4000000000001,232.26302740540262
+1106,Customer_5,Male,36,Single,Maharashtra,Mumbai,IT,Ladoo,714,2,12,Debit Card,2024-11-01,1256.64,372.25289182377503
+1071,Customer_6,Male,34,Married,Madhya Pradesh,Patna,Education,Gulab Jamun,741,1,1,Net Banking,2024-10-27,733.59,156.9207373785263
+1700,Customer_7,Female,36,Married,Delhi,Delhi,Healthcare,Gulab Jamun,436,4,3,Net Banking,2024-10-26,1691.68,256.9803287526657
+1020,Customer_8,Male,45,Married,Madhya Pradesh,Mumbai,Healthcare,Ladoo,478,5,5,Net Banking,2024-10-27,2270.5,425.48983168075836
+1614,Customer_9,Male,43,Married,Uttar Pradesh,Patna,Education,Rasgulla,547,3,22,Debit Card,2024-10-30,1279.98,279.9472252132277
+1121,Customer_10,Male,54,Single,Madhya Pradesh,Mumbai,Student,Kaju Katli,303,1,4,Net Banking,2024-10-26,290.88,33.33959295248363
+1466,Customer_11,Female,43,Single,Uttar Pradesh,Bhopal,Healthcare,Kaju Katli,716,4,24,Cash,2024-11-01,2176.64,488.58744869929643
+1214,Customer_12,Female,40,Married,Madhya Pradesh,Lucknow,Business,Gulab Jamun,447,3,2,Net Banking,2024-10-25,1314.18,389.30685790325447
+1330,Customer_13,Male,26,Married,Uttar Pradesh,Mumbai,Healthcare,Kaju Katli,563,2,0,UPI,2024-10-31,1126.0,155.41224273129546
+1458,Customer_14,Female,29,Single,Maharashtra,Lucknow,Student,Ladoo,520,2,3,Debit Card,2024-10-26,1008.8,260.7939906623442
+1087,Customer_15,Female,18,Single,Bihar,Patna,Student,Ladoo,485,3,24,UPI,2024-11-03,1105.8,311.37089723230065
+1372,Customer_16,Female,18,Single,Delhi,Lucknow,Business,Gulab Jamun,348,1,19,Net Banking,2024-10-30,281.88,81.39012099683276
+1099,Customer_17,Female,51,Single,Madhya Pradesh,Mumbai,Healthcare,Gulab Jamun,283,2,1,Cash,2024-10-26,560.34,163.63447691450963
+1871,Customer_18,Male,49,Married,Bihar,Bhopal,Student,Gulab Jamun,605,5,4,Credit Card,2024-10-26,2904.0,593.263758169431
+1663,Customer_19,Male,42,Single,Delhi,Patna,Education,Rasgulla,655,3,2,Net Banking,2024-11-03,1925.7,568.9703676838477
+1130,Customer_20,Female,57,Married,Delhi,Mumbai,IT,Kaju Katli,360,3,8,Cash,2024-11-01,993.6,249.8526843617557
+1661,Customer_21,Female,18,Single,Uttar Pradesh,Patna,IT,Gulab Jamun,659,2,19,Debit Card,2024-10-26,1067.5800000000002,141.27743837957118
+1308,Customer_22,Male,33,Single,Maharashtra,Delhi,IT,Barfi,749,1,5,UPI,2024-10-31,711.55,139.0226541514568
+1769,Customer_23,Male,56,Single,Maharashtra,Lucknow,Healthcare,Barfi,699,5,17,UPI,2024-10-27,2900.85,706.8391980155756
+1343,Customer_24,Female,22,Single,Bihar,Delhi,Business,Ladoo,708,1,5,UPI,2024-11-01,672.6,100.5322192839831
+1491,Customer_25,Male,39,Single,Maharashtra,Mumbai,Student,Kaju Katli,680,4,18,Debit Card,2024-10-31,2230.4,508.8056210774877
+1413,Customer_26,Female,46,Married,Madhya Pradesh,Bhopal,Education,Gulab Jamun,313,4,11,Cash,2024-11-01,1114.28,259.98391635841335
+1805,Customer_27,Female,20,Married,Maharashtra,Patna,Education,Barfi,777,2,24,Debit Card,2024-10-31,1181.04,156.53498108553373
+1385,Customer_28,Male,29,Single,Bihar,Lucknow,Healthcare,Kaju Katli,560,2,10,UPI,2024-10-30,1008.0,214.72119899047564
+1191,Customer_29,Male,43,Single,Maharashtra,Patna,IT,Ladoo,540,2,1,Net Banking,2024-10-31,1069.2,271.92469864366547
+1955,Customer_30,Female,33,Married,Madhya Pradesh,Mumbai,Healthcare,Rasgulla,648,4,14,Credit Card,2024-10-29,2229.12,445.33166074607175
+1276,Customer_31,Female,54,Single,Uttar Pradesh,Patna,Business,Kaju Katli,379,1,11,Debit Card,2024-10-31,337.31,34.54750046394976
+1160,Customer_32,Male,39,Single,Bihar,Lucknow,Business,Kaju Katli,606,1,11,Debit Card,2024-10-25,539.34,54.9089615826451
+1459,Customer_33,Female,46,Married,Uttar Pradesh,Mumbai,Student,Rasgulla,395,2,8,Cash,2024-10-25,726.8000000000001,124.57778543948098
+1313,Customer_34,Male,31,Single,Uttar Pradesh,Patna,Student,Kaju Katli,665,5,20,Cash,2024-11-02,2660.0,758.735244405708
+1021,Customer_35,Female,45,Single,Uttar Pradesh,Bhopal,Business,Ladoo,510,1,23,Debit Card,2024-10-29,392.7,57.23027427006743
+1252,Customer_36,Male,22,Married,Delhi,Mumbai,Business,Ladoo,461,4,1,UPI,2024-10-29,1825.56,414.1697951713194
+1747,Customer_37,Male,47,Married,Delhi,Mumbai,Business,Rasgulla,618,3,21,Credit Card,2024-10-27,1464.66,211.5191289539358
+1856,Customer_38,Male,22,Married,Uttar Pradesh,Bhopal,Healthcare,Gulab Jamun,605,3,2,Cash,2024-10-29,1778.7,292.30088212148786
+1560,Customer_39,Female,29,Single,Bihar,Delhi,Business,Barfi,342,3,11,UPI,2024-10-27,913.14,246.1902307397398
+1474,Customer_40,Female,33,Married,Madhya Pradesh,Lucknow,Education,Gulab Jamun,541,5,15,Net Banking,2024-11-02,2299.25,565.091934227835
+1058,Customer_41,Male,43,Married,Madhya Pradesh,Delhi,IT,Kaju Katli,515,2,20,Cash,2024-11-02,824.0,98.12180090121711
+1510,Customer_42,Female,43,Married,Maharashtra,Patna,Business,Barfi,300,4,23,UPI,2024-10-30,924.0,171.62413347829292
+1681,Customer_43,Male,38,Married,Bihar,Bhopal,IT,Rasgulla,443,5,0,UPI,2024-10-25,2215.0,234.42220529485218
+1475,Customer_44,Male,56,Married,Delhi,Delhi,Healthcare,Rasgulla,689,4,20,Credit Card,2024-10-31,2204.8,432.5333190460629
+1699,Customer_45,Female,53,Married,Uttar Pradesh,Mumbai,IT,Barfi,211,4,2,Credit Card,2024-10-31,827.12,192.29448395163746
+1975,Customer_46,Female,50,Single,Maharashtra,Patna,Healthcare,Ladoo,438,2,19,Net Banking,2024-11-03,709.5600000000001,87.7729443200609
+1782,Customer_47,Male,47,Single,Madhya Pradesh,Patna,Education,Barfi,760,3,1,UPI,2024-11-03,2257.2,356.1342168211537
+1189,Customer_48,Female,54,Married,Delhi,Delhi,Healthcare,Kaju Katli,241,2,8,UPI,2024-10-28,443.44,79.62733464253529
+1957,Customer_49,Female,40,Married,Delhi,Delhi,Healthcare,Ladoo,793,5,18,Credit Card,2024-11-01,3251.3,923.064244092843
+1686,Customer_50,Male,27,Married,Uttar Pradesh,Bhopal,Student,Rasgulla,628,5,14,Cash,2024-10-30,2700.4,806.4771687296344
+1957,Customer_51,Male,22,Single,Madhya Pradesh,Lucknow,Business,Barfi,357,5,17,Cash,2024-10-28,1481.55,161.46266700539095
+1562,Customer_52,Female,53,Single,Bihar,Delhi,Business,Gulab Jamun,415,2,10,Debit Card,2024-10-28,747.0,188.39458377021154
+1875,Customer_53,Male,51,Single,Delhi,Delhi,Education,Gulab Jamun,661,4,24,Credit Card,2024-10-26,2009.44,350.3354415983049
+1566,Customer_54,Male,48,Single,Uttar Pradesh,Mumbai,Education,Kaju Katli,333,4,22,Debit Card,2024-10-26,1038.96,185.4456714329961
+1243,Customer_55,Female,27,Single,Bihar,Patna,Business,Gulab Jamun,266,1,15,Credit Card,2024-10-28,226.1,56.71786209475236
+1831,Customer_56,Male,36,Single,Madhya Pradesh,Lucknow,Student,Barfi,206,5,21,Net Banking,2024-10-29,813.7,230.83471756734383
+1504,Customer_57,Male,49,Single,Delhi,Mumbai,Business,Barfi,725,4,16,UPI,2024-11-01,2436.0,706.8924112416416
+1130,Customer_58,Female,18,Single,Bihar,Bhopal,Student,Gulab Jamun,272,1,4,Net Banking,2024-10-30,261.12,56.25164993326526
+1484,Customer_59,Female,22,Single,Bihar,Bhopal,Education,Barfi,598,4,11,Credit Card,2024-10-28,2128.88,364.9416187223309
+1818,Customer_60,Male,21,Married,Bihar,Delhi,IT,Kaju Katli,604,5,10,UPI,2024-10-31,2718.0,699.9116830728323
+1646,Customer_61,Male,33,Married,Delhi,Delhi,Education,Ladoo,777,3,14,Cash,2024-11-01,2004.66,301.1004865941206
+1020,Customer_62,Female,41,Married,Delhi,Bhopal,Education,Kaju Katli,329,5,2,Cash,2024-10-26,1612.1,343.07874837650274
+1840,Customer_63,Female,33,Married,Maharashtra,Delhi,Healthcare,Kaju Katli,665,2,0,Debit Card,2024-10-31,1330.0,228.38187076561627
+1166,Customer_64,Female,19,Single,Madhya Pradesh,Lucknow,Healthcare,Barfi,405,4,19,Credit Card,2024-10-26,1312.2,303.54625898389503
+1273,Customer_65,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Ladoo,465,4,15,Credit Card,2024-10-26,1581.0,234.11413625692688
+1387,Customer_66,Male,49,Married,Bihar,Patna,Healthcare,Barfi,736,2,1,Cash,2024-11-01,1457.28,201.5689135920894
+1600,Customer_67,Female,44,Single,Maharashtra,Delhi,Student,Rasgulla,452,2,1,Net Banking,2024-10-26,894.96,253.8534506022098
+1315,Customer_68,Female,37,Married,Uttar Pradesh,Mumbai,Business,Barfi,488,3,2,UPI,2024-11-02,1434.72,172.68395600027193
+1013,Customer_69,Male,41,Single,Maharashtra,Lucknow,IT,Barfi,363,4,7,Net Banking,2024-10-25,1350.36,271.68106405778843
+1241,Customer_70,Female,29,Married,Delhi,Mumbai,Education,Barfi,294,4,23,Net Banking,2024-11-02,905.52,130.54932240573277
+1776,Customer_71,Male,52,Single,Bihar,Mumbai,Student,Ladoo,309,3,14,Cash,2024-10-25,797.22,85.92914907249774
+1345,Customer_72,Female,50,Single,Uttar Pradesh,Patna,IT,Barfi,535,1,6,Cash,2024-11-03,502.9,53.91277274375167
+1564,Customer_73,Female,50,Married,Uttar Pradesh,Lucknow,Student,Ladoo,437,3,5,Cash,2024-11-03,1245.45,168.19099121384053
+1897,Customer_74,Female,54,Single,Uttar Pradesh,Lucknow,Student,Gulab Jamun,580,5,8,Debit Card,2024-10-26,2668.0,729.3086611644017
+1339,Customer_75,Male,29,Married,Uttar Pradesh,Lucknow,Education,Rasgulla,635,4,19,Net Banking,2024-10-30,2057.4,321.97435357166694
+1091,Customer_76,Male,20,Married,Uttar Pradesh,Lucknow,Business,Ladoo,682,2,0,Credit Card,2024-10-30,1364.0,395.68526173294066
+1366,Customer_77,Female,18,Married,Maharashtra,Lucknow,Healthcare,Gulab Jamun,224,5,7,UPI,2024-10-25,1041.6,225.3235560755088
+1955,Customer_78,Male,50,Married,Bihar,Patna,Business,Ladoo,316,4,22,Debit Card,2024-10-31,985.9200000000001,184.68533239536438
+1454,Customer_79,Male,57,Single,Delhi,Delhi,Education,Ladoo,681,3,22,Credit Card,2024-11-01,1593.54,344.2329523198325
+1427,Customer_80,Male,27,Single,Delhi,Mumbai,Education,Rasgulla,591,5,2,Net Banking,2024-10-26,2895.9,588.8513707553498
+1508,Customer_81,Male,46,Single,Delhi,Lucknow,Education,Kaju Katli,736,4,3,Cash,2024-11-01,2855.68,718.9324344659435
+1775,Customer_82,Male,30,Married,Delhi,Delhi,IT,Kaju Katli,278,1,24,Net Banking,2024-11-02,211.28,33.065153763748846
+1942,Customer_83,Male,29,Single,Maharashtra,Delhi,Business,Ladoo,779,1,14,UPI,2024-10-30,669.9399999999999,114.29851586974131
+1034,Customer_84,Female,48,Married,Madhya Pradesh,Mumbai,Business,Barfi,372,2,5,Debit Card,2024-10-29,706.8,197.06917060610033
+1205,Customer_85,Female,19,Single,Bihar,Patna,Student,Gulab Jamun,211,4,14,Debit Card,2024-11-02,725.84,209.97919910101805
+1080,Customer_86,Male,52,Single,Uttar Pradesh,Bhopal,Student,Barfi,327,1,20,UPI,2024-11-02,261.6,72.85864646209235
+1931,Customer_87,Female,40,Single,Madhya Pradesh,Bhopal,Student,Barfi,291,3,2,Credit Card,2024-10-25,855.54,157.324907350048
+1561,Customer_88,Female,34,Married,Delhi,Delhi,Education,Ladoo,742,4,24,Credit Card,2024-10-27,2255.68,577.6189715645125
+1871,Customer_89,Female,43,Single,Madhya Pradesh,Mumbai,Business,Ladoo,731,3,20,Debit Card,2024-11-02,1754.4,342.5766821006896
+1387,Customer_90,Female,25,Single,Bihar,Bhopal,Education,Ladoo,646,3,20,Debit Card,2024-10-26,1550.4,309.31715735346336
+1001,Customer_91,Male,46,Married,Uttar Pradesh,Delhi,IT,Ladoo,589,1,13,Cash,2024-10-28,512.43,72.2198456568448
+1389,Customer_92,Female,43,Single,Uttar Pradesh,Patna,Student,Kaju Katli,242,4,19,Credit Card,2024-10-28,784.08,171.10668963578755
+1565,Customer_93,Female,27,Married,Bihar,Bhopal,Education,Ladoo,453,5,13,UPI,2024-10-26,1970.55,270.41301866357196
+1105,Customer_94,Male,43,Single,Bihar,Delhi,Education,Kaju Katli,329,1,3,Credit Card,2024-10-27,319.13,53.07544848266271
+1771,Customer_95,Male,51,Married,Delhi,Delhi,IT,Kaju Katli,259,1,11,Cash,2024-10-27,230.51,62.469602355082245
+1821,Customer_96,Female,58,Married,Uttar Pradesh,Lucknow,Healthcare,Ladoo,666,4,16,Debit Card,2024-10-25,2237.7599999999998,316.4531925639366
+1476,Customer_97,Female,24,Single,Madhya Pradesh,Patna,Business,Rasgulla,486,4,6,Debit Card,2024-10-30,1827.36,208.74236079890485
+1702,Customer_98,Female,21,Married,Maharashtra,Lucknow,Healthcare,Gulab Jamun,716,3,8,Cash,2024-11-01,1976.16,224.89000884354863
+1401,Customer_99,Female,28,Married,Maharashtra,Mumbai,Student,Barfi,666,4,2,UPI,2024-10-27,2610.72,752.2969926735747
+1729,Customer_100,Female,46,Married,Bihar,Lucknow,Education,Kaju Katli,544,3,12,Debit Card,2024-10-29,1436.16,289.2197712366537
+1555,Customer_101,Female,53,Married,Delhi,Lucknow,IT,Gulab Jamun,581,1,14,Net Banking,2024-10-25,499.65999999999997,90.87936716081826
+1161,Customer_102,Male,42,Married,Maharashtra,Bhopal,IT,Rasgulla,452,2,17,Debit Card,2024-11-03,750.3199999999999,196.7156833803722
+1201,Customer_103,Female,38,Married,Uttar Pradesh,Delhi,Business,Barfi,255,5,18,Net Banking,2024-10-31,1045.5,279.32120152608894
+1957,Customer_104,Female,53,Single,Bihar,Patna,Healthcare,Barfi,662,1,0,Cash,2024-11-03,662.0,110.18209278450605
+1995,Customer_105,Male,27,Married,Madhya Pradesh,Lucknow,Business,Kaju Katli,656,4,5,Cash,2024-10-25,2492.7999999999997,595.0902187341353
+1269,Customer_106,Male,54,Married,Bihar,Patna,Education,Ladoo,282,5,22,Debit Card,2024-11-02,1099.8,279.596174574781
+1862,Customer_107,Male,26,Single,Madhya Pradesh,Lucknow,Business,Rasgulla,298,2,1,Credit Card,2024-11-01,590.04,136.25801825567754
+1815,Customer_108,Male,41,Single,Bihar,Mumbai,IT,Kaju Katli,348,2,23,Net Banking,2024-10-31,535.92,69.84056649737384
+1270,Customer_109,Female,52,Single,Bihar,Lucknow,IT,Rasgulla,528,3,13,UPI,2024-11-03,1378.08,379.21539194663717
+1455,Customer_110,Female,52,Single,Bihar,Bhopal,Student,Ladoo,355,5,5,Debit Card,2024-10-31,1686.25,350.43463791021895
+1461,Customer_111,Female,53,Single,Madhya Pradesh,Delhi,Student,Ladoo,389,3,13,UPI,2024-10-29,1015.29,158.8872859538402
+1726,Customer_112,Female,35,Single,Madhya Pradesh,Mumbai,Education,Kaju Katli,693,1,3,Debit Card,2024-10-29,672.21,124.38952770661446
+1251,Customer_113,Female,56,Single,Bihar,Lucknow,Healthcare,Ladoo,462,5,20,Credit Card,2024-10-29,1848.0,198.68627501143618
+1701,Customer_114,Female,49,Married,Maharashtra,Patna,Business,Gulab Jamun,279,1,7,Credit Card,2024-10-25,259.46999999999997,32.58251978263613
+1295,Customer_115,Male,41,Married,Delhi,Mumbai,Education,Barfi,599,3,2,Credit Card,2024-11-01,1761.06,445.74075209269233
+1724,Customer_116,Female,40,Single,Delhi,Mumbai,Student,Kaju Katli,459,5,18,Credit Card,2024-10-25,1881.9,188.19437908922473
+1719,Customer_117,Male,49,Married,Delhi,Lucknow,Business,Rasgulla,751,3,13,Cash,2024-10-28,1960.11,359.31396921328513
+1748,Customer_118,Male,54,Married,Madhya Pradesh,Mumbai,Student,Gulab Jamun,300,5,19,Cash,2024-11-02,1215.0,248.46997400379797
+1337,Customer_119,Female,29,Married,Madhya Pradesh,Patna,Business,Kaju Katli,558,3,16,Net Banking,2024-11-02,1406.1599999999999,155.98094720571342
+1878,Customer_120,Male,30,Single,Maharashtra,Mumbai,Healthcare,Ladoo,579,2,24,UPI,2024-10-29,880.08,259.28532593373814
+1052,Customer_121,Female,40,Single,Delhi,Patna,Education,Ladoo,420,3,7,Debit Card,2024-10-28,1171.8,170.17473263167312
+1791,Customer_122,Male,42,Married,Delhi,Lucknow,Business,Ladoo,619,2,23,Debit Card,2024-10-27,953.26,153.32209429609622
+1921,Customer_123,Female,52,Single,Bihar,Delhi,IT,Ladoo,323,3,13,Cash,2024-10-27,843.03,135.54953122127114
+1216,Customer_124,Male,58,Married,Madhya Pradesh,Mumbai,IT,Rasgulla,621,5,5,Debit Card,2024-10-29,2949.75,430.9093098161306
+1763,Customer_125,Female,47,Married,Delhi,Delhi,Business,Gulab Jamun,430,5,22,Cash,2024-11-03,1677.0,168.19431992774886
+1187,Customer_126,Female,34,Married,Maharashtra,Patna,Business,Barfi,262,5,21,Net Banking,2024-10-25,1034.9,254.4497854803335
+1379,Customer_127,Female,37,Married,Maharashtra,Mumbai,Business,Rasgulla,684,4,15,UPI,2024-10-29,2325.6,682.2591788666435
+1492,Customer_128,Female,42,Single,Delhi,Bhopal,IT,Rasgulla,773,1,24,Net Banking,2024-10-30,587.48,85.10158711205966
+1040,Customer_129,Female,39,Single,Madhya Pradesh,Delhi,IT,Barfi,682,5,18,Credit Card,2024-10-31,2796.2000000000003,650.422511544146
+1156,Customer_130,Male,30,Single,Maharashtra,Mumbai,Business,Barfi,718,2,13,Credit Card,2024-11-02,1249.32,310.30518383921236
+1014,Customer_131,Male,36,Married,Bihar,Delhi,Student,Ladoo,354,5,18,Credit Card,2024-10-27,1451.4,391.4209190423976
+1812,Customer_132,Male,53,Single,Maharashtra,Mumbai,Student,Rasgulla,291,4,2,Net Banking,2024-10-26,1140.72,210.49231552347285
+1064,Customer_133,Female,29,Married,Uttar Pradesh,Lucknow,Healthcare,Kaju Katli,725,2,9,Debit Card,2024-10-27,1319.5,211.89346599850927
+1856,Customer_134,Male,58,Single,Uttar Pradesh,Delhi,Education,Barfi,654,4,18,UPI,2024-11-02,2145.1200000000003,354.0714195790969
+1838,Customer_135,Female,36,Married,Madhya Pradesh,Bhopal,Student,Barfi,797,2,8,Credit Card,2024-10-31,1466.48,355.6569865124614
+1520,Customer_136,Female,29,Married,Delhi,Bhopal,IT,Gulab Jamun,709,3,19,Credit Card,2024-11-02,1722.8700000000001,453.72796789171304
+1343,Customer_137,Male,26,Married,Madhya Pradesh,Patna,Student,Kaju Katli,382,1,12,Credit Card,2024-10-26,336.16,45.826270280211915
+1128,Customer_138,Male,24,Single,Madhya Pradesh,Mumbai,Healthcare,Kaju Katli,585,1,6,UPI,2024-10-29,549.9,95.78609207719101
+1647,Customer_139,Female,45,Single,Madhya Pradesh,Delhi,Healthcare,Barfi,773,4,13,Credit Card,2024-10-28,2690.04,754.2550413726168
+1471,Customer_140,Male,31,Single,Madhya Pradesh,Patna,Education,Ladoo,604,1,8,UPI,2024-10-26,555.6800000000001,145.22069100479456
+1062,Customer_141,Female,48,Single,Bihar,Delhi,Student,Gulab Jamun,445,4,22,Credit Card,2024-11-02,1388.4,412.3154812790843
+1138,Customer_142,Female,36,Married,Bihar,Mumbai,IT,Kaju Katli,790,4,24,Net Banking,2024-11-02,2401.6,602.4405240904971
+1498,Customer_143,Female,33,Single,Maharashtra,Bhopal,IT,Barfi,670,4,18,Net Banking,2024-10-30,2197.6000000000004,392.5771547557925
+1592,Customer_144,Female,22,Single,Uttar Pradesh,Lucknow,Business,Kaju Katli,622,1,14,UPI,2024-10-30,534.92,116.68079803208231
+1391,Customer_145,Female,52,Married,Madhya Pradesh,Bhopal,IT,Gulab Jamun,264,4,19,Net Banking,2024-11-01,855.36,198.61703050259757
+1674,Customer_146,Male,29,Married,Maharashtra,Patna,Education,Gulab Jamun,212,1,13,UPI,2024-10-30,184.44,21.338078152306068
+1418,Customer_147,Male,42,Married,Uttar Pradesh,Lucknow,Education,Rasgulla,412,4,23,Net Banking,2024-10-25,1268.96,265.0849722448881
+1288,Customer_148,Female,38,Single,Delhi,Patna,IT,Barfi,441,5,5,Net Banking,2024-10-28,2094.75,506.64496108859976
+1378,Customer_149,Female,53,Married,Bihar,Mumbai,IT,Gulab Jamun,692,4,20,UPI,2024-10-31,2214.4,295.5432591159896
+1772,Customer_150,Male,40,Married,Uttar Pradesh,Lucknow,Business,Rasgulla,412,2,3,Debit Card,2024-10-26,799.28,204.71666382077984
+1489,Customer_151,Male,33,Married,Delhi,Patna,IT,Rasgulla,537,4,7,Net Banking,2024-11-02,1997.6399999999999,432.99757145324196
+1230,Customer_152,Female,56,Single,Uttar Pradesh,Mumbai,Business,Kaju Katli,372,3,16,Credit Card,2024-11-01,937.4399999999999,272.27415815687056
+1040,Customer_153,Male,59,Married,Bihar,Bhopal,Business,Kaju Katli,363,4,8,Debit Card,2024-11-01,1335.8400000000001,144.91788056733887
+1027,Customer_154,Female,56,Single,Bihar,Mumbai,IT,Rasgulla,664,2,0,UPI,2024-10-31,1328.0,203.270622134732
+1134,Customer_155,Male,31,Single,Maharashtra,Delhi,Healthcare,Kaju Katli,696,2,23,Debit Card,2024-10-28,1071.84,236.13790199774465
+1200,Customer_156,Female,48,Married,Madhya Pradesh,Mumbai,Healthcare,Gulab Jamun,594,1,19,Cash,2024-10-26,481.14000000000004,76.6513672317523
+1839,Customer_157,Male,22,Married,Uttar Pradesh,Mumbai,Business,Ladoo,507,5,24,Cash,2024-10-27,1926.6,467.941918899931
+1779,Customer_158,Female,52,Single,Uttar Pradesh,Delhi,IT,Gulab Jamun,382,4,13,Net Banking,2024-10-30,1329.36,334.7342524746708
+1929,Customer_159,Male,40,Married,Delhi,Patna,Healthcare,Rasgulla,709,1,10,Net Banking,2024-10-29,638.1,76.89308733416348
+1032,Customer_160,Male,46,Married,Bihar,Patna,IT,Rasgulla,745,5,20,Credit Card,2024-11-01,2980.0,604.2572606672335
+1047,Customer_161,Female,28,Single,Uttar Pradesh,Mumbai,IT,Gulab Jamun,763,4,2,Debit Card,2024-10-30,2990.96,603.5102592301249
+1502,Customer_162,Male,35,Single,Bihar,Delhi,IT,Kaju Katli,793,3,8,Cash,2024-10-30,2188.6800000000003,380.51548723107015
+1406,Customer_163,Female,29,Married,Uttar Pradesh,Delhi,Student,Kaju Katli,426,4,13,Net Banking,2024-10-25,1482.48,424.85649005245756
+1573,Customer_164,Male,26,Single,Maharashtra,Bhopal,IT,Rasgulla,635,2,8,Debit Card,2024-10-28,1168.4,310.2116768279744
+1727,Customer_165,Female,27,Married,Madhya Pradesh,Patna,Student,Barfi,621,2,3,Net Banking,2024-10-29,1204.74,288.4652061523632
+1804,Customer_166,Male,34,Married,Uttar Pradesh,Lucknow,Business,Kaju Katli,753,3,3,Net Banking,2024-10-27,2191.23,532.1737908043198
+1098,Customer_167,Female,55,Married,Bihar,Patna,Healthcare,Gulab Jamun,220,1,7,Cash,2024-11-02,204.6,39.35342460483283
+1683,Customer_168,Male,24,Single,Maharashtra,Patna,Healthcare,Kaju Katli,753,5,1,Cash,2024-10-25,3727.35,1059.3087856418642
+1871,Customer_169,Female,30,Married,Uttar Pradesh,Bhopal,Healthcare,Gulab Jamun,596,4,8,Net Banking,2024-10-30,2193.28,524.0164517372172
+1725,Customer_170,Male,57,Married,Delhi,Lucknow,Healthcare,Rasgulla,304,2,13,UPI,2024-10-30,528.96,130.01636447469212
+1986,Customer_171,Female,59,Married,Madhya Pradesh,Bhopal,Healthcare,Kaju Katli,391,1,21,Net Banking,2024-11-03,308.89,84.12254065417461
+1546,Customer_172,Female,26,Single,Uttar Pradesh,Lucknow,Healthcare,Gulab Jamun,216,3,8,Net Banking,2024-10-29,596.1600000000001,92.29410374044812
+1960,Customer_173,Female,44,Single,Maharashtra,Mumbai,Healthcare,Rasgulla,319,2,23,Credit Card,2024-10-29,491.26,128.42233044671127
+1738,Customer_174,Male,19,Single,Delhi,Lucknow,Business,Barfi,592,3,22,Credit Card,2024-11-03,1385.28,192.62058049271383
+1612,Customer_175,Female,22,Single,Maharashtra,Bhopal,IT,Gulab Jamun,624,4,15,Credit Card,2024-10-29,2121.6,358.69549717655076
+1942,Customer_176,Male,46,Single,Maharashtra,Patna,Education,Barfi,328,5,16,UPI,2024-10-30,1377.6,230.22739236042705
+1461,Customer_177,Female,54,Married,Delhi,Lucknow,Student,Barfi,329,2,15,UPI,2024-11-01,559.3,165.38785889400924
+1642,Customer_178,Male,55,Single,Maharashtra,Lucknow,Education,Ladoo,771,2,11,Net Banking,2024-10-26,1372.38,372.336911025436
+1768,Customer_179,Female,36,Single,Delhi,Delhi,Education,Kaju Katli,759,4,2,Credit Card,2024-10-30,2975.2799999999997,714.7633331584535
+1004,Customer_180,Male,25,Single,Uttar Pradesh,Patna,IT,Gulab Jamun,228,1,10,UPI,2024-10-25,205.20000000000002,50.358409496695614
+1217,Customer_181,Male,18,Married,Delhi,Mumbai,IT,Barfi,296,5,13,Cash,2024-10-28,1287.6,273.50498601455007
+1502,Customer_182,Female,39,Single,Delhi,Bhopal,IT,Ladoo,209,2,17,Net Banking,2024-11-03,346.94,100.41072720932591
+1766,Customer_183,Male,34,Single,Madhya Pradesh,Mumbai,Healthcare,Rasgulla,441,5,20,Debit Card,2024-10-27,1764.0,351.4800880168972
+1397,Customer_184,Male,24,Married,Delhi,Patna,Business,Gulab Jamun,431,2,20,Net Banking,2024-11-02,689.6,121.44100254525586
+1870,Customer_185,Female,42,Single,Delhi,Lucknow,Healthcare,Barfi,483,5,4,Debit Card,2024-10-27,2318.4,307.4362250284401
+1794,Customer_186,Male,21,Married,Uttar Pradesh,Lucknow,Business,Kaju Katli,399,3,15,Credit Card,2024-10-30,1017.4499999999999,261.72998817860264
+1392,Customer_187,Male,53,Married,Madhya Pradesh,Patna,Business,Ladoo,278,2,19,Debit Card,2024-10-25,450.36,111.18883384991267
+1206,Customer_188,Male,23,Married,Bihar,Lucknow,Education,Barfi,372,5,4,Credit Card,2024-10-30,1785.6,315.820871357739
+1014,Customer_189,Female,48,Married,Uttar Pradesh,Lucknow,Education,Kaju Katli,666,1,2,Cash,2024-10-28,652.68,68.55664748458196
+1857,Customer_190,Male,36,Married,Uttar Pradesh,Lucknow,Business,Barfi,780,3,11,Debit Card,2024-11-01,2082.6,557.7191669411058
+1553,Customer_191,Female,56,Single,Bihar,Bhopal,Business,Gulab Jamun,615,3,0,Net Banking,2024-11-02,1845.0,188.71323589455318
+1891,Customer_192,Male,44,Married,Delhi,Bhopal,Healthcare,Gulab Jamun,648,1,20,Credit Card,2024-10-28,518.4,124.79959315193999
+1460,Customer_193,Male,27,Married,Maharashtra,Delhi,Healthcare,Gulab Jamun,286,5,8,Net Banking,2024-11-03,1315.6000000000001,386.8540507111201
+1690,Customer_194,Male,43,Single,Madhya Pradesh,Mumbai,Education,Ladoo,300,4,8,UPI,2024-11-03,1104.0,207.03562125512335
+1574,Customer_195,Female,36,Married,Maharashtra,Patna,IT,Gulab Jamun,207,1,3,Credit Card,2024-10-30,200.79,29.51506199782747
+1863,Customer_196,Male,56,Single,Bihar,Patna,Business,Kaju Katli,399,5,2,Debit Card,2024-10-25,1955.1,471.1286623471631
+1742,Customer_197,Male,20,Single,Uttar Pradesh,Patna,Healthcare,Barfi,704,1,16,Credit Card,2024-10-28,591.36,155.77937961246727
+1240,Customer_198,Female,30,Single,Uttar Pradesh,Delhi,Education,Rasgulla,286,1,1,Net Banking,2024-10-31,283.14,59.25725593885634
+1563,Customer_199,Male,45,Married,Madhya Pradesh,Bhopal,Healthcare,Kaju Katli,242,2,23,Cash,2024-10-25,372.68,109.3469412764921
+1095,Customer_200,Female,37,Married,Uttar Pradesh,Delhi,Business,Kaju Katli,584,5,0,Credit Card,2024-11-01,2920.0,322.1745334482493
+1899,Customer_201,Female,45,Married,Uttar Pradesh,Patna,Business,Gulab Jamun,634,4,7,Debit Card,2024-11-03,2358.48,473.9580645378527
+1733,Customer_202,Male,25,Single,Madhya Pradesh,Mumbai,Student,Ladoo,607,2,12,UPI,2024-10-30,1068.32,260.3397442007253
+1484,Customer_203,Female,58,Married,Madhya Pradesh,Lucknow,IT,Barfi,682,1,22,Cash,2024-10-29,531.96,144.97404500650347
+1406,Customer_204,Male,56,Married,Bihar,Bhopal,Student,Ladoo,216,1,14,UPI,2024-11-03,185.76,25.235704493598213
+1230,Customer_205,Female,18,Married,Uttar Pradesh,Bhopal,Education,Barfi,347,1,7,Credit Card,2024-11-02,322.71,83.90482471999151
+1748,Customer_206,Female,20,Single,Uttar Pradesh,Delhi,Healthcare,Barfi,476,5,11,Net Banking,2024-10-26,2118.2,445.9688255574045
+1654,Customer_207,Male,30,Single,Bihar,Bhopal,Education,Ladoo,431,5,21,Net Banking,2024-10-29,1702.45,305.2675631807626
+1170,Customer_208,Female,45,Married,Delhi,Patna,Business,Kaju Katli,565,2,11,Debit Card,2024-10-30,1005.7,127.0631608483989
+1540,Customer_209,Female,42,Married,Delhi,Patna,Student,Barfi,427,4,13,Net Banking,2024-10-31,1485.96,405.75497718165747
+1035,Customer_210,Female,50,Married,Delhi,Delhi,Student,Ladoo,635,2,14,Cash,2024-10-29,1092.2,143.57475959477702
+1524,Customer_211,Female,55,Married,Bihar,Patna,Student,Barfi,598,3,14,Net Banking,2024-11-02,1542.84,249.87462014043334
+1159,Customer_212,Female,23,Single,Uttar Pradesh,Mumbai,Education,Rasgulla,410,1,8,Debit Card,2024-10-25,377.2,59.60103493124624
+1838,Customer_213,Male,49,Single,Bihar,Delhi,Business,Kaju Katli,590,1,18,Credit Card,2024-10-31,483.8,132.69802194830706
+1698,Customer_214,Female,38,Single,Bihar,Mumbai,Healthcare,Gulab Jamun,698,1,19,Credit Card,2024-11-03,565.38,132.60456377316535
+1242,Customer_215,Male,33,Single,Delhi,Lucknow,Healthcare,Barfi,739,2,21,Net Banking,2024-10-31,1167.6200000000001,302.806226597718
+1085,Customer_216,Female,38,Married,Maharashtra,Mumbai,Education,Rasgulla,762,2,7,UPI,2024-10-28,1417.32,212.7306324633169
+1795,Customer_217,Male,28,Married,Uttar Pradesh,Lucknow,Student,Gulab Jamun,690,1,20,Credit Card,2024-11-02,552.0,124.18610059661268
+1577,Customer_218,Male,54,Married,Delhi,Lucknow,IT,Gulab Jamun,641,2,18,Net Banking,2024-10-29,1051.24,225.33244946400688
+1681,Customer_219,Female,53,Single,Maharashtra,Mumbai,Education,Barfi,460,5,5,Debit Card,2024-10-28,2185.0,582.4468746564744
+1556,Customer_220,Female,52,Married,Maharashtra,Delhi,Education,Ladoo,549,5,19,Net Banking,2024-10-31,2223.4500000000003,625.2728549254117
+1573,Customer_221,Female,36,Single,Madhya Pradesh,Patna,Business,Barfi,551,2,24,Credit Card,2024-10-28,837.52,85.7883078495482
+1952,Customer_222,Male,37,Single,Uttar Pradesh,Patna,Healthcare,Rasgulla,719,1,18,Debit Card,2024-10-27,589.58,138.4357327757366
+1645,Customer_223,Female,35,Married,Maharashtra,Lucknow,Education,Gulab Jamun,519,2,3,Net Banking,2024-11-02,1006.86,111.12427854033808
+1795,Customer_224,Male,58,Married,Delhi,Lucknow,Education,Barfi,337,2,22,Cash,2024-11-01,525.72,110.28119548089353
+1027,Customer_225,Male,31,Married,Madhya Pradesh,Delhi,Student,Ladoo,749,2,6,Debit Card,2024-10-25,1408.12,221.81627968419684
+1619,Customer_226,Male,32,Single,Uttar Pradesh,Bhopal,Student,Barfi,567,3,3,Cash,2024-10-31,1649.97,266.2314371827095
+1555,Customer_227,Female,48,Married,Bihar,Mumbai,IT,Kaju Katli,419,5,21,UPI,2024-11-02,1655.0500000000002,282.33779422776456
+1339,Customer_228,Female,18,Single,Delhi,Lucknow,Business,Ladoo,536,4,11,Debit Card,2024-11-01,1908.16,427.92107991570083
+1797,Customer_229,Male,20,Married,Maharashtra,Patna,IT,Rasgulla,422,4,12,Cash,2024-11-01,1485.44,247.7862362006033
+1957,Customer_230,Male,33,Single,Maharashtra,Delhi,Student,Gulab Jamun,559,3,2,Credit Card,2024-10-30,1643.46,405.1783163366204
+1330,Customer_231,Female,40,Single,Delhi,Mumbai,Healthcare,Barfi,528,2,21,Credit Card,2024-10-28,834.24,150.91858522822903
+1639,Customer_232,Male,28,Married,Maharashtra,Delhi,Student,Ladoo,662,3,11,UPI,2024-11-01,1767.54,200.91740313517286
+1505,Customer_233,Female,29,Single,Madhya Pradesh,Mumbai,Business,Kaju Katli,760,3,1,Debit Card,2024-10-27,2257.2,579.5405432910254
+1347,Customer_234,Male,27,Single,Uttar Pradesh,Mumbai,Student,Ladoo,581,1,23,Debit Card,2024-11-02,447.37,70.30494033460778
+1472,Customer_235,Female,49,Married,Madhya Pradesh,Lucknow,Business,Kaju Katli,789,5,1,Debit Card,2024-10-26,3905.55,728.5935373237801
+1230,Customer_236,Male,33,Single,Maharashtra,Delhi,Business,Rasgulla,368,4,22,UPI,2024-10-26,1148.16,272.2158497920117
+1189,Customer_237,Female,25,Married,Bihar,Delhi,Business,Gulab Jamun,416,2,8,Debit Card,2024-10-31,765.44,127.43904818558202
+1224,Customer_238,Male,55,Single,Uttar Pradesh,Patna,Business,Rasgulla,577,4,0,Credit Card,2024-11-03,2308.0,256.91993887732394
+1384,Customer_239,Female,29,Married,Uttar Pradesh,Patna,Business,Barfi,318,4,7,Cash,2024-10-28,1182.9599999999998,206.76272835485557
+1376,Customer_240,Female,41,Married,Delhi,Lucknow,Healthcare,Ladoo,389,5,22,Credit Card,2024-11-03,1517.1000000000001,438.2745889611055
+1282,Customer_241,Male,45,Single,Delhi,Lucknow,IT,Kaju Katli,569,4,5,Credit Card,2024-11-01,2162.2,493.73162276778845
+1957,Customer_242,Male,25,Single,Bihar,Bhopal,Education,Kaju Katli,348,4,5,Cash,2024-11-02,1322.3999999999999,309.8328052395028
+1632,Customer_243,Female,45,Single,Uttar Pradesh,Patna,IT,Ladoo,687,3,21,Credit Card,2024-10-31,1628.19,368.7140959462538
+1627,Customer_244,Male,53,Single,Bihar,Mumbai,Business,Ladoo,573,5,24,UPI,2024-10-29,2177.4,304.39709667405555
+1972,Customer_245,Female,43,Single,Delhi,Delhi,Healthcare,Barfi,359,1,17,Cash,2024-11-01,297.96999999999997,54.72718829731127
+1744,Customer_246,Male,25,Married,Delhi,Lucknow,Student,Rasgulla,550,2,16,Credit Card,2024-10-28,924.0,231.17367473754118
+1258,Customer_247,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Kaju Katli,487,4,11,Net Banking,2024-10-26,1733.72,208.52244398917261
+1358,Customer_248,Female,45,Married,Madhya Pradesh,Delhi,Business,Barfi,487,2,5,Credit Card,2024-10-30,925.3,143.94943474316213
+1709,Customer_249,Female,54,Married,Maharashtra,Bhopal,Healthcare,Rasgulla,425,1,7,UPI,2024-11-02,395.25,61.36802552422572
+1455,Customer_250,Female,58,Single,Delhi,Patna,Healthcare,Barfi,722,2,18,Debit Card,2024-10-25,1184.0800000000002,220.71699435722056
+1410,Customer_251,Female,53,Married,Delhi,Lucknow,Business,Kaju Katli,721,1,9,Credit Card,2024-11-03,656.11,194.25694692391542
+1648,Customer_252,Female,44,Married,Madhya Pradesh,Delhi,Healthcare,Ladoo,472,3,0,Debit Card,2024-10-31,1416.0,160.71672122085837
+1317,Customer_253,Male,34,Married,Madhya Pradesh,Lucknow,Education,Ladoo,601,4,24,Net Banking,2024-11-03,1827.04,372.24149295462445
+1676,Customer_254,Male,26,Married,Bihar,Mumbai,Education,Rasgulla,382,1,12,Credit Card,2024-11-02,336.16,45.67504630104493
+1224,Customer_255,Male,50,Single,Bihar,Bhopal,Healthcare,Gulab Jamun,687,2,16,Cash,2024-11-03,1154.1599999999999,339.47920833002206
+1818,Customer_256,Female,37,Married,Maharashtra,Mumbai,Student,Rasgulla,323,4,2,Debit Card,2024-11-02,1266.16,155.30807310914523
+1233,Customer_257,Female,30,Single,Maharashtra,Lucknow,Business,Gulab Jamun,613,3,7,Net Banking,2024-11-03,1710.27,309.0803372617917
+1683,Customer_258,Female,45,Single,Uttar Pradesh,Lucknow,Education,Barfi,371,4,13,Cash,2024-10-27,1291.08,319.64170924405266
+1663,Customer_259,Female,46,Married,Bihar,Patna,Student,Barfi,487,1,2,Cash,2024-10-29,477.26,114.9771292640757
+1974,Customer_260,Male,30,Single,Delhi,Delhi,Healthcare,Kaju Katli,634,3,15,Cash,2024-11-01,1616.7,298.355077453284
+1826,Customer_261,Male,52,Single,Bihar,Delhi,Student,Gulab Jamun,312,2,12,Cash,2024-11-01,549.12,92.96867022123934
+1373,Customer_262,Female,23,Single,Delhi,Mumbai,IT,Kaju Katli,321,3,19,Credit Card,2024-10-28,780.0300000000001,140.03291672851915
+1671,Customer_263,Male,35,Married,Madhya Pradesh,Bhopal,Education,Ladoo,743,3,23,Credit Card,2024-10-25,1716.33,262.35005574941346
+1607,Customer_264,Male,22,Single,Bihar,Delhi,Healthcare,Gulab Jamun,421,5,16,Credit Card,2024-10-25,1768.2,249.4339404442727
+1471,Customer_265,Female,42,Single,Madhya Pradesh,Patna,Business,Rasgulla,238,3,12,Net Banking,2024-10-28,628.32,123.53270055404036
+1232,Customer_266,Male,19,Single,Maharashtra,Mumbai,Healthcare,Ladoo,696,3,5,Net Banking,2024-10-30,1983.6,304.89271170714113
+1691,Customer_267,Female,27,Married,Maharashtra,Mumbai,Business,Ladoo,432,4,16,Net Banking,2024-11-01,1451.52,228.6032711663313
+1112,Customer_268,Male,47,Single,Uttar Pradesh,Patna,Healthcare,Rasgulla,729,2,13,UPI,2024-10-30,1268.46,293.4597592549873
+1829,Customer_269,Female,22,Married,Bihar,Bhopal,Student,Ladoo,348,4,16,Net Banking,2024-11-02,1169.28,343.42626624201
+1496,Customer_270,Female,50,Married,Madhya Pradesh,Patna,Student,Gulab Jamun,596,4,7,Credit Card,2024-11-02,2217.12,489.3792220208403
+1441,Customer_271,Female,18,Married,Delhi,Bhopal,Student,Kaju Katli,501,1,10,Credit Card,2024-10-26,450.90000000000003,52.03200833991867
+1563,Customer_272,Female,35,Married,Maharashtra,Patna,IT,Ladoo,559,4,19,UPI,2024-11-03,1811.16,208.4948036135864
+1267,Customer_273,Male,49,Married,Maharashtra,Patna,Business,Gulab Jamun,437,5,0,UPI,2024-10-25,2185.0,634.2719475095122
+1509,Customer_274,Female,28,Married,Delhi,Lucknow,Student,Barfi,435,5,6,Net Banking,2024-10-26,2044.4999999999998,326.0122041566687
+1806,Customer_275,Female,38,Single,Madhya Pradesh,Mumbai,IT,Gulab Jamun,402,1,20,Debit Card,2024-10-29,321.6,38.081748544824826
+1385,Customer_276,Female,43,Married,Madhya Pradesh,Patna,Business,Kaju Katli,455,2,20,UPI,2024-10-28,728.0,160.02089188909554
+1386,Customer_277,Male,42,Single,Bihar,Patna,Healthcare,Gulab Jamun,797,2,16,Cash,2024-10-28,1338.96,300.90415363590694
+1112,Customer_278,Female,39,Single,Bihar,Delhi,IT,Rasgulla,434,4,9,Credit Card,2024-11-02,1579.76,362.87239492613975
+1612,Customer_279,Male,44,Married,Uttar Pradesh,Mumbai,Education,Kaju Katli,544,4,10,Cash,2024-11-01,1958.4,300.5760262712418
+1624,Customer_280,Female,30,Single,Maharashtra,Delhi,IT,Barfi,733,4,21,Credit Card,2024-10-30,2316.28,238.6281151264609
+1951,Customer_281,Male,50,Single,Bihar,Mumbai,IT,Rasgulla,665,2,8,Credit Card,2024-10-25,1223.6000000000001,358.51856121289836
+1080,Customer_282,Male,51,Single,Madhya Pradesh,Delhi,Business,Gulab Jamun,740,3,8,UPI,2024-10-26,2042.4,306.72479130390155
+1698,Customer_283,Female,58,Single,Delhi,Patna,Healthcare,Kaju Katli,412,5,23,UPI,2024-10-30,1586.2,373.08257962179016
+1112,Customer_284,Male,52,Married,Madhya Pradesh,Patna,Education,Barfi,662,3,4,Cash,2024-10-26,1906.56,460.1024489431905
+1001,Customer_285,Female,18,Single,Maharashtra,Lucknow,Student,Rasgulla,635,3,16,Credit Card,2024-11-03,1600.2,355.2467737621186
+1641,Customer_286,Female,38,Married,Madhya Pradesh,Delhi,Student,Barfi,482,2,8,Cash,2024-10-29,886.88,144.19026195604005
+1219,Customer_287,Female,23,Single,Uttar Pradesh,Bhopal,IT,Gulab Jamun,761,3,16,Debit Card,2024-10-29,1917.72,295.7493415536848
+1565,Customer_288,Male,45,Single,Maharashtra,Lucknow,Business,Barfi,662,1,23,Cash,2024-10-30,509.74,111.90508608497518
+1854,Customer_289,Male,34,Married,Delhi,Delhi,Business,Ladoo,606,4,20,Net Banking,2024-10-30,1939.2,529.8265305399584
+1996,Customer_290,Female,22,Single,Uttar Pradesh,Delhi,Student,Rasgulla,287,1,18,Cash,2024-10-30,235.34000000000003,68.0948631529664
+1735,Customer_291,Female,48,Single,Maharashtra,Lucknow,Education,Barfi,243,5,6,Net Banking,2024-10-26,1142.1,138.40100384190632
+1224,Customer_292,Male,22,Single,Delhi,Patna,Healthcare,Gulab Jamun,660,4,22,Net Banking,2024-11-03,2059.2000000000003,269.684615812245
+1384,Customer_293,Female,55,Married,Uttar Pradesh,Delhi,Education,Gulab Jamun,477,3,8,Net Banking,2024-10-27,1316.52,380.40483588262003
+1402,Customer_294,Female,20,Single,Uttar Pradesh,Patna,Healthcare,Barfi,620,5,6,Debit Card,2024-10-30,2914.0,720.6527310735171
+1637,Customer_295,Female,40,Married,Maharashtra,Lucknow,Student,Gulab Jamun,552,4,12,Cash,2024-11-01,1943.04,537.4424642794484
+1129,Customer_296,Male,54,Single,Bihar,Patna,Healthcare,Kaju Katli,714,3,10,Cash,2024-10-25,1927.8,270.9070384172229
+1052,Customer_297,Male,54,Married,Uttar Pradesh,Mumbai,Business,Kaju Katli,218,1,13,Debit Card,2024-10-25,189.66,41.254307262921834
+1683,Customer_298,Male,27,Married,Uttar Pradesh,Bhopal,IT,Kaju Katli,222,4,18,Credit Card,2024-10-26,728.1600000000001,174.92436141420555
+1729,Customer_299,Female,27,Single,Delhi,Delhi,IT,Ladoo,612,3,10,UPI,2024-10-30,1652.4,390.00337590251553
+1671,Customer_300,Female,36,Single,Madhya Pradesh,Bhopal,Student,Barfi,229,1,12,Cash,2024-11-02,201.52,36.602145748691406

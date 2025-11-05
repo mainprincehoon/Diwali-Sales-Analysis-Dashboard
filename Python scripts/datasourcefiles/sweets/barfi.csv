@@ -1,0 +1,67 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+1308,Customer_22,Male,33,Single,Maharashtra,Delhi,IT,Barfi,749,1,5,UPI,2024-10-31,711.55,139.0226541514568
+1769,Customer_23,Male,56,Single,Maharashtra,Lucknow,Healthcare,Barfi,699,5,17,UPI,2024-10-27,2900.85,706.8391980155756
+1805,Customer_27,Female,20,Married,Maharashtra,Patna,Education,Barfi,777,2,24,Debit Card,2024-10-31,1181.04,156.53498108553373
+1560,Customer_39,Female,29,Single,Bihar,Delhi,Business,Barfi,342,3,11,UPI,2024-10-27,913.14,246.1902307397398
+1510,Customer_42,Female,43,Married,Maharashtra,Patna,Business,Barfi,300,4,23,UPI,2024-10-30,924.0,171.62413347829292
+1699,Customer_45,Female,53,Married,Uttar Pradesh,Mumbai,IT,Barfi,211,4,2,Credit Card,2024-10-31,827.12,192.29448395163746
+1782,Customer_47,Male,47,Single,Madhya Pradesh,Patna,Education,Barfi,760,3,1,UPI,2024-11-03,2257.2,356.1342168211537
+1957,Customer_51,Male,22,Single,Madhya Pradesh,Lucknow,Business,Barfi,357,5,17,Cash,2024-10-28,1481.55,161.46266700539095
+1831,Customer_56,Male,36,Single,Madhya Pradesh,Lucknow,Student,Barfi,206,5,21,Net Banking,2024-10-29,813.7,230.83471756734383
+1504,Customer_57,Male,49,Single,Delhi,Mumbai,Business,Barfi,725,4,16,UPI,2024-11-01,2436.0,706.8924112416416
+1484,Customer_59,Female,22,Single,Bihar,Bhopal,Education,Barfi,598,4,11,Credit Card,2024-10-28,2128.88,364.9416187223309
+1166,Customer_64,Female,19,Single,Madhya Pradesh,Lucknow,Healthcare,Barfi,405,4,19,Credit Card,2024-10-26,1312.2,303.54625898389503
+1387,Customer_66,Male,49,Married,Bihar,Patna,Healthcare,Barfi,736,2,1,Cash,2024-11-01,1457.28,201.5689135920894
+1315,Customer_68,Female,37,Married,Uttar Pradesh,Mumbai,Business,Barfi,488,3,2,UPI,2024-11-02,1434.72,172.68395600027193
+1013,Customer_69,Male,41,Single,Maharashtra,Lucknow,IT,Barfi,363,4,7,Net Banking,2024-10-25,1350.36,271.68106405778843
+1241,Customer_70,Female,29,Married,Delhi,Mumbai,Education,Barfi,294,4,23,Net Banking,2024-11-02,905.52,130.54932240573277
+1345,Customer_72,Female,50,Single,Uttar Pradesh,Patna,IT,Barfi,535,1,6,Cash,2024-11-03,502.9,53.91277274375167
+1034,Customer_84,Female,48,Married,Madhya Pradesh,Mumbai,Business,Barfi,372,2,5,Debit Card,2024-10-29,706.8,197.06917060610033
+1080,Customer_86,Male,52,Single,Uttar Pradesh,Bhopal,Student,Barfi,327,1,20,UPI,2024-11-02,261.6,72.85864646209235
+1931,Customer_87,Female,40,Single,Madhya Pradesh,Bhopal,Student,Barfi,291,3,2,Credit Card,2024-10-25,855.54,157.324907350048
+1401,Customer_99,Female,28,Married,Maharashtra,Mumbai,Student,Barfi,666,4,2,UPI,2024-10-27,2610.72,752.2969926735747
+1201,Customer_103,Female,38,Married,Uttar Pradesh,Delhi,Business,Barfi,255,5,18,Net Banking,2024-10-31,1045.5,279.32120152608894
+1957,Customer_104,Female,53,Single,Bihar,Patna,Healthcare,Barfi,662,1,0,Cash,2024-11-03,662.0,110.18209278450605
+1295,Customer_115,Male,41,Married,Delhi,Mumbai,Education,Barfi,599,3,2,Credit Card,2024-11-01,1761.06,445.74075209269233
+1187,Customer_126,Female,34,Married,Maharashtra,Patna,Business,Barfi,262,5,21,Net Banking,2024-10-25,1034.9,254.4497854803335
+1040,Customer_129,Female,39,Single,Madhya Pradesh,Delhi,IT,Barfi,682,5,18,Credit Card,2024-10-31,2796.2000000000003,650.422511544146
+1156,Customer_130,Male,30,Single,Maharashtra,Mumbai,Business,Barfi,718,2,13,Credit Card,2024-11-02,1249.32,310.30518383921236
+1856,Customer_134,Male,58,Single,Uttar Pradesh,Delhi,Education,Barfi,654,4,18,UPI,2024-11-02,2145.1200000000003,354.0714195790969
+1838,Customer_135,Female,36,Married,Madhya Pradesh,Bhopal,Student,Barfi,797,2,8,Credit Card,2024-10-31,1466.48,355.6569865124614
+1647,Customer_139,Female,45,Single,Madhya Pradesh,Delhi,Healthcare,Barfi,773,4,13,Credit Card,2024-10-28,2690.04,754.2550413726168
+1498,Customer_143,Female,33,Single,Maharashtra,Bhopal,IT,Barfi,670,4,18,Net Banking,2024-10-30,2197.6000000000004,392.5771547557925
+1288,Customer_148,Female,38,Single,Delhi,Patna,IT,Barfi,441,5,5,Net Banking,2024-10-28,2094.75,506.64496108859976
+1727,Customer_165,Female,27,Married,Madhya Pradesh,Patna,Student,Barfi,621,2,3,Net Banking,2024-10-29,1204.74,288.4652061523632
+1738,Customer_174,Male,19,Single,Delhi,Lucknow,Business,Barfi,592,3,22,Credit Card,2024-11-03,1385.28,192.62058049271383
+1942,Customer_176,Male,46,Single,Maharashtra,Patna,Education,Barfi,328,5,16,UPI,2024-10-30,1377.6,230.22739236042705
+1461,Customer_177,Female,54,Married,Delhi,Lucknow,Student,Barfi,329,2,15,UPI,2024-11-01,559.3,165.38785889400924
+1217,Customer_181,Male,18,Married,Delhi,Mumbai,IT,Barfi,296,5,13,Cash,2024-10-28,1287.6,273.50498601455007
+1870,Customer_185,Female,42,Single,Delhi,Lucknow,Healthcare,Barfi,483,5,4,Debit Card,2024-10-27,2318.4,307.4362250284401
+1206,Customer_188,Male,23,Married,Bihar,Lucknow,Education,Barfi,372,5,4,Credit Card,2024-10-30,1785.6,315.820871357739
+1857,Customer_190,Male,36,Married,Uttar Pradesh,Lucknow,Business,Barfi,780,3,11,Debit Card,2024-11-01,2082.6,557.7191669411058
+1742,Customer_197,Male,20,Single,Uttar Pradesh,Patna,Healthcare,Barfi,704,1,16,Credit Card,2024-10-28,591.36,155.77937961246727
+1484,Customer_203,Female,58,Married,Madhya Pradesh,Lucknow,IT,Barfi,682,1,22,Cash,2024-10-29,531.96,144.97404500650347
+1230,Customer_205,Female,18,Married,Uttar Pradesh,Bhopal,Education,Barfi,347,1,7,Credit Card,2024-11-02,322.71,83.90482471999151
+1748,Customer_206,Female,20,Single,Uttar Pradesh,Delhi,Healthcare,Barfi,476,5,11,Net Banking,2024-10-26,2118.2,445.9688255574045
+1540,Customer_209,Female,42,Married,Delhi,Patna,Student,Barfi,427,4,13,Net Banking,2024-10-31,1485.96,405.75497718165747
+1524,Customer_211,Female,55,Married,Bihar,Patna,Student,Barfi,598,3,14,Net Banking,2024-11-02,1542.84,249.87462014043334
+1242,Customer_215,Male,33,Single,Delhi,Lucknow,Healthcare,Barfi,739,2,21,Net Banking,2024-10-31,1167.6200000000001,302.806226597718
+1681,Customer_219,Female,53,Single,Maharashtra,Mumbai,Education,Barfi,460,5,5,Debit Card,2024-10-28,2185.0,582.4468746564744
+1573,Customer_221,Female,36,Single,Madhya Pradesh,Patna,Business,Barfi,551,2,24,Credit Card,2024-10-28,837.52,85.7883078495482
+1795,Customer_224,Male,58,Married,Delhi,Lucknow,Education,Barfi,337,2,22,Cash,2024-11-01,525.72,110.28119548089353
+1619,Customer_226,Male,32,Single,Uttar Pradesh,Bhopal,Student,Barfi,567,3,3,Cash,2024-10-31,1649.97,266.2314371827095
+1330,Customer_231,Female,40,Single,Delhi,Mumbai,Healthcare,Barfi,528,2,21,Credit Card,2024-10-28,834.24,150.91858522822903
+1384,Customer_239,Female,29,Married,Uttar Pradesh,Patna,Business,Barfi,318,4,7,Cash,2024-10-28,1182.9599999999998,206.76272835485557
+1972,Customer_245,Female,43,Single,Delhi,Delhi,Healthcare,Barfi,359,1,17,Cash,2024-11-01,297.96999999999997,54.72718829731127
+1358,Customer_248,Female,45,Married,Madhya Pradesh,Delhi,Business,Barfi,487,2,5,Credit Card,2024-10-30,925.3,143.94943474316213
+1455,Customer_250,Female,58,Single,Delhi,Patna,Healthcare,Barfi,722,2,18,Debit Card,2024-10-25,1184.0800000000002,220.71699435722056
+1683,Customer_258,Female,45,Single,Uttar Pradesh,Lucknow,Education,Barfi,371,4,13,Cash,2024-10-27,1291.08,319.64170924405266
+1663,Customer_259,Female,46,Married,Bihar,Patna,Student,Barfi,487,1,2,Cash,2024-10-29,477.26,114.9771292640757
+1509,Customer_274,Female,28,Married,Delhi,Lucknow,Student,Barfi,435,5,6,Net Banking,2024-10-26,2044.4999999999998,326.0122041566687
+1624,Customer_280,Female,30,Single,Maharashtra,Delhi,IT,Barfi,733,4,21,Credit Card,2024-10-30,2316.28,238.6281151264609
+1112,Customer_284,Male,52,Married,Madhya Pradesh,Patna,Education,Barfi,662,3,4,Cash,2024-10-26,1906.56,460.1024489431905
+1641,Customer_286,Female,38,Married,Madhya Pradesh,Delhi,Student,Barfi,482,2,8,Cash,2024-10-29,886.88,144.19026195604005
+1565,Customer_288,Male,45,Single,Maharashtra,Lucknow,Business,Barfi,662,1,23,Cash,2024-10-30,509.74,111.90508608497518
+1735,Customer_291,Female,48,Single,Maharashtra,Lucknow,Education,Barfi,243,5,6,Net Banking,2024-10-26,1142.1,138.40100384190632
+1402,Customer_294,Female,20,Single,Uttar Pradesh,Patna,Healthcare,Barfi,620,5,6,Debit Card,2024-10-30,2914.0,720.6527310735171
+1671,Customer_300,Female,36,Single,Madhya Pradesh,Bhopal,Student,Barfi,229,1,12,Cash,2024-11-02,201.52,36.602145748691406

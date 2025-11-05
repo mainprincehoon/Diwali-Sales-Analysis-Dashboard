@@ -1,0 +1,62 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+3270,Customer_4,Female,47,Married,Bihar,Patna,Healthcare,Sparklers,154,1,16,Credit Card,2024-11-02,129.35999999999999,21.0045417320256
+3106,Customer_5,Male,36,Single,Maharashtra,Mumbai,IT,Sparklers,1011,4,1,Credit Card,2024-11-01,4003.56,1020.1001843834546
+3020,Customer_8,Male,45,Married,Madhya Pradesh,Mumbai,Healthcare,Sparklers,1079,4,5,Net Banking,2024-10-29,4100.2,1210.3903756418863
+3458,Customer_14,Female,29,Single,Maharashtra,Lucknow,Student,Sparklers,463,2,1,Cash,2024-10-29,916.74,140.3680812572945
+3087,Customer_15,Female,18,Single,Bihar,Patna,Student,Sparklers,420,4,21,Net Banking,2024-10-28,1327.2,137.37909933203798
+3343,Customer_24,Female,22,Single,Bihar,Delhi,Business,Sparklers,559,3,6,Cash,2024-10-31,1576.3799999999999,464.7781274686458
+3191,Customer_29,Male,43,Single,Maharashtra,Patna,IT,Sparklers,848,2,7,Credit Card,2024-11-02,1577.28,403.9023304372072
+3021,Customer_35,Female,45,Single,Uttar Pradesh,Bhopal,Business,Sparklers,548,3,6,Debit Card,2024-11-03,1545.36,230.754278669928
+3252,Customer_36,Male,22,Married,Delhi,Mumbai,Business,Sparklers,934,1,20,Cash,2024-10-28,747.2,147.06047729749255
+3975,Customer_46,Female,50,Single,Maharashtra,Patna,Healthcare,Sparklers,141,1,14,Debit Card,2024-10-27,121.26,13.95957344503744
+3957,Customer_49,Female,40,Married,Delhi,Delhi,Healthcare,Sparklers,233,3,13,Credit Card,2024-10-27,608.13,84.63139469091472
+3646,Customer_61,Male,33,Married,Delhi,Delhi,Education,Sparklers,352,3,19,UPI,2024-10-25,855.36,242.49213815627584
+3273,Customer_65,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Sparklers,932,3,19,Net Banking,2024-10-30,2264.76,547.0398010463771
+3776,Customer_71,Male,52,Single,Bihar,Mumbai,Student,Sparklers,582,4,4,Cash,2024-10-30,2234.88,283.5056357568955
+3564,Customer_73,Female,50,Married,Uttar Pradesh,Lucknow,Student,Sparklers,1148,4,10,Net Banking,2024-10-30,4132.8,851.0755414244916
+3091,Customer_76,Male,20,Married,Uttar Pradesh,Lucknow,Business,Sparklers,1093,2,9,Credit Card,2024-10-29,1989.26,469.3143086193281
+3955,Customer_78,Male,50,Married,Bihar,Patna,Business,Sparklers,636,2,23,Debit Card,2024-11-02,979.44,151.7551809221015
+3454,Customer_79,Male,57,Single,Delhi,Delhi,Education,Sparklers,1135,3,8,Cash,2024-11-01,3132.6,818.8400193486395
+3942,Customer_83,Male,29,Single,Maharashtra,Delhi,Business,Sparklers,945,3,7,Cash,2024-10-27,2636.5499999999997,286.803878755083
+3561,Customer_88,Female,34,Married,Delhi,Delhi,Education,Sparklers,142,2,15,Net Banking,2024-10-25,241.4,64.87140578042205
+3871,Customer_89,Female,43,Single,Madhya Pradesh,Mumbai,Business,Sparklers,353,4,13,Cash,2024-11-01,1228.44,363.9112301052733
+3387,Customer_90,Female,25,Single,Bihar,Bhopal,Education,Sparklers,1183,1,7,Cash,2024-10-31,1100.1899999999998,284.5405717084945
+3001,Customer_91,Male,46,Married,Uttar Pradesh,Delhi,IT,Sparklers,762,4,17,Cash,2024-10-31,2529.8399999999997,684.9718492650669
+3565,Customer_93,Female,27,Married,Bihar,Bhopal,Education,Sparklers,386,2,19,Credit Card,2024-10-25,625.32,182.6718520655828
+3821,Customer_96,Female,58,Married,Uttar Pradesh,Lucknow,Healthcare,Sparklers,444,3,1,Net Banking,2024-10-29,1318.68,394.2376613134041
+3269,Customer_106,Male,54,Married,Bihar,Patna,Education,Sparklers,982,3,0,Net Banking,2024-10-26,2946.0,406.6114272525723
+3455,Customer_110,Female,52,Single,Bihar,Bhopal,Student,Sparklers,708,4,4,Net Banking,2024-10-26,2718.72,793.9399740818353
+3461,Customer_111,Female,53,Single,Madhya Pradesh,Delhi,Student,Sparklers,884,1,15,Cash,2024-10-28,751.4,153.5049545070628
+3251,Customer_113,Female,56,Single,Bihar,Lucknow,Healthcare,Sparklers,919,4,4,UPI,2024-10-27,3528.96,887.3994857138299
+3878,Customer_120,Male,30,Single,Maharashtra,Mumbai,Healthcare,Sparklers,582,1,11,Cash,2024-11-01,517.98,68.6530426595922
+3052,Customer_121,Female,40,Single,Delhi,Patna,Education,Sparklers,618,1,10,Debit Card,2024-10-25,556.2,118.48009015724462
+3791,Customer_122,Male,42,Married,Delhi,Lucknow,Business,Sparklers,254,1,13,UPI,2024-10-31,220.98,56.20082295761054
+3921,Customer_123,Female,52,Single,Bihar,Delhi,IT,Sparklers,191,2,22,UPI,2024-10-26,297.96000000000004,59.526190441025854
+3014,Customer_131,Male,36,Married,Bihar,Delhi,Student,Sparklers,841,3,1,Debit Card,2024-10-31,2497.77,410.46853001438615
+3471,Customer_140,Male,31,Single,Madhya Pradesh,Patna,Education,Sparklers,437,1,24,Net Banking,2024-10-31,332.12,52.40089318210242
+3839,Customer_157,Male,22,Married,Uttar Pradesh,Mumbai,Business,Sparklers,843,3,11,UPI,2024-10-28,2250.81,520.6713574024849
+3642,Customer_178,Male,55,Single,Maharashtra,Lucknow,Education,Sparklers,875,4,24,Debit Card,2024-10-25,2660.0,769.5148649960156
+3502,Customer_182,Female,39,Single,Delhi,Bhopal,IT,Sparklers,178,2,16,Net Banking,2024-11-03,299.03999999999996,58.39268753727211
+3392,Customer_187,Male,53,Married,Madhya Pradesh,Patna,Business,Sparklers,1039,4,2,Credit Card,2024-10-31,4072.88,677.3726463073584
+3690,Customer_194,Male,43,Single,Madhya Pradesh,Mumbai,Education,Sparklers,142,4,7,Credit Card,2024-11-02,528.24,96.07756656332435
+3733,Customer_202,Male,25,Single,Madhya Pradesh,Mumbai,Student,Sparklers,535,2,7,Debit Card,2024-10-26,995.0999999999999,273.8282512815647
+3406,Customer_204,Male,56,Married,Bihar,Bhopal,Student,Sparklers,598,4,22,Cash,2024-10-27,1865.76,291.9811508448196
+3654,Customer_207,Male,30,Single,Bihar,Bhopal,Education,Sparklers,541,2,24,Credit Card,2024-11-01,822.32,103.26148559624369
+3035,Customer_210,Female,50,Married,Delhi,Delhi,Student,Sparklers,619,3,14,Debit Card,2024-10-25,1597.02,292.75479188055806
+3556,Customer_220,Female,52,Married,Maharashtra,Delhi,Education,Sparklers,1062,2,11,UPI,2024-10-29,1890.3600000000001,554.5732118001154
+3027,Customer_225,Male,31,Married,Madhya Pradesh,Delhi,Student,Sparklers,218,1,12,Cash,2024-10-25,191.84,35.39943703101815
+3339,Customer_228,Female,18,Single,Delhi,Lucknow,Business,Sparklers,469,4,18,Net Banking,2024-11-02,1538.3200000000002,373.0799298264209
+3639,Customer_232,Male,28,Married,Maharashtra,Delhi,Student,Sparklers,473,2,1,Net Banking,2024-10-27,936.54,262.5946143726898
+3347,Customer_234,Male,27,Single,Uttar Pradesh,Mumbai,Student,Sparklers,259,1,13,UPI,2024-11-03,225.33,66.91662877889372
+3376,Customer_240,Female,41,Married,Delhi,Lucknow,Healthcare,Sparklers,372,3,2,UPI,2024-10-27,1093.68,228.46908684654304
+3632,Customer_243,Female,45,Single,Uttar Pradesh,Patna,IT,Sparklers,587,3,19,Net Banking,2024-11-02,1426.41,365.3411776105978
+3627,Customer_244,Male,53,Single,Bihar,Mumbai,Business,Sparklers,945,2,16,UPI,2024-10-31,1587.6,344.1195332688407
+3648,Customer_252,Female,44,Married,Madhya Pradesh,Delhi,Healthcare,Sparklers,221,3,15,Credit Card,2024-10-30,563.55,67.90957430993234
+3317,Customer_253,Male,34,Married,Madhya Pradesh,Lucknow,Education,Sparklers,138,1,24,Debit Card,2024-10-30,104.88,21.266611241201158
+3671,Customer_263,Male,35,Married,Madhya Pradesh,Bhopal,Education,Sparklers,762,1,6,Net Banking,2024-10-31,716.28,176.0589109685656
+3232,Customer_266,Male,19,Single,Maharashtra,Mumbai,Healthcare,Sparklers,355,3,22,Net Banking,2024-10-27,830.7,217.156759968414
+3691,Customer_267,Female,27,Married,Maharashtra,Mumbai,Business,Sparklers,697,3,24,Cash,2024-10-30,1589.16,220.96971131886778
+3829,Customer_269,Female,22,Married,Bihar,Bhopal,Student,Sparklers,334,1,14,Net Banking,2024-11-01,287.24,48.00414937689392
+3563,Customer_272,Female,35,Married,Maharashtra,Patna,IT,Sparklers,869,3,23,Net Banking,2024-10-25,2007.39,482.2432736915343
+3854,Customer_289,Male,34,Married,Delhi,Delhi,Business,Sparklers,1153,2,8,Cash,2024-10-25,2121.52,511.23158904544704
+3729,Customer_299,Female,27,Single,Delhi,Delhi,IT,Sparklers,401,3,22,Cash,2024-11-01,938.34,197.55943148594795

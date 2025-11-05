@@ -1,0 +1,49 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+3435,Customer_2,Female,30,Married,Bihar,Mumbai,Education,Candle Lights,769,1,6,Net Banking,2024-11-03,722.86,187.40009538171296
+3614,Customer_9,Male,43,Married,Uttar Pradesh,Patna,Education,Candle Lights,614,1,15,Credit Card,2024-10-31,521.9,153.91789326718168
+3663,Customer_19,Male,42,Single,Delhi,Patna,Education,Candle Lights,385,4,23,UPI,2024-10-29,1185.8,247.54896642075687
+3955,Customer_30,Female,33,Married,Madhya Pradesh,Mumbai,Healthcare,Candle Lights,837,2,5,Cash,2024-10-26,1590.3,447.21331560140527
+3459,Customer_33,Female,46,Married,Uttar Pradesh,Mumbai,Student,Candle Lights,213,2,23,Cash,2024-10-25,328.02,90.37915507716984
+3747,Customer_37,Male,47,Married,Delhi,Mumbai,Business,Candle Lights,869,2,14,Net Banking,2024-10-28,1494.68,285.45963315384006
+3681,Customer_43,Male,38,Married,Bihar,Bhopal,IT,Candle Lights,1319,3,23,Debit Card,2024-10-28,3046.89,351.23630500900344
+3475,Customer_44,Male,56,Married,Delhi,Delhi,Healthcare,Candle Lights,410,2,13,Cash,2024-10-27,713.4,125.92656056705826
+3686,Customer_50,Male,27,Married,Uttar Pradesh,Bhopal,Student,Candle Lights,1224,4,2,Cash,2024-11-02,4798.08,1188.9897092782496
+3600,Customer_67,Female,44,Single,Maharashtra,Delhi,Student,Candle Lights,677,3,24,Net Banking,2024-10-30,1543.56,443.73597240258374
+3339,Customer_75,Male,29,Married,Uttar Pradesh,Lucknow,Education,Candle Lights,921,4,10,Cash,2024-11-02,3315.6,683.5025550378066
+3427,Customer_80,Male,27,Single,Delhi,Mumbai,Education,Candle Lights,1233,3,16,Cash,2024-10-27,3107.16,438.0978829986685
+3476,Customer_97,Female,24,Single,Madhya Pradesh,Patna,Business,Candle Lights,1135,3,15,Debit Card,2024-10-26,2894.25,324.5200538535751
+3161,Customer_102,Male,42,Married,Maharashtra,Bhopal,IT,Candle Lights,1088,1,11,Net Banking,2024-11-02,968.32,141.42331430848114
+3862,Customer_107,Male,26,Single,Madhya Pradesh,Lucknow,Business,Candle Lights,353,2,9,Credit Card,2024-10-25,642.46,109.76657363995577
+3270,Customer_109,Female,52,Single,Bihar,Lucknow,IT,Candle Lights,1183,2,18,Cash,2024-11-01,1940.1200000000001,567.411454204132
+3719,Customer_117,Male,49,Married,Delhi,Lucknow,Business,Candle Lights,481,1,21,Credit Card,2024-10-30,379.99,103.65835221269931
+3216,Customer_124,Male,58,Married,Madhya Pradesh,Mumbai,IT,Candle Lights,1222,2,19,Cash,2024-11-02,1979.64,353.1116715806538
+3379,Customer_127,Female,37,Married,Maharashtra,Mumbai,Business,Candle Lights,1279,1,7,Net Banking,2024-11-01,1189.47,270.37572483074246
+3492,Customer_128,Female,42,Single,Delhi,Bhopal,IT,Candle Lights,289,2,16,Debit Card,2024-11-02,485.52,96.9327085924814
+3812,Customer_132,Male,53,Single,Maharashtra,Mumbai,Student,Candle Lights,499,4,2,Cash,2024-11-01,1956.08,281.3302638483114
+3418,Customer_147,Male,42,Married,Uttar Pradesh,Lucknow,Education,Candle Lights,867,2,4,Cash,2024-10-29,1664.6399999999999,450.8583908342524
+3772,Customer_150,Male,40,Married,Uttar Pradesh,Lucknow,Business,Candle Lights,254,4,23,Net Banking,2024-10-28,782.32,114.53787978918265
+3489,Customer_151,Male,33,Married,Delhi,Patna,IT,Candle Lights,191,1,11,Credit Card,2024-10-27,169.99,32.578061644055566
+3027,Customer_154,Female,56,Single,Bihar,Mumbai,IT,Candle Lights,697,1,23,Net Banking,2024-10-31,536.69,135.63005009400018
+3929,Customer_159,Male,40,Married,Delhi,Patna,Healthcare,Candle Lights,345,2,7,Net Banking,2024-10-27,641.6999999999999,112.55232445081877
+3032,Customer_160,Male,46,Married,Bihar,Patna,IT,Candle Lights,841,3,22,Cash,2024-11-01,1967.94,414.05075903109037
+3573,Customer_164,Male,26,Single,Maharashtra,Bhopal,IT,Candle Lights,164,2,15,Net Banking,2024-10-30,278.8,37.79904179697355
+3725,Customer_170,Male,57,Married,Delhi,Lucknow,Healthcare,Candle Lights,437,4,5,Net Banking,2024-11-03,1660.6,463.1887659314839
+3960,Customer_173,Female,44,Single,Maharashtra,Mumbai,Healthcare,Candle Lights,263,2,6,UPI,2024-10-26,494.44,64.65366905275931
+3766,Customer_183,Male,34,Single,Madhya Pradesh,Mumbai,Healthcare,Candle Lights,609,2,0,Debit Card,2024-10-30,1218.0,230.0473990752329
+3240,Customer_198,Female,30,Single,Uttar Pradesh,Delhi,Education,Candle Lights,492,2,13,Net Banking,2024-10-25,856.08,249.34530110943894
+3159,Customer_212,Female,23,Single,Uttar Pradesh,Mumbai,Education,Candle Lights,901,1,24,Debit Card,2024-11-01,684.76,123.3857762542087
+3085,Customer_216,Female,38,Married,Maharashtra,Mumbai,Education,Candle Lights,1044,1,24,Net Banking,2024-11-01,793.44,165.7505314788839
+3952,Customer_222,Male,37,Single,Uttar Pradesh,Patna,Healthcare,Candle Lights,680,3,19,Credit Card,2024-10-26,1652.4,375.43931508240394
+3797,Customer_229,Male,20,Married,Maharashtra,Patna,IT,Candle Lights,1323,3,10,Cash,2024-10-26,3572.1,391.24586713778905
+3230,Customer_236,Male,33,Single,Maharashtra,Delhi,Business,Candle Lights,376,4,23,Debit Card,2024-11-01,1158.08,126.32412644065269
+3224,Customer_238,Male,55,Single,Uttar Pradesh,Patna,Business,Candle Lights,465,2,21,Net Banking,2024-10-30,734.7,210.27260512188596
+3744,Customer_246,Male,25,Married,Delhi,Lucknow,Student,Candle Lights,541,2,2,Credit Card,2024-10-28,1060.36,148.5692135655496
+3709,Customer_249,Female,54,Married,Maharashtra,Bhopal,Healthcare,Candle Lights,449,1,8,Cash,2024-10-27,413.08000000000004,77.45100684866385
+3676,Customer_254,Male,26,Married,Bihar,Mumbai,Education,Candle Lights,1091,3,24,Debit Card,2024-10-27,2487.48,612.7781295417496
+3818,Customer_256,Female,37,Married,Maharashtra,Mumbai,Student,Candle Lights,1343,3,15,Cash,2024-10-25,3424.65,627.35745856525
+3471,Customer_265,Female,42,Single,Madhya Pradesh,Patna,Business,Candle Lights,1062,1,19,Credit Card,2024-10-31,860.22,257.98753395210787
+3112,Customer_268,Male,47,Single,Uttar Pradesh,Patna,Healthcare,Candle Lights,316,4,1,Debit Card,2024-10-29,1251.36,315.9641164634656
+3112,Customer_278,Female,39,Single,Bihar,Delhi,IT,Candle Lights,880,3,7,UPI,2024-10-27,2455.2,554.1062546446251
+3951,Customer_281,Male,50,Single,Bihar,Mumbai,IT,Candle Lights,1411,1,2,Cash,2024-10-25,1382.78,400.7873410128014
+3001,Customer_285,Female,18,Single,Maharashtra,Lucknow,Student,Candle Lights,622,2,5,UPI,2024-11-02,1181.8,302.71378082256496
+3996,Customer_290,Female,22,Single,Uttar Pradesh,Delhi,Student,Candle Lights,282,1,20,Net Banking,2024-10-31,225.60000000000002,29.735208168760593

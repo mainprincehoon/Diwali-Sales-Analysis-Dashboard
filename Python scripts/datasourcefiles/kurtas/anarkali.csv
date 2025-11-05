@@ -1,0 +1,67 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+2308,Customer_22,Male,33,Single,Maharashtra,Delhi,IT,Pants,3131,1,1,Cash,2024-10-29,3099.69,650.8112394577372
+2769,Customer_23,Male,56,Single,Maharashtra,Lucknow,Healthcare,Pants,2807,2,15,UPI,2024-10-30,4771.9,1332.7522938444079
+2805,Customer_27,Female,20,Married,Maharashtra,Patna,Education,Pants,4025,3,21,Debit Card,2024-11-01,9539.25,3145.206349628892
+2560,Customer_39,Female,29,Single,Bihar,Delhi,Business,Pants,1742,1,19,Debit Card,2024-11-03,1411.02,227.97693501178648
+2510,Customer_42,Female,43,Married,Maharashtra,Patna,Business,Pants,4737,2,19,Debit Card,2024-10-25,7673.9400000000005,2356.1904885496597
+2699,Customer_45,Female,53,Married,Uttar Pradesh,Mumbai,IT,Pants,4407,3,23,Credit Card,2024-11-02,10180.17,3487.2545952394357
+2782,Customer_47,Male,47,Single,Madhya Pradesh,Patna,Education,Pants,4437,1,20,UPI,2024-10-26,3549.6000000000004,792.0440768057127
+2957,Customer_51,Male,22,Single,Madhya Pradesh,Lucknow,Business,Pants,3529,4,13,Cash,2024-10-26,12280.92,3370.900427796136
+2831,Customer_56,Male,36,Single,Madhya Pradesh,Lucknow,Student,Pants,4219,2,24,Debit Card,2024-11-02,6412.88,1777.5922444952262
+2504,Customer_57,Male,49,Single,Delhi,Mumbai,Business,Pants,372,4,23,UPI,2024-11-01,1145.76,260.8129478904133
+2484,Customer_59,Female,22,Single,Bihar,Bhopal,Education,Pants,4525,1,7,Credit Card,2024-10-25,4208.25,849.9865257797302
+2166,Customer_64,Female,19,Single,Madhya Pradesh,Lucknow,Healthcare,Pants,4559,3,2,Net Banking,2024-10-27,13403.46,4396.713225888397
+2387,Customer_66,Male,49,Married,Bihar,Patna,Healthcare,Pants,1433,1,6,Cash,2024-10-27,1347.02,218.8107979416756
+2315,Customer_68,Female,37,Married,Uttar Pradesh,Mumbai,Business,Pants,3246,3,22,Credit Card,2024-10-31,7595.64,1151.2583801061603
+2013,Customer_69,Male,41,Single,Maharashtra,Lucknow,IT,Pants,2830,4,24,Net Banking,2024-10-26,8603.2,2376.0692691399076
+2241,Customer_70,Female,29,Married,Delhi,Mumbai,Education,Pants,2260,1,17,Debit Card,2024-10-30,1875.8,449.31916227697246
+2345,Customer_72,Female,50,Single,Uttar Pradesh,Patna,IT,Pants,2829,2,18,Net Banking,2024-10-27,4639.56,1584.81256613803
+2034,Customer_84,Female,48,Married,Madhya Pradesh,Mumbai,Business,Pants,2794,4,20,UPI,2024-10-27,8940.800000000001,1637.50712628321
+2080,Customer_86,Male,52,Single,Uttar Pradesh,Bhopal,Student,Pants,3019,3,22,Cash,2024-11-01,7064.46,1355.225470591138
+2931,Customer_87,Female,40,Single,Madhya Pradesh,Bhopal,Student,Pants,2184,1,8,Cash,2024-11-03,2009.2800000000002,321.4763725410639
+2401,Customer_99,Female,28,Married,Maharashtra,Mumbai,Student,Pants,4544,3,6,Credit Card,2024-11-01,12814.08,3381.737659711046
+2201,Customer_103,Female,38,Married,Uttar Pradesh,Delhi,Business,Pants,1182,4,2,Debit Card,2024-10-25,4633.44,762.7398065516904
+2957,Customer_104,Female,53,Single,Bihar,Patna,Healthcare,Pants,699,1,17,Credit Card,2024-10-28,580.17,159.2384783665975
+2295,Customer_115,Male,41,Married,Delhi,Mumbai,Education,Pants,4817,3,4,UPI,2024-10-27,13872.96,3404.1472202051773
+2187,Customer_126,Female,34,Married,Maharashtra,Patna,Business,Pants,4905,2,15,Cash,2024-10-26,8338.5,1846.1928369387892
+2040,Customer_129,Female,39,Single,Madhya Pradesh,Delhi,IT,Pants,3008,4,22,Net Banking,2024-11-01,9384.960000000001,2598.4395691026457
+2156,Customer_130,Male,30,Single,Maharashtra,Mumbai,Business,Pants,1200,3,20,Credit Card,2024-10-26,2880.0,559.9157015193526
+2856,Customer_134,Male,58,Single,Uttar Pradesh,Delhi,Education,Pants,2685,3,3,Cash,2024-10-31,7813.349999999999,1321.0800886790348
+2838,Customer_135,Female,36,Married,Madhya Pradesh,Bhopal,Student,Pants,4568,2,5,Debit Card,2024-11-01,8679.199999999999,2046.0381161090904
+2647,Customer_139,Female,45,Single,Madhya Pradesh,Delhi,Healthcare,Pants,3342,1,2,UPI,2024-10-29,3275.16,568.8970105407443
+2498,Customer_143,Female,33,Single,Maharashtra,Bhopal,IT,Pants,4578,1,19,UPI,2024-11-02,3708.1800000000003,1292.8606766182254
+2288,Customer_148,Female,38,Single,Delhi,Patna,IT,Pants,4104,3,19,UPI,2024-10-27,9972.720000000001,3000.322676999464
+2727,Customer_165,Female,27,Married,Madhya Pradesh,Patna,Student,Pants,2579,2,2,Credit Card,2024-10-29,5054.84,794.6398726904469
+2738,Customer_174,Male,19,Single,Delhi,Lucknow,Business,Pants,1155,1,1,Debit Card,2024-10-26,1143.45,345.04204147176273
+2942,Customer_176,Male,46,Single,Maharashtra,Patna,Education,Pants,1331,4,18,Credit Card,2024-10-26,4365.68,963.1130067203217
+2461,Customer_177,Female,54,Married,Delhi,Lucknow,Student,Pants,3571,1,14,UPI,2024-11-02,3071.06,1009.8224497475528
+2217,Customer_181,Male,18,Married,Delhi,Mumbai,IT,Pants,3806,4,22,Cash,2024-11-03,11874.720000000001,3634.532369173176
+2870,Customer_185,Female,42,Single,Delhi,Lucknow,Healthcare,Pants,1968,2,4,Debit Card,2024-10-30,3778.56,1013.5082637360999
+2206,Customer_188,Male,23,Married,Bihar,Lucknow,Education,Pants,4197,4,14,Credit Card,2024-11-01,14437.68,4634.58248826482
+2857,Customer_190,Male,36,Married,Uttar Pradesh,Lucknow,Business,Pants,665,4,0,Debit Card,2024-11-01,2660.0,436.85620771226627
+2742,Customer_197,Male,20,Single,Uttar Pradesh,Patna,Healthcare,Pants,2789,4,23,Debit Card,2024-10-27,8590.12,1859.2301674774035
+2484,Customer_203,Female,58,Married,Madhya Pradesh,Lucknow,IT,Pants,3994,4,0,Net Banking,2024-10-27,15976.0,4118.914914902095
+2230,Customer_205,Female,18,Married,Uttar Pradesh,Bhopal,Education,Pants,1546,2,22,Cash,2024-10-25,2411.76,566.8736657022425
+2748,Customer_206,Female,20,Single,Uttar Pradesh,Delhi,Healthcare,Pants,4019,4,22,Debit Card,2024-10-30,12539.28,1975.1148844834422
+2540,Customer_209,Female,42,Married,Delhi,Patna,Student,Pants,2676,2,24,UPI,2024-10-29,4067.52,610.1374649200293
+2524,Customer_211,Female,55,Married,Bihar,Patna,Student,Pants,3293,4,5,UPI,2024-11-03,12513.4,3184.68577999928
+2242,Customer_215,Male,33,Single,Delhi,Lucknow,Healthcare,Pants,1913,4,24,Credit Card,2024-11-02,5815.52,1226.1427476038368
+2681,Customer_219,Female,53,Single,Maharashtra,Mumbai,Education,Pants,677,4,19,Net Banking,2024-10-31,2193.48,648.9826437872275
+2573,Customer_221,Female,36,Single,Madhya Pradesh,Patna,Business,Pants,4585,2,3,Debit Card,2024-10-29,8894.9,1733.2486208944292
+2795,Customer_224,Male,58,Married,Delhi,Lucknow,Education,Pants,4047,1,6,Debit Card,2024-11-01,3804.18,1216.1395717257183
+2619,Customer_226,Male,32,Single,Uttar Pradesh,Bhopal,Student,Pants,1069,2,2,Net Banking,2024-10-28,2095.24,441.2285901468105
+2330,Customer_231,Female,40,Single,Delhi,Mumbai,Healthcare,Pants,1611,4,0,Credit Card,2024-10-27,6444.0,1444.6687713137278
+2384,Customer_239,Female,29,Married,Uttar Pradesh,Patna,Business,Pants,4883,4,3,Credit Card,2024-11-02,18946.04,3139.1914068353767
+2972,Customer_245,Female,43,Single,Delhi,Delhi,Healthcare,Pants,3659,3,19,Net Banking,2024-11-02,8891.37,3027.016743739605
+2358,Customer_248,Female,45,Married,Madhya Pradesh,Delhi,Business,Pants,4288,4,7,Net Banking,2024-10-28,15951.359999999999,4311.824497621607
+2455,Customer_250,Female,58,Single,Delhi,Patna,Healthcare,Pants,1867,3,13,Debit Card,2024-11-02,4872.87,1427.1897152755666
+2683,Customer_258,Female,45,Single,Uttar Pradesh,Lucknow,Education,Pants,601,2,18,Net Banking,2024-10-31,985.6400000000001,285.28549103708286
+2663,Customer_259,Female,46,Married,Bihar,Patna,Student,Pants,946,4,2,Net Banking,2024-10-26,3708.3199999999997,1086.0383499657612
+2509,Customer_274,Female,28,Married,Delhi,Lucknow,Student,Pants,4382,1,23,Credit Card,2024-10-29,3374.14,885.4234597010981
+2624,Customer_280,Female,30,Single,Maharashtra,Delhi,IT,Pants,2024,4,8,UPI,2024-11-03,7448.320000000001,2211.322685631454
+2112,Customer_284,Male,52,Married,Madhya Pradesh,Patna,Education,Pants,1002,1,24,Net Banking,2024-10-29,761.52,115.96700455198923
+2641,Customer_286,Female,38,Married,Madhya Pradesh,Delhi,Student,Pants,2366,1,10,Credit Card,2024-11-01,2129.4,732.6230978901332
+2565,Customer_288,Male,45,Single,Maharashtra,Lucknow,Business,Pants,2760,3,2,Credit Card,2024-10-30,8114.4,1598.4936394998317
+2735,Customer_291,Female,48,Single,Maharashtra,Lucknow,Education,Pants,661,3,8,Net Banking,2024-11-03,1824.3600000000001,473.03112228795635
+2402,Customer_294,Female,20,Single,Uttar Pradesh,Patna,Healthcare,Pants,814,1,7,UPI,2024-10-27,757.02,189.98107276569877
+2671,Customer_300,Female,36,Single,Madhya Pradesh,Bhopal,Student,Pants,1728,4,23,Credit Card,2024-11-02,5322.24,1220.446773686852

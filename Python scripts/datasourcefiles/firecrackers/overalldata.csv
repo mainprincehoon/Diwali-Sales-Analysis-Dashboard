@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Gender,Age,Marital_Status,State,City,Occupation,Product_Name,Price,Quantity_Sold,Discount(%),PaymentMode,Date,Total_Amount,Profit
+3102,Customer_1,Female,33,Married,Delhi,Mumbai,Student,Rockets,545,3,6,Net Banking,2024-10-26,1536.8999999999999,449.85039666402685
+3435,Customer_2,Female,30,Married,Bihar,Mumbai,Education,Chakri,769,3,21,Cash,2024-11-01,1822.53,371.44338030090125
+3860,Customer_3,Male,59,Single,Madhya Pradesh,Patna,Student,Rockets,732,2,16,Debit Card,2024-10-30,1229.76,289.61887576606443
+3270,Customer_4,Female,47,Married,Bihar,Patna,Healthcare,Sparklers,154,1,16,Credit Card,2024-11-02,129.35999999999999,21.0045417320256
+3106,Customer_5,Male,36,Single,Maharashtra,Mumbai,IT,Sparklers,1011,4,1,Credit Card,2024-11-01,4003.56,1020.1001843834546
+3071,Customer_6,Male,34,Married,Madhya Pradesh,Patna,Education,Rockets,1135,1,5,UPI,2024-11-03,1078.25,274.5055175665842
+3700,Customer_7,Female,36,Married,Delhi,Delhi,Healthcare,Rockets,756,1,13,Net Banking,2024-10-27,657.72,134.34536729261603
+3020,Customer_8,Male,45,Married,Madhya Pradesh,Mumbai,Healthcare,Sparklers,1079,4,5,Net Banking,2024-10-29,4100.2,1210.3903756418863
+3614,Customer_9,Male,43,Married,Uttar Pradesh,Patna,Education,Chakri,614,4,1,Net Banking,2024-10-31,2431.44,304.19756283650116
+3121,Customer_10,Male,54,Single,Madhya Pradesh,Mumbai,Student,Bombs,336,2,0,Debit Card,2024-10-29,672.0,69.47776616115968
+3466,Customer_11,Female,43,Single,Uttar Pradesh,Bhopal,Healthcare,Bombs,447,2,9,Net Banking,2024-11-01,813.5400000000001,206.66490231857358
+3214,Customer_12,Female,40,Married,Madhya Pradesh,Lucknow,Business,Rockets,726,2,20,Credit Card,2024-10-29,1161.6000000000001,303.6783744406095
+3330,Customer_13,Male,26,Married,Uttar Pradesh,Mumbai,Healthcare,Bombs,729,2,4,Debit Card,2024-10-25,1399.6799999999998,173.6183308910976
+3458,Customer_14,Female,29,Single,Maharashtra,Lucknow,Student,Sparklers,463,2,1,Cash,2024-10-29,916.74,140.3680812572945
+3087,Customer_15,Female,18,Single,Bihar,Patna,Student,Sparklers,420,4,21,Net Banking,2024-10-28,1327.2,137.37909933203798
+3372,Customer_16,Female,18,Single,Delhi,Lucknow,Business,Rockets,385,1,15,Net Banking,2024-10-30,327.25,51.92204857558796
+3099,Customer_17,Female,51,Single,Madhya Pradesh,Mumbai,Healthcare,Rockets,248,2,24,Cash,2024-10-27,376.96,95.98471215847647
+3871,Customer_18,Male,49,Married,Bihar,Bhopal,Student,Rockets,505,2,1,Net Banking,2024-10-29,999.9,203.57174633196152
+3663,Customer_19,Male,42,Single,Delhi,Patna,Education,Chakri,1077,1,9,Cash,2024-10-26,980.07,166.23860959928882
+3130,Customer_20,Female,57,Married,Delhi,Mumbai,IT,Bombs,555,2,1,Debit Card,2024-10-30,1098.9,191.59086223451328
+3661,Customer_21,Female,18,Single,Uttar Pradesh,Patna,IT,Rockets,899,1,15,Credit Card,2024-10-30,764.15,76.621874618095
+3308,Customer_22,Male,33,Single,Maharashtra,Delhi,IT,Flower Pots,1112,1,15,Cash,2024-10-29,945.1999999999999,151.19429173093218
+3769,Customer_23,Male,56,Single,Maharashtra,Lucknow,Healthcare,Flower Pots,883,4,18,UPI,2024-10-30,2896.2400000000002,664.0839331762879
+3343,Customer_24,Female,22,Single,Bihar,Delhi,Business,Sparklers,559,3,6,Cash,2024-10-31,1576.3799999999999,464.7781274686458
+3491,Customer_25,Male,39,Single,Maharashtra,Mumbai,Student,Bombs,837,4,21,Net Banking,2024-10-29,2644.92,712.5736245012512
+3413,Customer_26,Female,46,Married,Madhya Pradesh,Bhopal,Education,Rockets,608,3,11,Debit Card,2024-10-25,1623.3600000000001,169.99662436139326
+3805,Customer_27,Female,20,Married,Maharashtra,Patna,Education,Flower Pots,580,3,23,Debit Card,2024-11-01,1339.8,374.75829962867
+3385,Customer_28,Male,29,Single,Bihar,Lucknow,Healthcare,Bombs,213,3,14,Cash,2024-10-28,549.54,141.03377120882536
+3191,Customer_29,Male,43,Single,Maharashtra,Patna,IT,Sparklers,848,2,7,Credit Card,2024-11-02,1577.28,403.9023304372072
+3955,Customer_30,Female,33,Married,Madhya Pradesh,Mumbai,Healthcare,Chakri,460,4,5,UPI,2024-11-03,1748.0,334.91531734764857
+3276,Customer_31,Female,54,Single,Uttar Pradesh,Patna,Business,Bombs,440,3,9,Debit Card,2024-10-30,1201.2,215.73679157938975
+3160,Customer_32,Male,39,Single,Bihar,Lucknow,Business,Bombs,869,1,2,Net Banking,2024-10-25,851.62,136.7558185977847
+3459,Customer_33,Female,46,Married,Uttar Pradesh,Mumbai,Student,Chakri,860,2,18,Net Banking,2024-10-27,1410.4,159.5712058138475
+3313,Customer_34,Male,31,Single,Uttar Pradesh,Patna,Student,Bombs,1068,4,16,Credit Card,2024-10-27,3588.48,522.6516074379739
+3021,Customer_35,Female,45,Single,Uttar Pradesh,Bhopal,Business,Sparklers,548,3,6,Debit Card,2024-11-03,1545.36,230.754278669928
+3252,Customer_36,Male,22,Married,Delhi,Mumbai,Business,Sparklers,934,1,20,Cash,2024-10-28,747.2,147.06047729749255
+3747,Customer_37,Male,47,Married,Delhi,Mumbai,Business,Chakri,410,4,19,Net Banking,2024-10-30,1328.4,331.4210299446097
+3856,Customer_38,Male,22,Married,Uttar Pradesh,Bhopal,Healthcare,Rockets,361,4,3,Credit Card,2024-10-31,1400.68,272.7991900880872
+3560,Customer_39,Female,29,Single,Bihar,Delhi,Business,Flower Pots,505,2,13,Debit Card,2024-11-03,878.7,98.03558354584402
+3474,Customer_40,Female,33,Married,Madhya Pradesh,Lucknow,Education,Rockets,242,4,19,Debit Card,2024-10-28,784.08,228.6047654317662
+3058,Customer_41,Male,43,Married,Madhya Pradesh,Delhi,IT,Bombs,441,2,21,Debit Card,2024-10-30,696.7800000000001,201.05229021167912
+3510,Customer_42,Female,43,Married,Maharashtra,Patna,Business,Flower Pots,343,3,14,Debit Card,2024-10-25,884.9399999999999,227.4631268627505
+3681,Customer_43,Male,38,Married,Bihar,Bhopal,IT,Chakri,589,2,23,Debit Card,2024-11-01,907.0600000000001,270.5447772785684
+3475,Customer_44,Male,56,Married,Delhi,Delhi,Healthcare,Chakri,111,1,7,Net Banking,2024-10-31,103.22999999999999,21.564382242994224
+3699,Customer_45,Female,53,Married,Uttar Pradesh,Mumbai,IT,Flower Pots,660,2,20,Credit Card,2024-11-02,1056.0,308.9366755734771
+3975,Customer_46,Female,50,Single,Maharashtra,Patna,Healthcare,Sparklers,141,1,14,Debit Card,2024-10-27,121.26,13.95957344503744
+3782,Customer_47,Male,47,Single,Madhya Pradesh,Patna,Education,Flower Pots,777,2,21,UPI,2024-10-26,1227.66,212.55232548211103
+3189,Customer_48,Female,54,Married,Delhi,Delhi,Healthcare,Bombs,693,4,19,UPI,2024-10-25,2245.32,325.7426137361903
+3957,Customer_49,Female,40,Married,Delhi,Delhi,Healthcare,Sparklers,233,3,13,Credit Card,2024-10-27,608.13,84.63139469091472
+3686,Customer_50,Male,27,Married,Uttar Pradesh,Bhopal,Student,Chakri,1190,1,8,Cash,2024-10-29,1094.8,140.31021368954035
+3957,Customer_51,Male,22,Single,Madhya Pradesh,Lucknow,Business,Flower Pots,1130,2,7,Cash,2024-10-26,2101.7999999999997,471.81779836868225
+3562,Customer_52,Female,53,Single,Bihar,Delhi,Business,Rockets,1047,2,16,Cash,2024-10-27,1758.96,450.7587782770559
+3875,Customer_53,Male,51,Single,Delhi,Delhi,Education,Rockets,172,2,1,UPI,2024-10-28,340.56,73.44506058131961
+3566,Customer_54,Male,48,Single,Uttar Pradesh,Mumbai,Education,Bombs,498,4,24,Cash,2024-10-31,1513.92,195.8899570599565
+3243,Customer_55,Female,27,Single,Bihar,Patna,Business,Rockets,677,4,23,Net Banking,2024-10-27,2085.16,546.7805680228953
+3831,Customer_56,Male,36,Single,Madhya Pradesh,Lucknow,Student,Flower Pots,958,1,2,Debit Card,2024-11-02,938.84,213.29594345471895
+3504,Customer_57,Male,49,Single,Delhi,Mumbai,Business,Flower Pots,229,1,7,UPI,2024-11-01,212.97,37.83053008677325
+3130,Customer_58,Female,18,Single,Bihar,Bhopal,Student,Rockets,1030,4,11,Credit Card,2024-10-28,3666.8,861.0601935343271
+3484,Customer_59,Female,22,Single,Bihar,Bhopal,Education,Flower Pots,365,1,0,Credit Card,2024-10-25,365.0,55.473063484726794
+3818,Customer_60,Male,21,Married,Bihar,Delhi,IT,Bombs,892,3,9,Debit Card,2024-10-25,2435.1600000000003,411.6356516873524
+3646,Customer_61,Male,33,Married,Delhi,Delhi,Education,Sparklers,352,3,19,UPI,2024-10-25,855.36,242.49213815627584
+3020,Customer_62,Female,41,Married,Delhi,Bhopal,Education,Bombs,921,4,2,Cash,2024-10-25,3610.3199999999997,570.7948453831284
+3840,Customer_63,Female,33,Married,Maharashtra,Delhi,Healthcare,Bombs,263,1,5,Cash,2024-11-01,249.85,48.4703137598521
+3166,Customer_64,Female,19,Single,Madhya Pradesh,Lucknow,Healthcare,Flower Pots,194,2,6,Net Banking,2024-10-27,364.71999999999997,101.40245512621487
+3273,Customer_65,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Sparklers,932,3,19,Net Banking,2024-10-30,2264.76,547.0398010463771
+3387,Customer_66,Male,49,Married,Bihar,Patna,Healthcare,Flower Pots,435,4,22,Cash,2024-10-27,1357.2,152.60444371014694
+3600,Customer_67,Female,44,Single,Maharashtra,Delhi,Student,Chakri,921,1,24,Credit Card,2024-10-29,699.96,90.61724777470162
+3315,Customer_68,Female,37,Married,Uttar Pradesh,Mumbai,Business,Flower Pots,337,4,17,Credit Card,2024-10-31,1118.84,113.63869708385029
+3013,Customer_69,Male,41,Single,Maharashtra,Lucknow,IT,Flower Pots,480,2,10,Net Banking,2024-10-26,864.0,195.42328535159942
+3241,Customer_70,Female,29,Married,Delhi,Mumbai,Education,Flower Pots,998,3,18,Debit Card,2024-10-30,2455.0800000000004,465.322814651322
+3776,Customer_71,Male,52,Single,Bihar,Mumbai,Student,Sparklers,582,4,4,Cash,2024-10-30,2234.88,283.5056357568955
+3345,Customer_72,Female,50,Single,Uttar Pradesh,Patna,IT,Flower Pots,1001,4,18,Net Banking,2024-10-27,3283.28,957.3611881966547
+3564,Customer_73,Female,50,Married,Uttar Pradesh,Lucknow,Student,Sparklers,1148,4,10,Net Banking,2024-10-30,4132.8,851.0755414244916
+3897,Customer_74,Female,54,Single,Uttar Pradesh,Lucknow,Student,Rockets,581,2,23,Cash,2024-11-03,894.74,132.7603211949133
+3339,Customer_75,Male,29,Married,Uttar Pradesh,Lucknow,Education,Chakri,1016,4,11,Cash,2024-11-03,3616.96,723.8286185447463
+3091,Customer_76,Male,20,Married,Uttar Pradesh,Lucknow,Business,Sparklers,1093,2,9,Credit Card,2024-10-29,1989.26,469.3143086193281
+3366,Customer_77,Female,18,Married,Maharashtra,Lucknow,Healthcare,Rockets,1063,2,7,Debit Card,2024-10-26,1977.1799999999998,227.86573139859445
+3955,Customer_78,Male,50,Married,Bihar,Patna,Business,Sparklers,636,2,23,Debit Card,2024-11-02,979.44,151.7551809221015
+3454,Customer_79,Male,57,Single,Delhi,Delhi,Education,Sparklers,1135,3,8,Cash,2024-11-01,3132.6,818.8400193486395
+3427,Customer_80,Male,27,Single,Delhi,Mumbai,Education,Chakri,227,3,3,UPI,2024-10-27,660.5699999999999,126.78516468837717
+3508,Customer_81,Male,46,Single,Delhi,Lucknow,Education,Bombs,191,4,4,Net Banking,2024-11-01,733.4399999999999,153.52030781043325
+3775,Customer_82,Male,30,Married,Delhi,Delhi,IT,Bombs,642,4,20,Net Banking,2024-11-02,2054.4,383.2754389878267
+3942,Customer_83,Male,29,Single,Maharashtra,Delhi,Business,Sparklers,945,3,7,Cash,2024-10-27,2636.5499999999997,286.803878755083
+3034,Customer_84,Female,48,Married,Madhya Pradesh,Mumbai,Business,Flower Pots,1088,1,22,UPI,2024-10-27,848.64,112.99637862931542
+3205,Customer_85,Female,19,Single,Bihar,Patna,Student,Rockets,546,3,8,Credit Card,2024-10-26,1506.96,284.97868558369595
+3080,Customer_86,Male,52,Single,Uttar Pradesh,Bhopal,Student,Flower Pots,489,2,14,Cash,2024-11-01,841.08,119.29634224905999
+3931,Customer_87,Female,40,Single,Madhya Pradesh,Bhopal,Student,Flower Pots,771,3,14,Cash,2024-11-03,1989.18,218.80145684585196
+3561,Customer_88,Female,34,Married,Delhi,Delhi,Education,Sparklers,142,2,15,Net Banking,2024-10-25,241.4,64.87140578042205
+3871,Customer_89,Female,43,Single,Madhya Pradesh,Mumbai,Business,Sparklers,353,4,13,Cash,2024-11-01,1228.44,363.9112301052733
+3387,Customer_90,Female,25,Single,Bihar,Bhopal,Education,Sparklers,1183,1,7,Cash,2024-10-31,1100.1899999999998,284.5405717084945
+3001,Customer_91,Male,46,Married,Uttar Pradesh,Delhi,IT,Sparklers,762,4,17,Cash,2024-10-31,2529.8399999999997,684.9718492650669
+3389,Customer_92,Female,43,Single,Uttar Pradesh,Patna,Student,Bombs,566,2,9,Net Banking,2024-10-27,1030.1200000000001,152.865096296439
+3565,Customer_93,Female,27,Married,Bihar,Bhopal,Education,Sparklers,386,2,19,Credit Card,2024-10-25,625.32,182.6718520655828
+3105,Customer_94,Male,43,Single,Bihar,Delhi,Education,Bombs,1110,2,5,Credit Card,2024-10-28,2109.0,293.9632621384561
+3771,Customer_95,Male,51,Married,Delhi,Delhi,IT,Bombs,877,1,11,Cash,2024-11-02,780.53,226.57690197634417
+3821,Customer_96,Female,58,Married,Uttar Pradesh,Lucknow,Healthcare,Sparklers,444,3,1,Net Banking,2024-10-29,1318.68,394.2376613134041
+3476,Customer_97,Female,24,Single,Madhya Pradesh,Patna,Business,Chakri,741,4,6,Credit Card,2024-10-25,2786.16,675.2107224914822
+3702,Customer_98,Female,21,Married,Maharashtra,Lucknow,Healthcare,Rockets,481,4,15,Credit Card,2024-10-29,1635.3999999999999,484.45249179446904
+3401,Customer_99,Female,28,Married,Maharashtra,Mumbai,Student,Flower Pots,789,3,2,Credit Card,2024-11-01,2319.66,496.19372901412544
+3729,Customer_100,Female,46,Married,Bihar,Lucknow,Education,Bombs,1179,4,12,Net Banking,2024-11-01,4150.08,630.4318327046858
+3555,Customer_101,Female,53,Married,Delhi,Lucknow,IT,Rockets,556,1,2,Net Banking,2024-10-29,544.88,102.11006363629669
+3161,Customer_102,Male,42,Married,Maharashtra,Bhopal,IT,Chakri,1082,4,17,Cash,2024-11-02,3592.24,785.666666901018
+3201,Customer_103,Female,38,Married,Uttar Pradesh,Delhi,Business,Flower Pots,182,2,10,Debit Card,2024-10-25,327.6,37.54830394401002
+3957,Customer_104,Female,53,Single,Bihar,Patna,Healthcare,Flower Pots,248,3,7,Credit Card,2024-10-28,691.92,155.31435033079296
+3995,Customer_105,Male,27,Married,Madhya Pradesh,Lucknow,Business,Bombs,289,1,5,Debit Card,2024-10-27,274.55,81.3314750166176
+3269,Customer_106,Male,54,Married,Bihar,Patna,Education,Sparklers,982,3,0,Net Banking,2024-10-26,2946.0,406.6114272525723
+3862,Customer_107,Male,26,Single,Madhya Pradesh,Lucknow,Business,Chakri,362,1,0,Net Banking,2024-11-01,362.0,93.58388641927894
+3815,Customer_108,Male,41,Single,Bihar,Mumbai,IT,Bombs,499,2,22,Net Banking,2024-10-31,778.44,219.1929474059614
+3270,Customer_109,Female,52,Single,Bihar,Lucknow,IT,Chakri,863,3,7,Debit Card,2024-11-02,2407.77,695.2202768289485
+3455,Customer_110,Female,52,Single,Bihar,Bhopal,Student,Sparklers,708,4,4,Net Banking,2024-10-26,2718.72,793.9399740818353
+3461,Customer_111,Female,53,Single,Madhya Pradesh,Delhi,Student,Sparklers,884,1,15,Cash,2024-10-28,751.4,153.5049545070628
+3726,Customer_112,Female,35,Single,Madhya Pradesh,Mumbai,Education,Bombs,200,3,10,Net Banking,2024-10-30,540.0,159.54925406308237
+3251,Customer_113,Female,56,Single,Bihar,Lucknow,Healthcare,Sparklers,919,4,4,UPI,2024-10-27,3528.96,887.3994857138299
+3701,Customer_114,Female,49,Married,Maharashtra,Patna,Business,Rockets,919,3,3,Debit Card,2024-11-01,2674.29,353.90026104282896
+3295,Customer_115,Male,41,Married,Delhi,Mumbai,Education,Flower Pots,519,3,5,UPI,2024-10-27,1479.1499999999999,288.99635849641953
+3724,Customer_116,Female,40,Single,Delhi,Mumbai,Student,Bombs,223,3,13,Net Banking,2024-10-26,582.03,141.82105880035348
+3719,Customer_117,Male,49,Married,Delhi,Lucknow,Business,Chakri,521,1,21,Cash,2024-10-27,411.59000000000003,61.519560117595304
+3748,Customer_118,Male,54,Married,Madhya Pradesh,Mumbai,Student,Rockets,1186,4,18,Credit Card,2024-10-30,3890.0800000000004,887.4168626439712
+3337,Customer_119,Female,29,Married,Madhya Pradesh,Patna,Business,Bombs,867,2,8,Net Banking,2024-10-26,1595.28,372.2108824426981
+3878,Customer_120,Male,30,Single,Maharashtra,Mumbai,Healthcare,Sparklers,582,1,11,Cash,2024-11-01,517.98,68.6530426595922
+3052,Customer_121,Female,40,Single,Delhi,Patna,Education,Sparklers,618,1,10,Debit Card,2024-10-25,556.2,118.48009015724462
+3791,Customer_122,Male,42,Married,Delhi,Lucknow,Business,Sparklers,254,1,13,UPI,2024-10-31,220.98,56.20082295761054
+3921,Customer_123,Female,52,Single,Bihar,Delhi,IT,Sparklers,191,2,22,UPI,2024-10-26,297.96000000000004,59.526190441025854
+3216,Customer_124,Male,58,Married,Madhya Pradesh,Mumbai,IT,Chakri,1081,4,15,UPI,2024-11-03,3675.4,376.4367590797811
+3763,Customer_125,Female,47,Married,Delhi,Delhi,Business,Rockets,554,4,0,Debit Card,2024-10-30,2216.0,225.6058494959423
+3187,Customer_126,Female,34,Married,Maharashtra,Patna,Business,Flower Pots,697,4,12,Cash,2024-10-26,2453.44,420.53401473395735
+3379,Customer_127,Female,37,Married,Maharashtra,Mumbai,Business,Chakri,609,3,22,Debit Card,2024-10-26,1425.06,406.48242383187903
+3492,Customer_128,Female,42,Single,Delhi,Bhopal,IT,Chakri,485,3,20,UPI,2024-11-03,1164.0,169.63595429172014
+3040,Customer_129,Female,39,Single,Madhya Pradesh,Delhi,IT,Flower Pots,504,3,20,Net Banking,2024-11-01,1209.6000000000001,274.42526361183855
+3156,Customer_130,Male,30,Single,Maharashtra,Mumbai,Business,Flower Pots,345,2,12,Credit Card,2024-10-26,607.2,87.68889373699686
+3014,Customer_131,Male,36,Married,Bihar,Delhi,Student,Sparklers,841,3,1,Debit Card,2024-10-31,2497.77,410.46853001438615
+3812,Customer_132,Male,53,Single,Maharashtra,Mumbai,Student,Chakri,760,2,3,Debit Card,2024-10-27,1474.3999999999999,397.51065138168553
+3064,Customer_133,Female,29,Married,Uttar Pradesh,Lucknow,Healthcare,Bombs,749,4,5,Cash,2024-11-01,2846.2,699.5170873977445
+3856,Customer_134,Male,58,Single,Uttar Pradesh,Delhi,Education,Flower Pots,1000,3,22,Cash,2024-10-31,2340.0,278.64686178258256
+3838,Customer_135,Female,36,Married,Madhya Pradesh,Bhopal,Student,Flower Pots,164,3,4,Debit Card,2024-11-01,472.32,87.72890771046247
+3520,Customer_136,Female,29,Married,Delhi,Bhopal,IT,Rockets,1136,1,24,UPI,2024-10-31,863.36,91.37280142815511
+3343,Customer_137,Male,26,Married,Madhya Pradesh,Patna,Student,Bombs,312,2,2,Credit Card,2024-10-30,611.52,119.9667884901344
+3128,Customer_138,Male,24,Single,Madhya Pradesh,Mumbai,Healthcare,Bombs,341,4,0,Cash,2024-10-31,1364.0,317.11199839205136
+3647,Customer_139,Female,45,Single,Madhya Pradesh,Delhi,Healthcare,Flower Pots,592,1,3,UPI,2024-10-29,574.24,71.03378931500052
+3471,Customer_140,Male,31,Single,Madhya Pradesh,Patna,Education,Sparklers,437,1,24,Net Banking,2024-10-31,332.12,52.40089318210242
+3062,Customer_141,Female,48,Single,Bihar,Delhi,Student,Rockets,272,4,19,Cash,2024-10-25,881.2800000000001,158.2490922645082
+3138,Customer_142,Female,36,Married,Bihar,Mumbai,IT,Bombs,771,1,1,UPI,2024-10-25,763.29,216.70276716194323
+3498,Customer_143,Female,33,Single,Maharashtra,Bhopal,IT,Flower Pots,263,2,4,UPI,2024-11-02,504.96,150.80681051759598
+3592,Customer_144,Female,22,Single,Uttar Pradesh,Lucknow,Business,Bombs,564,2,2,Credit Card,2024-10-29,1105.44,120.47334927234273
+3391,Customer_145,Female,52,Married,Madhya Pradesh,Bhopal,IT,Rockets,1094,3,8,Credit Card,2024-10-29,3019.44,761.5075529037853
+3674,Customer_146,Male,29,Married,Maharashtra,Patna,Education,Rockets,596,1,19,Net Banking,2024-10-27,482.76000000000005,84.16670205927905
+3418,Customer_147,Male,42,Married,Uttar Pradesh,Lucknow,Education,Chakri,799,3,5,UPI,2024-10-29,2277.15,406.4522317544921
+3288,Customer_148,Female,38,Single,Delhi,Patna,IT,Flower Pots,494,1,17,UPI,2024-10-27,410.02,102.85474487434924
+3378,Customer_149,Female,53,Married,Bihar,Mumbai,IT,Rockets,802,2,5,Credit Card,2024-11-02,1523.8,432.27963946063477
+3772,Customer_150,Male,40,Married,Uttar Pradesh,Lucknow,Business,Chakri,407,2,18,Cash,2024-11-02,667.48,193.6931636517122
+3489,Customer_151,Male,33,Married,Delhi,Patna,IT,Chakri,282,2,11,Cash,2024-10-30,501.96,108.13449065755908
+3230,Customer_152,Female,56,Single,Uttar Pradesh,Mumbai,Business,Bombs,728,1,24,Debit Card,2024-10-25,553.28,94.84559900355643
+3040,Customer_153,Male,59,Married,Bihar,Bhopal,Business,Bombs,609,2,10,Credit Card,2024-10-31,1096.2,282.28226158367875
+3027,Customer_154,Female,56,Single,Bihar,Mumbai,IT,Chakri,645,1,1,Debit Card,2024-10-31,638.55,95.91038665642836
+3134,Customer_155,Male,31,Single,Maharashtra,Delhi,Healthcare,Bombs,723,3,14,Credit Card,2024-11-03,1865.34,396.97196978886274
+3200,Customer_156,Female,48,Married,Madhya Pradesh,Mumbai,Healthcare,Rockets,693,1,11,Net Banking,2024-11-03,616.77,105.9090875429392
+3839,Customer_157,Male,22,Married,Uttar Pradesh,Mumbai,Business,Sparklers,843,3,11,UPI,2024-10-28,2250.81,520.6713574024849
+3779,Customer_158,Female,52,Single,Uttar Pradesh,Delhi,IT,Rockets,653,1,8,Net Banking,2024-11-01,600.76,88.96041018198065
+3929,Customer_159,Male,40,Married,Delhi,Patna,Healthcare,Chakri,120,3,20,Credit Card,2024-10-30,288.0,39.835753674325964
+3032,Customer_160,Male,46,Married,Bihar,Patna,IT,Chakri,653,2,23,UPI,2024-10-28,1005.62,285.2419180685106
+3047,Customer_161,Female,28,Single,Uttar Pradesh,Mumbai,IT,Rockets,496,3,1,Cash,2024-10-28,1473.12,177.30580828532436
+3502,Customer_162,Male,35,Single,Bihar,Delhi,IT,Bombs,724,2,21,Cash,2024-10-26,1143.92,230.14707396322862
+3406,Customer_163,Female,29,Married,Uttar Pradesh,Delhi,Student,Bombs,204,2,2,Debit Card,2024-10-26,399.84,57.64515534798589
+3573,Customer_164,Male,26,Single,Maharashtra,Bhopal,IT,Chakri,291,3,11,Credit Card,2024-10-28,776.97,83.74648272102878
+3727,Customer_165,Female,27,Married,Madhya Pradesh,Patna,Student,Flower Pots,116,1,15,Credit Card,2024-10-29,98.6,10.570291096706928
+3804,Customer_166,Male,34,Married,Uttar Pradesh,Lucknow,Business,Bombs,492,1,20,Cash,2024-11-01,393.6,53.15345790017073
+3098,Customer_167,Female,55,Married,Bihar,Patna,Healthcare,Rockets,524,4,23,Net Banking,2024-10-30,1613.92,441.17160210886476
+3683,Customer_168,Male,24,Single,Maharashtra,Patna,Healthcare,Bombs,228,1,0,UPI,2024-10-28,228.0,35.68103072535242
+3871,Customer_169,Female,30,Married,Uttar Pradesh,Bhopal,Healthcare,Rockets,671,4,20,Net Banking,2024-10-31,2147.2000000000003,622.8851862118551
+3725,Customer_170,Male,57,Married,Delhi,Lucknow,Healthcare,Chakri,128,1,2,Net Banking,2024-11-01,125.44,27.13574008651289
+3986,Customer_171,Female,59,Married,Madhya Pradesh,Bhopal,Healthcare,Bombs,1133,1,19,Cash,2024-10-26,917.73,171.91178807529792
+3546,Customer_172,Female,26,Single,Uttar Pradesh,Lucknow,Healthcare,Rockets,341,2,1,Cash,2024-10-31,675.18,145.85087587842446
+3960,Customer_173,Female,44,Single,Maharashtra,Mumbai,Healthcare,Chakri,331,4,8,Cash,2024-10-26,1218.0800000000002,247.68399381528246
+3738,Customer_174,Male,19,Single,Delhi,Lucknow,Business,Flower Pots,888,1,18,Debit Card,2024-10-26,728.1600000000001,183.31810338718677
+3612,Customer_175,Female,22,Single,Maharashtra,Bhopal,IT,Rockets,814,4,14,Net Banking,2024-11-01,2800.16,438.2228368189083
+3942,Customer_176,Male,46,Single,Maharashtra,Patna,Education,Flower Pots,858,2,17,Credit Card,2024-10-26,1424.28,242.99652234969574
+3461,Customer_177,Female,54,Married,Delhi,Lucknow,Student,Flower Pots,901,2,10,UPI,2024-11-02,1621.8,452.1884279696852
+3642,Customer_178,Male,55,Single,Maharashtra,Lucknow,Education,Sparklers,875,4,24,Debit Card,2024-10-25,2660.0,769.5148649960156
+3768,Customer_179,Female,36,Single,Delhi,Delhi,Education,Bombs,825,2,22,Credit Card,2024-11-02,1287.0,358.44448775501854
+3004,Customer_180,Male,25,Single,Uttar Pradesh,Patna,IT,Rockets,299,3,15,Net Banking,2024-10-25,762.4499999999999,140.20662459855075
+3217,Customer_181,Male,18,Married,Delhi,Mumbai,IT,Flower Pots,1044,3,21,Cash,2024-11-03,2474.28,633.5965513559735
+3502,Customer_182,Female,39,Single,Delhi,Bhopal,IT,Sparklers,178,2,16,Net Banking,2024-11-03,299.03999999999996,58.39268753727211
+3766,Customer_183,Male,34,Single,Madhya Pradesh,Mumbai,Healthcare,Chakri,1055,3,4,UPI,2024-10-26,3038.4,606.1850173521433
+3397,Customer_184,Male,24,Married,Delhi,Patna,Business,Rockets,955,1,11,Debit Card,2024-10-30,849.95,119.7885717386477
+3870,Customer_185,Female,42,Single,Delhi,Lucknow,Healthcare,Flower Pots,566,4,10,Debit Card,2024-10-30,2037.6000000000001,444.6574211839107
+3794,Customer_186,Male,21,Married,Uttar Pradesh,Lucknow,Business,Bombs,680,1,14,UPI,2024-10-25,584.8,80.25045460123158
+3392,Customer_187,Male,53,Married,Madhya Pradesh,Patna,Business,Sparklers,1039,4,2,Credit Card,2024-10-31,4072.88,677.3726463073584
+3206,Customer_188,Male,23,Married,Bihar,Lucknow,Education,Flower Pots,548,2,0,Credit Card,2024-11-01,1096.0,297.02262019508976
+3014,Customer_189,Female,48,Married,Uttar Pradesh,Lucknow,Education,Bombs,186,1,19,Debit Card,2024-10-26,150.66,21.30560828314149
+3857,Customer_190,Male,36,Married,Uttar Pradesh,Lucknow,Business,Flower Pots,200,2,15,Debit Card,2024-11-01,340.0,38.838763391793435
+3553,Customer_191,Female,56,Single,Bihar,Bhopal,Business,Rockets,1131,2,1,Cash,2024-11-02,2239.38,254.84484454905774
+3891,Customer_192,Male,44,Married,Delhi,Bhopal,Healthcare,Rockets,944,4,1,Credit Card,2024-10-30,3738.24,1077.1996651851075
+3460,Customer_193,Male,27,Married,Maharashtra,Delhi,Healthcare,Rockets,186,4,2,UPI,2024-10-29,729.12,146.83316594534656
+3690,Customer_194,Male,43,Single,Madhya Pradesh,Mumbai,Education,Sparklers,142,4,7,Credit Card,2024-11-02,528.24,96.07756656332435
+3574,Customer_195,Female,36,Married,Maharashtra,Patna,IT,Rockets,507,1,23,Cash,2024-11-02,390.39,102.35077784793623
+3863,Customer_196,Male,56,Single,Bihar,Patna,Business,Bombs,763,3,14,Debit Card,2024-10-25,1968.54,525.9253544257934
+3742,Customer_197,Male,20,Single,Uttar Pradesh,Patna,Healthcare,Flower Pots,1140,4,6,Debit Card,2024-10-27,4286.4,713.4207288693455
+3240,Customer_198,Female,30,Single,Uttar Pradesh,Delhi,Education,Chakri,247,4,5,Cash,2024-11-02,938.5999999999999,224.06598174898082
+3563,Customer_199,Male,45,Married,Madhya Pradesh,Bhopal,Healthcare,Bombs,376,1,8,UPI,2024-10-26,345.92,87.94136089189693
+3095,Customer_200,Female,37,Married,Uttar Pradesh,Delhi,Business,Bombs,331,4,19,Debit Card,2024-10-28,1072.44,247.65871652450485
+3899,Customer_201,Female,45,Married,Uttar Pradesh,Patna,Business,Rockets,465,1,0,Net Banking,2024-10-28,465.0,60.59834195640924
+3733,Customer_202,Male,25,Single,Madhya Pradesh,Mumbai,Student,Sparklers,535,2,7,Debit Card,2024-10-26,995.0999999999999,273.8282512815647
+3484,Customer_203,Female,58,Married,Madhya Pradesh,Lucknow,IT,Flower Pots,498,4,22,Net Banking,2024-10-27,1553.76,322.9007104518202
+3406,Customer_204,Male,56,Married,Bihar,Bhopal,Student,Sparklers,598,4,22,Cash,2024-10-27,1865.76,291.9811508448196
+3230,Customer_205,Female,18,Married,Uttar Pradesh,Bhopal,Education,Flower Pots,639,2,2,Cash,2024-10-25,1252.44,231.7585577139171
+3748,Customer_206,Female,20,Single,Uttar Pradesh,Delhi,Healthcare,Flower Pots,662,2,3,Debit Card,2024-10-30,1284.28,138.07835999550176
+3654,Customer_207,Male,30,Single,Bihar,Bhopal,Education,Sparklers,541,2,24,Credit Card,2024-11-01,822.32,103.26148559624369
+3170,Customer_208,Female,45,Married,Delhi,Patna,Business,Bombs,872,4,14,Net Banking,2024-10-27,2999.68,759.2470553174834
+3540,Customer_209,Female,42,Married,Delhi,Patna,Student,Flower Pots,449,3,5,UPI,2024-10-29,1279.6499999999999,127.96797768294086
+3035,Customer_210,Female,50,Married,Delhi,Delhi,Student,Sparklers,619,3,14,Debit Card,2024-10-25,1597.02,292.75479188055806
+3524,Customer_211,Female,55,Married,Bihar,Patna,Student,Flower Pots,237,3,20,UPI,2024-11-03,568.8000000000001,116.32075820029655
+3159,Customer_212,Female,23,Single,Uttar Pradesh,Mumbai,Education,Chakri,1091,4,2,Debit Card,2024-10-31,4276.72,474.4032233413117
+3838,Customer_213,Male,49,Single,Bihar,Delhi,Business,Bombs,467,2,24,Credit Card,2024-11-03,709.84,209.12996064085615
+3698,Customer_214,Female,38,Single,Bihar,Mumbai,Healthcare,Rockets,459,4,20,Credit Card,2024-10-25,1468.8000000000002,213.30657730790367
+3242,Customer_215,Male,33,Single,Delhi,Lucknow,Healthcare,Flower Pots,1020,2,20,Credit Card,2024-11-02,1632.0,262.49046208928206
+3085,Customer_216,Female,38,Married,Maharashtra,Mumbai,Education,Chakri,428,4,13,Credit Card,2024-11-01,1489.44,239.48482709062557
+3795,Customer_217,Male,28,Married,Uttar Pradesh,Lucknow,Student,Rockets,1061,4,19,Cash,2024-10-31,3437.6400000000003,502.18190687221744
+3577,Customer_218,Male,54,Married,Delhi,Lucknow,IT,Rockets,562,2,13,Cash,2024-11-03,977.88,98.07624422835245
+3681,Customer_219,Female,53,Single,Maharashtra,Mumbai,Education,Flower Pots,1045,3,3,Net Banking,2024-10-31,3040.95,747.6752103163784
+3556,Customer_220,Female,52,Married,Maharashtra,Delhi,Education,Sparklers,1062,2,11,UPI,2024-10-29,1890.3600000000001,554.5732118001154
+3573,Customer_221,Female,36,Single,Madhya Pradesh,Patna,Business,Flower Pots,935,1,16,Debit Card,2024-10-29,785.4,113.77202035441488
+3952,Customer_222,Male,37,Single,Uttar Pradesh,Patna,Healthcare,Chakri,268,1,6,Debit Card,2024-10-29,251.92,58.598969711823635
+3645,Customer_223,Female,35,Married,Maharashtra,Lucknow,Education,Rockets,316,2,8,Cash,2024-10-25,581.44,144.41764006937507
+3795,Customer_224,Male,58,Married,Delhi,Lucknow,Education,Flower Pots,477,4,2,Debit Card,2024-11-01,1869.84,504.2679421677254
+3027,Customer_225,Male,31,Married,Madhya Pradesh,Delhi,Student,Sparklers,218,1,12,Cash,2024-10-25,191.84,35.39943703101815
+3619,Customer_226,Male,32,Single,Uttar Pradesh,Bhopal,Student,Flower Pots,289,1,14,Net Banking,2024-10-28,248.54,39.91208945757445
+3555,Customer_227,Female,48,Married,Bihar,Mumbai,IT,Bombs,866,4,17,UPI,2024-11-02,2875.12,474.5645091464594
+3339,Customer_228,Female,18,Single,Delhi,Lucknow,Business,Sparklers,469,4,18,Net Banking,2024-11-02,1538.3200000000002,373.0799298264209
+3797,Customer_229,Male,20,Married,Maharashtra,Patna,IT,Chakri,248,3,0,Credit Card,2024-10-29,744.0,195.93678461603864
+3957,Customer_230,Male,33,Single,Maharashtra,Delhi,Student,Rockets,751,4,5,Credit Card,2024-10-28,2853.7999999999997,389.0379882367585
+3330,Customer_231,Female,40,Single,Delhi,Mumbai,Healthcare,Flower Pots,869,2,22,Credit Card,2024-10-27,1355.64,236.1364936597986
+3639,Customer_232,Male,28,Married,Maharashtra,Delhi,Student,Sparklers,473,2,1,Net Banking,2024-10-27,936.54,262.5946143726898
+3505,Customer_233,Female,29,Single,Madhya Pradesh,Mumbai,Business,Bombs,880,3,23,Debit Card,2024-10-29,2032.8,531.2493173670932
+3347,Customer_234,Male,27,Single,Uttar Pradesh,Mumbai,Student,Sparklers,259,1,13,UPI,2024-11-03,225.33,66.91662877889372
+3472,Customer_235,Female,49,Married,Madhya Pradesh,Lucknow,Business,Bombs,450,1,5,Credit Card,2024-10-25,427.5,107.23822620281791
+3230,Customer_236,Male,33,Single,Maharashtra,Delhi,Business,Chakri,991,4,13,Credit Card,2024-10-29,3448.68,616.068885176195
+3189,Customer_237,Female,25,Married,Bihar,Delhi,Business,Rockets,622,2,3,Credit Card,2024-10-30,1206.68,263.21017230492987
+3224,Customer_238,Male,55,Single,Uttar Pradesh,Patna,Business,Chakri,621,1,20,UPI,2024-10-31,496.8,115.35837630201374
+3384,Customer_239,Female,29,Married,Uttar Pradesh,Patna,Business,Flower Pots,882,3,7,Credit Card,2024-11-02,2460.7799999999997,284.69050073537045
+3376,Customer_240,Female,41,Married,Delhi,Lucknow,Healthcare,Sparklers,372,3,2,UPI,2024-10-27,1093.68,228.46908684654304
+3282,Customer_241,Male,45,Single,Delhi,Lucknow,IT,Bombs,1035,2,18,Credit Card,2024-10-26,1697.4,410.54023484988153
+3957,Customer_242,Male,25,Single,Bihar,Bhopal,Education,Bombs,282,3,13,Net Banking,2024-10-27,736.02,98.23236523417208
+3632,Customer_243,Female,45,Single,Uttar Pradesh,Patna,IT,Sparklers,587,3,19,Net Banking,2024-11-02,1426.41,365.3411776105978
+3627,Customer_244,Male,53,Single,Bihar,Mumbai,Business,Sparklers,945,2,16,UPI,2024-10-31,1587.6,344.1195332688407
+3972,Customer_245,Female,43,Single,Delhi,Delhi,Healthcare,Flower Pots,223,4,24,Net Banking,2024-11-02,677.92,196.89803859202263
+3744,Customer_246,Male,25,Married,Delhi,Lucknow,Student,Chakri,1084,4,7,UPI,2024-10-26,4032.4799999999996,437.4614138146653
+3258,Customer_247,Female,45,Single,Uttar Pradesh,Delhi,Healthcare,Bombs,889,3,23,Net Banking,2024-10-29,2053.59,314.3332205645063
+3358,Customer_248,Female,45,Married,Madhya Pradesh,Delhi,Business,Flower Pots,513,4,13,Net Banking,2024-10-28,1785.24,393.3076094962436
+3709,Customer_249,Female,54,Married,Maharashtra,Bhopal,Healthcare,Chakri,785,4,5,UPI,2024-10-26,2983.0,475.2276436220582
+3455,Customer_250,Female,58,Single,Delhi,Patna,Healthcare,Flower Pots,212,3,22,Debit Card,2024-11-02,496.08000000000004,120.49030786249237
+3410,Customer_251,Female,53,Married,Delhi,Lucknow,Business,Bombs,987,4,21,Net Banking,2024-11-02,3118.92,785.3473511526603
+3648,Customer_252,Female,44,Married,Madhya Pradesh,Delhi,Healthcare,Sparklers,221,3,15,Credit Card,2024-10-30,563.55,67.90957430993234
+3317,Customer_253,Male,34,Married,Madhya Pradesh,Lucknow,Education,Sparklers,138,1,24,Debit Card,2024-10-30,104.88,21.266611241201158
+3676,Customer_254,Male,26,Married,Bihar,Mumbai,Education,Chakri,596,2,18,UPI,2024-11-01,977.44,197.22599693138434
+3224,Customer_255,Male,50,Single,Bihar,Bhopal,Healthcare,Rockets,879,2,13,Debit Card,2024-10-30,1529.46,265.9060333627723
+3818,Customer_256,Female,37,Married,Maharashtra,Mumbai,Student,Chakri,1042,4,18,Cash,2024-10-25,3417.76,979.4786556592246
+3233,Customer_257,Female,30,Single,Maharashtra,Lucknow,Business,Rockets,248,4,2,Cash,2024-10-28,972.16,258.10970878559016
+3683,Customer_258,Female,45,Single,Uttar Pradesh,Lucknow,Education,Flower Pots,1121,4,9,Net Banking,2024-10-31,4080.44,977.0282100638716
+3663,Customer_259,Female,46,Married,Bihar,Patna,Student,Flower Pots,760,2,18,Net Banking,2024-10-26,1246.4,302.70734375602024
+3974,Customer_260,Male,30,Single,Delhi,Delhi,Healthcare,Bombs,401,1,8,Credit Card,2024-11-02,368.92,70.95926395510719
+3826,Customer_261,Male,52,Single,Bihar,Delhi,Student,Rockets,337,1,19,Debit Card,2024-11-01,272.97,77.57777488474646
+3373,Customer_262,Female,23,Single,Delhi,Mumbai,IT,Bombs,746,2,12,Cash,2024-11-01,1312.96,313.69120243329473
+3671,Customer_263,Male,35,Married,Madhya Pradesh,Bhopal,Education,Sparklers,762,1,6,Net Banking,2024-10-31,716.28,176.0589109685656
+3607,Customer_264,Male,22,Single,Bihar,Delhi,Healthcare,Rockets,335,2,13,Debit Card,2024-10-28,582.9,158.74592556352871
+3471,Customer_265,Female,42,Single,Madhya Pradesh,Patna,Business,Chakri,302,1,8,Net Banking,2024-10-26,277.84000000000003,43.01361007656687
+3232,Customer_266,Male,19,Single,Maharashtra,Mumbai,Healthcare,Sparklers,355,3,22,Net Banking,2024-10-27,830.7,217.156759968414
+3691,Customer_267,Female,27,Married,Maharashtra,Mumbai,Business,Sparklers,697,3,24,Cash,2024-10-30,1589.16,220.96971131886778
+3112,Customer_268,Male,47,Single,Uttar Pradesh,Patna,Healthcare,Chakri,761,2,18,Cash,2024-10-29,1248.0400000000002,211.00411401594198
+3829,Customer_269,Female,22,Married,Bihar,Bhopal,Student,Sparklers,334,1,14,Net Banking,2024-11-01,287.24,48.00414937689392
+3496,Customer_270,Female,50,Married,Madhya Pradesh,Patna,Student,Rockets,633,4,19,UPI,2024-10-30,2050.92,606.4674907257312
+3441,Customer_271,Female,18,Married,Delhi,Bhopal,Student,Bombs,959,1,13,Net Banking,2024-10-30,834.33,226.35994037792156
+3563,Customer_272,Female,35,Married,Maharashtra,Patna,IT,Sparklers,869,3,23,Net Banking,2024-10-25,2007.39,482.2432736915343
+3267,Customer_273,Male,49,Married,Maharashtra,Patna,Business,Rockets,640,3,5,Credit Card,2024-10-28,1824.0,447.63030663729427
+3509,Customer_274,Female,28,Married,Delhi,Lucknow,Student,Flower Pots,312,1,20,Credit Card,2024-10-29,249.60000000000002,53.018673896576345
+3806,Customer_275,Female,38,Single,Madhya Pradesh,Mumbai,IT,Rockets,562,1,3,Credit Card,2024-10-27,545.14,157.77340125350761
+3385,Customer_276,Female,43,Married,Madhya Pradesh,Patna,Business,Bombs,535,4,7,UPI,2024-11-02,1990.1999999999998,396.5508339972952
+3386,Customer_277,Male,42,Single,Bihar,Patna,Healthcare,Rockets,382,4,16,UPI,2024-10-25,1283.52,226.0324181944414
+3112,Customer_278,Female,39,Single,Bihar,Delhi,IT,Chakri,187,1,8,Net Banking,2024-10-30,172.04000000000002,22.813719873142183
+3612,Customer_279,Male,44,Married,Uttar Pradesh,Mumbai,Education,Bombs,1167,1,0,Credit Card,2024-10-30,1167.0,300.20039923773095
+3624,Customer_280,Female,30,Single,Maharashtra,Delhi,IT,Flower Pots,560,1,23,UPI,2024-11-03,431.2,106.458444702199
+3951,Customer_281,Male,50,Single,Bihar,Mumbai,IT,Chakri,377,1,19,Cash,2024-10-29,305.37,54.01109962282301
+3080,Customer_282,Male,51,Single,Madhya Pradesh,Delhi,Business,Rockets,520,2,24,Net Banking,2024-10-29,790.4,83.02257487867497
+3698,Customer_283,Female,58,Single,Delhi,Patna,Healthcare,Bombs,795,1,13,Debit Card,2024-11-03,691.65,185.2235003432324
+3112,Customer_284,Male,52,Married,Madhya Pradesh,Patna,Education,Flower Pots,614,4,10,Net Banking,2024-10-29,2210.4,226.08766212537688
+3001,Customer_285,Female,18,Single,Maharashtra,Lucknow,Student,Chakri,802,3,20,Debit Card,2024-10-30,1924.8000000000002,463.3762671659995
+3641,Customer_286,Female,38,Married,Madhya Pradesh,Delhi,Student,Flower Pots,118,2,2,Credit Card,2024-11-01,231.28,68.0082128674885
+3219,Customer_287,Female,23,Single,Uttar Pradesh,Bhopal,IT,Rockets,122,1,8,Debit Card,2024-10-26,112.24000000000001,21.048621494270876
+3565,Customer_288,Male,45,Single,Maharashtra,Lucknow,Business,Flower Pots,512,3,13,Credit Card,2024-10-30,1336.32,196.4319321128383
+3854,Customer_289,Male,34,Married,Delhi,Delhi,Business,Sparklers,1153,2,8,Cash,2024-10-25,2121.52,511.23158904544704
+3996,Customer_290,Female,22,Single,Uttar Pradesh,Delhi,Student,Chakri,207,3,3,Debit Card,2024-10-28,602.37,158.6796957811856
+3735,Customer_291,Female,48,Single,Maharashtra,Lucknow,Education,Flower Pots,235,1,3,Net Banking,2024-11-03,227.95,47.70675810998906
+3224,Customer_292,Male,22,Single,Delhi,Patna,Healthcare,Rockets,461,1,7,Credit Card,2024-10-27,428.72999999999996,125.79240671211349
+3384,Customer_293,Female,55,Married,Uttar Pradesh,Delhi,Education,Rockets,228,4,1,Net Banking,2024-11-02,902.88,99.61813108210798
+3402,Customer_294,Female,20,Single,Uttar Pradesh,Patna,Healthcare,Flower Pots,614,1,8,UPI,2024-10-27,564.88,113.51778751405237
+3637,Customer_295,Female,40,Married,Maharashtra,Lucknow,Student,Rockets,548,1,13,Credit Card,2024-10-30,476.76,116.1820207850998
+3129,Customer_296,Male,54,Single,Bihar,Patna,Healthcare,Bombs,973,2,21,Debit Card,2024-10-25,1537.3400000000001,418.9683403832958
+3052,Customer_297,Male,54,Married,Uttar Pradesh,Mumbai,Business,Bombs,572,4,8,Credit Card,2024-10-30,2104.96,285.9611785682843
+3683,Customer_298,Male,27,Married,Uttar Pradesh,Bhopal,IT,Bombs,1133,2,23,Net Banking,2024-10-28,1744.82,453.65441501018125
+3729,Customer_299,Female,27,Single,Delhi,Delhi,IT,Sparklers,401,3,22,Cash,2024-11-01,938.34,197.55943148594795
+3671,Customer_300,Female,36,Single,Madhya Pradesh,Bhopal,Student,Flower Pots,330,1,15,Credit Card,2024-11-02,280.5,50.29666155963694

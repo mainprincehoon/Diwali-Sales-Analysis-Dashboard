@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/assignments/images/shopping_app-removebg-preview.ico">
+<title>Firecrackers</title>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+
+
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alan Sans", sans-serif;
+    background-color: #fff3e0;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  .h1 {
+    font-family: "Bitcount Prop Single Ink", system-ui;
+  }
+  .products {
+    display: flex;
+    overflow-x: auto;
+    padding: 40px;
+  }
+  .product {
+    flex: 0 0 auto;
+    width: 200px;
+    height: 400px;
+    margin-right: 20px;
+    background-color: #ffe0b2;
+    border-radius: 10px;
+    padding: 35px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  .product:hover {
+    transform: scale(1.05);
+  }
+  .product img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  .back:hover, .back:focus {
+    color: blue;
+    transform: translateX(2px);
+    transform: translateY(-2px);
+    transition: all 0.3s ease-in-out;
+  }
+  .back {
+    position: sticky;
+    left: 20px;
+  }
+  .all {
+    color: rgb(254, 169, 116);
+    position: sticky;
+    right: 20px;
+  }
+  .all:hover, .all:focus {
+    color: blue;
+    transform: translateX(2px);
+    transform: translateY(-2px);
+    transition: all 0.3s ease-in-out;
+  }
+</style>
+</head>
+<body>
+
+<header>
+    <a class="back" href="index.html">Go back</a>
+    <h1 class="h1">FIRECRACKERS</h1>
+    <a class="all" href="/assignments/final analysis page/firecracker/overall/overall.html">ANALYSIS OF ALL FIRECRACKERS</a>
+</header>
+<div class="products">
+  <div class="product" onclick="alert('Firecracker A clicked!')">
+    <img src="/assignments/images/sutlibam.png" alt="aalook bam" />
+    <h3>atom bomb</h3>
+    <p>Current prize:100Rs packet</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/firecracker/bomb/bomb.html">CLICK HERE</a>
+  </div>
+  <div class="product" onclick="alert('Firecracker B clicked!')">
+    <img src="/assignments/images/chakri.jpeg" alt="Firecracker B" />
+    <h3>chakri</h3>
+    <p>Current prize:110Rs packet</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/firecracker/chakri/chakri.html">CLICK HERE</a>
+  </div>
+  <div class="product" onclick="alert('Firecracker C clicked!')">
+    <img src="/assignments/images/anaar.jpg" alt="Firecracker C" />
+    <h3>anaar</h3>
+    <p>Current prize:130Rs packet</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/firecracker/anaar/anaar.html">CLICK HERE</a>
+  </div>
+  <div class="product" onclick="alert('Firecracker C clicked!')">
+    <img src="/assignments/images/rocket.png" alt="Firecracker C" />
+    <h3>rocket</h3>
+    <p>Current prize:140Rs packet</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/firecracker/rocket/rocket.html">CLICK HERE</a>
+  </div>
+  <div class="product" onclick="alert('Firecracker C clicked!')">
+    <img src="/assignments/images/phuljhari.jpg" alt="Firecracker C" />
+    <h3>sparklers</h3>
+    <p>Current prize:150Rs packet</p>
+    <p>lifetime prize analysis:-</p>
+    <a class="data" href="/assignments/final analysis page/firecracker/sparklers/sparklers.html">CLICK HERE</a>
+  </div>
+</div>
+
+</body>
+</html>
